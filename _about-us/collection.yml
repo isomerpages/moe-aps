@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - EXCO.md
       - Milestones.md
       - Example Title.md
       - School Crest.md
