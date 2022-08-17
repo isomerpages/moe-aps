@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Foundation Education/Information Communication Technology.md
-      - Foundation Education/Math.md
-      - Foundation Education/English.md
-      - Foundation Education/Foundation Education.md
       - Foundation Education/.keep
+      - Foundation Education/Foundation Education.md
+      - Foundation Education/English.md
+      - Foundation Education/Math.md
+      - Foundation Education/Information Communication Technology.md
       - Character Education/.keep
       - Character Education/Character Education.md
       - Character Education/Montfort Development Programme.md
