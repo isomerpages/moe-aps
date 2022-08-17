@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Character Education/Physical Education.md
       - Character Education/Arts Appreciation Programme.md
       - Character Education/Sexuality Education Programme.md
       - Character Education/Co Curricular Activities.md
