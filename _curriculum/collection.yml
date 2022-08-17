@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Character Education/Montfort Development Programme.md
       - Character Education/Character Education.md
       - Character Education/.keep
