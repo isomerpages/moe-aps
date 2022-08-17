@@ -4,3 +4,7 @@ permalink: /curriculum/Character-Education/permalink
 description: ""
 third_nav_title: Character Education
 ---
+Character Education
+===================
+
+![](/images/Character%20Education.jpeg)
