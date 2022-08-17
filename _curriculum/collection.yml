@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Foundation Education/Information Communication Technology.md
       - Foundation Education/Math.md
       - Foundation Education/English.md
       - Foundation Education/Foundation Education.md
