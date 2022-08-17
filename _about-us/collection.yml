@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Privacy Policy.md
       - EXCO.md
       - Milestones.md
       - Example Title.md
