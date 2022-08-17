@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Vocational Education/Industry Experiential Programme.md
-      - Vocational Education/Skills Induction Programme.md
-      - Vocational Education/ITE Skills Certificate.md
-      - Vocational Education/Vocational Education.md
       - Vocational Education/.keep
+      - Vocational Education/Vocational Education.md
+      - Vocational Education/ITE Skills Certificate.md
+      - Vocational Education/Skills Induction Programme.md
+      - Vocational Education/Industry Experiential Programme.md
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
       - Foundation Education/English.md
