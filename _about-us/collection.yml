@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Spotlight.md
       - Highlights.md
       - Newsletter.md
       - Montfortian Education Charter.md
