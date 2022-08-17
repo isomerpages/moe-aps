@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Vocational Education/.keep
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
       - Foundation Education/English.md
