@@ -2,5 +2,5 @@ collections:
   admission:
     output: true
     order:
-      - APA Annual School Fees.md
       - APS Annual School Fees.md
+      - APA Annual School Fees.md
