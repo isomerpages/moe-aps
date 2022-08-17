@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Vocational Education/Skills Induction Programme.md
       - Vocational Education/ITE Skills Certificate.md
       - Vocational Education/Vocational Education.md
       - Vocational Education/.keep
