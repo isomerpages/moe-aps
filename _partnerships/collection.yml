@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - ST Engineering.md
       - SATS.md
       - Changi Foundation.md
       - Alumni.md
