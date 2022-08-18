@@ -54,3 +54,13 @@ Due to COVID-19, special arrangement were made for this award presentation. On 2
 
 Students were thankful for the awards. 
 Thank you Changi Foundation for the continuous support and encouragement for APS students.
+
+Changi Foundation Education Awards 2018
+---------------------------------------
+
+On Wed 7 Mar 2018 Changi Foundation Education Awards were presented to award students of good conduct and performance. Ninety-nine students received the certificates from Ms Ivy Choo, Senior Manager, People Team of Changi Airport Group during the award ceremony.
+
+![](/images/Changi/IMG_1006.jpeg)
+![](/images/Changi/IMG_1012.jpeg)
+![](/images/Changi/IMG_1014.jpeg)
+![](/images/Changi/IMG_1019.jpeg)
