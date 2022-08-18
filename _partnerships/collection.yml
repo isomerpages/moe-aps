@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Temasek Foundation.md
       - ST Engineering.md
       - SATS.md
       - Changi Foundation.md
