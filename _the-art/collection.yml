@@ -2,6 +2,7 @@ collections:
   the-art:
     output: true
     order:
+      - Contact Us.md
       - Friend of APS.md
       - An Evening @ The ART.md
       - Menu.md
