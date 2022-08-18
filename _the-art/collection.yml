@@ -1,4 +1,5 @@
 collections:
   the-art:
     output: true
-    order: []
+    order:
+      - The ART.md
