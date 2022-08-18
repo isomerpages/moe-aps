@@ -2,5 +2,6 @@ collections:
   the-art:
     output: true
     order:
+      - Menu.md
       - About The ART.md
       - The ART.md
