@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Spotlight.md
-      - Highlights.md
-      - Newsletter.md
-      - Montfortian Education Charter.md
-      - Privacy Policy.md
-      - EXCO.md
-      - Milestones.md
-      - Financial Information.md
-      - School Crest.md
       - About Us.md
+      - School Crest.md
+      - Financial Information.md
+      - Milestones.md
+      - EXCO.md
+      - Montfortian Education Charter.md
+      - Newsletter.md
+      - Highlights.md
+      - Spotlight.md
+      - Privacy Policy.md
