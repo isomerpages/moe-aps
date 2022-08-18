@@ -2,10 +2,10 @@ collections:
   partnerships:
     output: true
     order:
-      - Temasek Foundation.md
-      - ST Engineering.md
-      - SATS.md
-      - Changi Foundation.md
-      - Alumni.md
-      - Parent.md
       - Partnerships.md
+      - Parent.md
+      - Alumni.md
+      - Changi Foundation.md
+      - SATS.md
+      - ST Engineering.md
+      - Temasek Foundation.md
