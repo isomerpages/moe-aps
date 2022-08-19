@@ -14,7 +14,9 @@ APS was founded on 17 Jan 1938 as St Joseph’s Trade School and was started by 
 
 Currently, APS is managed by the St Gabriel’s Foundation under the Montfort Brothers of St Gabriel, an order of the Catholic Teaching Brothers founded by St Louis Marie de Montfort.
 
-# [APS Corporate Video](https://youtu.be/IpH_2NFobZU)
+APS Corporate Video
+-------------------
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IpH_2NFobZU" title="APS Corporate Video 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Purpose
 -------
