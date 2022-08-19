@@ -10,7 +10,9 @@ links:
     collection: student
   - title: Staff
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Opal 2.0
+        url: https://tinyurl.com/y5xspy6n
   - title: The ART
     collection: the-art
   - title: Partnerships
