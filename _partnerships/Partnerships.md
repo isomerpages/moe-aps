@@ -5,9 +5,9 @@ description: ""
 ---
 Partnerships
 ============
-### 
+ 
 ### Importance of Partnership to APS
-###
+
 Assumption Pathway School (APS) aims to reinforce student learning in the 3 pillars of education:  
   
 
