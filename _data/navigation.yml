@@ -9,7 +9,8 @@ links:
   - title: Student
     collection: student
   - title: Staff
-    collection: about-us
+    url: /permalink
+    sublinks: []
   - title: The ART
     collection: the-art
   - title: Partnerships
