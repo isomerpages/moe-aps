@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Assumption Pathway School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -13,3 +13,4 @@ sections:
       image: /images/movienight.png
       alt: Image alt text
 ---
+
