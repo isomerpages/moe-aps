@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Management Committee.md
       - About Us.md
       - School Crest.md
       - Financial Information.md
       - Milestones.md
+      - School Management Committee.md
       - EXCO.md
       - Montfortian Education Charter.md
       - Newsletter.md
