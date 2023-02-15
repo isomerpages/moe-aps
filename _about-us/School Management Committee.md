@@ -6,9 +6,9 @@ description: ""
 School Management Committee
 ============
 
-<img src="/images/smc1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/smc2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/smc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/smc1.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
+<img src="/images/smc2.jpg" style="width:16%;margin-right:125px;" align = "left">
+<img src="/images/smc3.jpg" style="width:15.3%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -16,9 +16,9 @@ School Management Committee
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/smc4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/smc5.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/smc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/smc4.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
+<img src="/images/smc5.jpg" style="width:17.2%;margin-right:105px;" align = "left">
+<img src="/images/smc6.jpg" style="width:18%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
