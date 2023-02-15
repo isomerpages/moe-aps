@@ -14,7 +14,7 @@ School Management Committee
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Mr Lau Kam Yuen<br>Chairman | Mr Bryan Ghana<br>Vice-Chairman | Mr Henry Goh Poh Huat <br>Treasurer |
 
 <img src="/images/smc4.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
 <img src="/images/smc5.jpg" style="width:17.2%;margin-right:105px;" align = "left">
