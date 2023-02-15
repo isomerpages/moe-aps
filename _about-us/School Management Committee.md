@@ -24,7 +24,7 @@ School Management Committee
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Brother Dominic Yeo Koh Tuan Kiok<br>Member<br>(Supervisor of APS) | Brother John Albert Arul Devanesan<br>Member | Mdm Shanti Devi d/o Thambusamy<br>Member<br>(MOE Representative) |
 
 <img src="/images/smc7.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
 <img src="/images/smc8.jpg" style="width:19%;margin-right:85px;" align = "left">
