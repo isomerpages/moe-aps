@@ -56,7 +56,7 @@ School Management Committee
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/smc16.jpg" style="width:30%">
+<img src="/images/smc16.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
 
 <br clear="left">
 
