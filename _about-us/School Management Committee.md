@@ -26,9 +26,9 @@ School Management Committee
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/smc7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/smc8.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/smc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/smc7.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
+<img src="/images/smc8.jpg" style="width:19%;margin-right:85px;" align = "left">
+<img src="/images/smc9.jpg" style="width:21%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -36,9 +36,9 @@ School Management Committee
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/smc10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/smc11.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/smc12.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/smc10.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
+<img src="/images/smc11.jpg" style="width:19.5%;margin-right:95px;" align = "left">
+<img src="/images/smc12.jpg" style="width:17.5%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -46,9 +46,9 @@ School Management Committee
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/smc13.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
-<img src="/images/smc14.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/smc15.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/smc13.jpg" style="width:21%;margin-right:85px;margin-left:55px;" align = "left">
+<img src="/images/smc14.jpg" style="width:23.2%;margin-right:65px;" align = "left">
+<img src="/images/smc15.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -56,7 +56,7 @@ School Management Committee
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/smc16.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left">
+<img src="/images/smc16.jpg" style="width:23%">
 
 <br clear="left">
 
