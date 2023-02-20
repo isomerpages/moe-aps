@@ -34,7 +34,7 @@ School Management Committee
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Ms Alice Seow Chui Hoon<br>Member<br>(ITE Representative)  | Mr Paul Gwee Choon Guan<br>Member | Mr Neville Kiang Lai Kuong<br>Member |
 
 <img src="/images/smc10.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align = "left">
 <img src="/images/smc11.jpg" style="width:19.5%;margin-right:95px;" align = "left">
