@@ -8,16 +8,16 @@ An Evening @ The ART
 
 Every Evening at The ART features a different theme and cuisine, not only to tantalise the taste buds of the guests, but also to expand the current training scope for the students to serve in different settings.
 
-  
+|  |  |
+|---|---|
+|<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>|In addition, they also impart invaluable skills and expertise to the students in food preparations as well as engaging them in unique cooking techniques to develop their culinary skills to higher levels.|
 
-In addition, they also impart invaluable skills and expertise to the students in food preparations as well as engaging them in unique cooking techniques to develop their culinary skills to higher levels.
+For the students, this gives them real-life training as to how to serve customers in a larger setting as well to build up their interpersonal skills as well.&nbsp; &nbsp;&nbsp;
 
-For the students, this gives them real-life training as to how to serve customers in a larger setting as well to build up their interpersonal skills as well.    
+As part of the learning experience,&nbsp;guest chefs also conduct training workshops before the event for the students' hands-on learning.
 
-As part of the learning experience, guest chefs also conduct training workshops before the event for the students' hands-on learning.
-
-<center>This is a strictly by reservation event. <br>
-Should you have any enquiries, please feel free to email us at <a href="mailto:the.art.aps@gmail.com">the.art.aps@gmail.com</a></center>
+<center>This is a strictly by reservation event.&nbsp;<br>
+Should you have any enquiries,&nbsp;please feel free to email us at&nbsp;<a href="mailto:the.art.aps@gmail.com">the.art.aps@gmail.com</a></center>
 
 2022 An Evening @ The ART
 -------------------------
@@ -32,7 +32,7 @@ Should you have any enquiries, please feel free to email us at <a href="mailto
 ![](/images/ART/An%20Evening%20%20The%20ART%20on%20Sat%2020%20Nov%202021%20-%20post%20event.jpg)
 
 Our signature dinner event resumed in Sep 2021 in collaboration with Creative Eateries!
-Follow us on [Facebook](https://www.facebook.com/APStheART/) at [APStheART](https://www.facebook.com/APStheART/) to see our latest promotions!
+Follow us on&nbsp;[Facebook](https://www.facebook.com/APStheART/)&nbsp;at&nbsp;[APStheART](https://www.facebook.com/APStheART/)&nbsp;to see our latest promotions!
 
 ![](/images/ART/An%20Evening%20%20The%20ART%20on%20Sat%2018%20Sep%202021%20Post-event.jpg)
 
