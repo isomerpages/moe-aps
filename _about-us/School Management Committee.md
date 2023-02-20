@@ -44,7 +44,7 @@ School Management Committee
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Mr Loke Mun Sing<br>Member | Mr Siow Wee Loong<br>Member | Dr Roland Yeow Theng Nam<br>Member |
 
 <img src="/images/smc13.jpg" style="width:21%;margin-right:85px;margin-left:55px;" align = "left">
 <img src="/images/smc14.jpg" style="width:23.2%;margin-right:65px;" align = "left">
@@ -54,7 +54,7 @@ School Management Committee
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+|  Mr Eric Yum Heng Yee<br>Member |  Mr Suhaimi Bin Abdul Rashid<br>Member | Dr Seng Boon Kheng<br>Member |
 
 <img src="/images/smc16.jpg" style="width:23%">
 
@@ -62,4 +62,4 @@ School Management Committee
 
 |  |
 |:---:|
-|  |
+|  Mr Stephen Chin Hong Ern<br>Secretary |
