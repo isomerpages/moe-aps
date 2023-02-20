@@ -1,6 +1,6 @@
 ---
 title: Student Online Portal Password Reset
-permalink: /student/reset/permalink
+permalink: /student/reset/permalink/
 description: ""
 ---
 Student Online Portal Password Reset
@@ -12,7 +12,10 @@ Please [click here](https://go.gov.sg/student-online-portal-password-reset) or
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](/images/student-online-portal-password-reset.png)
+
+<img src="/images/studentonlineportalqr.png" style="width:25%" align=left>
+
+<br clear="left">
 
 *   Student Icon Email password
 *   SLS account
