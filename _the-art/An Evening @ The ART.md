@@ -1,6 +1,6 @@
 ---
 title: An Evening @ The ART
-permalink: /the-art/evening/permalink
+permalink: /the-art/evening/permalink/
 description: ""
 ---
 An Evening @ The ART
@@ -16,11 +16,8 @@ For the students, this gives them real-life training as to how to serve customer
 
 As part of the learning experience, guest chefs also conduct training workshops before the event for the students' hands-on learning.
 
-> > > > > > > > >   
-
-This is a strictly by reservation event. 
-
-Should you have any enquiries, please feel free to email us at [the.art.aps@gmail.com](mailto:the.art.aps@gmail.com).
+<center>This is a strictly by reservation event. <br>
+Should you have any enquiries, please feel free to email us at <a href="mailto:the.art.aps@gmail.com">the.art.aps@gmail.com</a></center>
 
 2022 An Evening @ The ART
 -------------------------
