@@ -1,20 +1,20 @@
 ---
 title: Menu
-permalink: /the-art/Menu/permalink
+permalink: /the-art/Menu/permalink/
 description: ""
 ---
 Menu
 ====
 
-[Click here for our latest menu!](https://go.gov.sg/apstheart-menu)
+<center><a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a></center>
 
-**The ART is not halal certified. All items offered contain no pork and no lard.**  
+<center><b>The ART is not halal certified. All items offered contain no pork and no lard.
 
-**The menu is revised periodically.**
+The menu is revised periodically.
 
-**Photos and menu below for illustration and reference only (subjected to changes and availability).**
+Photos and menu below for illustration and reference only (subjected to changes and availability).
 
-**Follow us on [Facebook](https://www.facebook.com/APStheART/) at [APStheART](https://www.facebook.com/APStheART/) to see our latest promotions!**
+**Follow us on <a href="https://www.facebook.com/APStheART/">Facebook</a> at <a href="https://www.facebook.com/APStheART/">APStheART</a> to see our latest promotions!** </b></center>
 
 ### **Lunch**  
 
