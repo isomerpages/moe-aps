@@ -13,7 +13,7 @@ The ART is equipped with a food preparation kitchen, baking production kitchen a
 
 At The ART, we strive to bring you upon a delightful dining experience. More importantly, when you dine with us, you are supporting our students' passion for cooking.
 
-[Click here for our latest menu!](https://go.gov.sg/apstheart-menu)
+<center><a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a></center>
 
 \*The ART is not halal-certified. All items offered contain no pork and no lard.
 
