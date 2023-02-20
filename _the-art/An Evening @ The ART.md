@@ -5,10 +5,16 @@ description: ""
 ---
 An Evening @ The ART
 ====================
-|  |  |
-|---|---|
-| <iframe allowfullscreen="true" width="360" height="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR0IKFx0P4EvQ9Mwssbekfr3vhww6XvyUHw708mX0Io8YeXWNXYm9ow_0rWUwVnkTgl9gUDiUu5A47/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe><br><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="360" height="300" allowfullscreen="true"></iframe> | <br><br>Every Evening at The ART features a different theme and cuisine, not only to tantalise the taste buds of the guests, but also to expand the current training scope for the students to serve in different settings.<br><br>In addition, they also impart invaluable skills and expertise to the students in food preparations as well as engaging them in unique cooking techniques to develop their culinary skills to higher levels.<br><br>For the students, this gives them real-life training as to how to serve customers in a larger setting as well to build up their interpersonal skills as well.<br><br>As part of the learning experience, guest chefs also conduct training workshops before the event for the students' hands-on learning.|
-|
+
+<iframe allowfullscreen="true" width="360" height="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR0IKFx0P4EvQ9Mwssbekfr3vhww6XvyUHw708mX0Io8YeXWNXYm9ow_0rWUwVnkTgl9gUDiUu5A47/embed?start=false&amp;loop=false&amp;delayms=3000" align=left></iframe>
+
+Every Evening at The ART features a different theme and cuisine, not only to tantalise the taste buds of the guests, but also to expand the current training scope for the students to serve in different settings.<br><br>In addition, they also impart invaluable skills and expertise to the students in food preparations as well as engaging them in unique cooking techniques to develop their culinary skills to higher levels.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="360" height="300" allowfullscreen="true" align=left></iframe>
+
+For the students, this gives them real-life training as to how to serve customers in a larger setting as well to build up their interpersonal skills as well.<br><br>As part of the learning experience, guest chefs also conduct training workshops before the event for the students' hands-on learning.
+
+<br clear="left">
 
 <center>This is a strictly by reservation event.<br>
 Should you have any enquiries,please feel free to email us at&nbsp;<a href="mailto:the.art.aps@gmail.com">the.art.aps@gmail.com</a></center>
