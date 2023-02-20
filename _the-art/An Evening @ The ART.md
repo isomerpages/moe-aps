@@ -5,18 +5,16 @@ description: ""
 ---
 An Evening @ The ART
 ====================
-
-Every Evening at The ART features a different theme and cuisine, not only to tantalise the taste buds of the guests, but also to expand the current training scope for the students to serve in different settings.
+|  |  |
+|---|---|
+|  | Every Evening at The ART features a different theme and cuisine, not only to tantalise the taste buds of the guests, but also to expand the current training scope for the students to serve in different settings.<br><br>In addition, they also impart invaluable skills and expertise to the students in food preparations as well as engaging them in unique cooking techniques to develop their culinary skills to higher levels.|
 
 |  |  |
 |---|---|
-|<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>|In addition, they also impart invaluable skills and expertise to the students in food preparations as well as engaging them in unique cooking techniques to develop their culinary skills to higher levels.|
+|<iframe allowfullscreen="true" height="300" width="360" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>| For the students, this gives them real-life training as to how to serve customers in a larger setting as well to build up their interpersonal skills as well.<br><br>As part of the learning experience, guest chefs also conduct training workshops before the event for the students' hands-on learning.|
+|
 
-For the students, this gives them real-life training as to how to serve customers in a larger setting as well to build up their interpersonal skills as well.&nbsp; &nbsp;&nbsp;
-
-As part of the learning experience,&nbsp;guest chefs also conduct training workshops before the event for the students' hands-on learning.
-
-<center>This is a strictly by reservation event.&nbsp;<br>
+<center>This is a strictly by reservation event.<br>
 Should you have any enquiries,&nbsp;please feel free to email us at&nbsp;<a href="mailto:the.art.aps@gmail.com">the.art.aps@gmail.com</a></center>
 
 2022 An Evening @ The ART
