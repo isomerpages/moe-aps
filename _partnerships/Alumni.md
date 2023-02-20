@@ -23,6 +23,7 @@ Some of them are pursuing their studies at ITE. Amira, who graduated from APS in
 
 Most of them are happy and excited about being back in their home school and to able to reconnect with their friends. Dr Roland Yeow, President of the Alumni gave his heartfelt appreciation to the alumni members for coming back to APS for this event. SMC Chairman Mr Gabriel Teo and Executive Director, Vocational Programme Mr Christopher Neo were present to give their ardent support. There was much fun and joy during the event and the alumni looks forward to more of these bonding sessions in the future.
 
+![](/images/alumni8.jpg)
 
 
 A joyous and happy event for bonding and friendship among the alumni members
