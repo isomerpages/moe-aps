@@ -16,3 +16,4 @@ Students who have attempted the Primary School Leaving Examination (PSLE) and ar
 *   To enroll, **[click here / scan QR code](https://go.gov.sg/apsreg2022)** below for the online form.
 *   If you are authorising someone else to attend the Registration Day on your behalf, please complete the [**Proxy Form**](https://www.aps.edu.sg/qql/slot/u176/OpenHouse/Proxy%20Form.pdf) and bring it on that day for verification.
 
+<img src="/images/apsqr.jpg" style="width:45%">
