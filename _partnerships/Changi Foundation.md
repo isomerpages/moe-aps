@@ -50,20 +50,29 @@ Ninety-five APS students were selected for Changi Foundation Education Awards ba
   
 Due to COVID-19, special arrangement were made for this award presentation. On 29 July 2020, CFEA were presented to the student awardees by APS School Leaders in class.
 
-![](/images/Changi/4BP1%20-%20FENG%20QIAO%20YING%20KELLY.jpeg)
-![](/images/Changi/3FS2%20-%20MUHAMMAD%20RAYYAN%20BIN%20ZAINAL.jpg)
-![](/images/Changi/4DP1%20-%20MUHAMMAD%20DARWISY%20BIN%20SULEIMAN.jpg)
-![](/images/Changi/4HS1.jpeg)
+<img src="/images/changifoundation1.jpg" style="width:37%;margin-left:75px;" align = "left">
+<img src="/images/changifoundation2.jpg" style="width:41%;margin-right:75px;" align = "right">
 
-Students were thankful for the awards. 
-Thank you Changi Foundation for the continuous support and encouragement for APS students.
+<br clear="left">
+
+<img src="/images/changifoundation3.jpg" style="width:26%;margin-left:65px;" align = "left">
+<img src="/images/changifoundation4.jpg" style="width:55%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<center>Students were thankful for the awards.<br>Thank you Changi Foundation for the continuous support and encouragement for APS students.</center>
 
 Changi Foundation Education Awards 2018
 ---------------------------------------
 
 On Wed 7 Mar 2018 Changi Foundation Education Awards were presented to award students of good conduct and performance. Ninety-nine students received the certificates from Ms Ivy Choo, Senior Manager, People Team of Changi Airport Group during the award ceremony.
 
-![](/images/Changi/IMG_1006.jpeg)
-![](/images/Changi/IMG_1012.jpeg)
-![](/images/Changi/IMG_1014.jpeg)
-![](/images/Changi/IMG_1019.jpeg)
+<img src="/images/changifoundation5.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/changifoundation6.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+<img src="/images/changifoundation7.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/changifoundation8.jpg" style="width:40%;margin-right:65px;" align = "right">
+
+<br clear="left">
