@@ -16,5 +16,10 @@ Since 2013, ST Engineering helped to provide Industry Experiential Programme (IE
 [Click here for ST Engineering Annual Report 2021 (Full)](https://www.stengg.com/en/sustainability/sustainability-reports/sr2021)<br>
 [Click here for ST Engineering Annual Report 2021 (Page 51 - Featuring APS)](/files/ST%20Engineering%20Annual%20Report%202021%20Page%2051%20-%20APS.pdf)
 
-The ACT (Assumption Café for Training) is nestled within ST Engineering’s office building in Jurong East. ST Engineering has helped set up this training café with APS to create authentic learning opportunities and enable its Food and Beverage stud
-------------------------
+#### The ACT (Assumption Café for Training) is nestled within ST Engineering’s office building in Jurong East. ST Engineering has helped set up this training café with APS to create authentic learning opportunities and enable its Food and Beverage stud
+
+Every year ST Engineering provides a significant learning opportunity and platform for APS students to apply their skills and knowledge learnt in a real world context. 
+
+
+
+Mr Choong Woei Liang, VP/Head Warehousing & Distribution representing ST Engineering to present the awards during APS Graduation Ceremony 2022.
