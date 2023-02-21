@@ -2,11 +2,11 @@ collections:
   partnerships:
     output: true
     order:
-      - Institute of Technical Education.md
       - Partnerships.md
       - Parent.md
       - Alumni.md
       - Changi Foundation.md
       - SATS.md
       - ST Engineering.md
+      - Institute of Technical Education.md
       - Temasek Foundation.md
