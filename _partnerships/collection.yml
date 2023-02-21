@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Institute of Technical Education.md
       - Partnerships.md
       - Parent.md
       - Alumni.md
