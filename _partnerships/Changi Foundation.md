@@ -26,8 +26,6 @@ In addition, Changi Foundation is also supporting APS for the Assumption Pathway
 Changi Foundation Education Awards 2020
 ---------------------------------------
 
-  
-
 Changi Foundation Education Award Programme has benefitted numerous APS students over the years. The Award recognises improvements in their academic progression, conduct and provides financial assistance as well.
 
 There were one hundred APS students selected for the 2020 Changi Foundation Education Award. Due to prevailing COVID situation, special arrangement were made for the award presentation in 2021.
@@ -36,10 +34,12 @@ On 22 Sep and 24 Sep 2021, the awards presented during respective level assembly
 
 Award presentation is an important platform to acknowledge and recognise APS students' achievements. it also helps to develop their self-esteem, confidence and to motivate them to continue learning.
 
-![](/images/Changi/Year%203%20Group%20Photo.jpg)
-![](/images/Changi/Year%204%20Group%20Photo.jpg)
+<img src="/images/Changi/Year%203%20Group%20Photo.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/Changi/Year%204%20Group%20Photo.jpg" style="width:40%;margin-right:65px;" align = "right">
 
-Grateful to Changi Foundation for the continuous support in benefiting APS students in many ways and helping to inspire them to achieve their best in every aspect of their school life.
+<br clear="left">
+
+<center>Grateful to Changi Foundation for the continuous support in benefiting APS students in many ways and helping to inspire them to achieve their best in every aspect of their school life.</center>
 
 Changi Foundation Education Awards 2019
 ---------------------------------------
