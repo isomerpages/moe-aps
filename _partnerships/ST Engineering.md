@@ -20,6 +20,21 @@ Since 2013, ST Engineering helped to provide Industry Experiential Programme (IE
 
 Every year ST Engineering provides a significant learning opportunity and platform for APS students to apply their skills and knowledge learnt in a real world context. 
 
-
+<img src="/images/stengineering1.jpg" style="width:45%">
 
 Mr Choong Woei Liang, VP/Head Warehousing & Distribution representing ST Engineering to present the awards during APS Graduation Ceremony 2022.
+
+<img src="/images/stengineering2.jpg" style="width:45%">
+
+<img src="/images/stengineering3.jpg" style="width:45%">
+
+#### The ACT at ST Engineering
+The ACT (Assumption Café for Training) is nestled within ST Engineering’s office building in Jurong East. ST Engineering has helped set up this training café with APS to create authentic learning opportunities and enable its Food and Beverage students to earn real work experiences beyond the familiarity of the school compound. As the first on-the-job training platform at an external non-school based premise serving ST Engineering staff and its guests/visitors, the café provides a higher tier training for students ready to meet the challenges.
+
+<img src="/images/stengineering4.jpg" style="width:29.5%;margin-left:65px;" align = "left">
+<img src="/images/stengineering5.jpg" style="width:52%;margin-right:65px;" align = "right">
+
+<br clear="left">
+
+
+
