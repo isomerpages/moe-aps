@@ -2,7 +2,7 @@ collections:
   contact-us:
     output: true
     order:
-      - Careers/Non Teaching Positions.md
-      - Careers/Teaching Positions.md
       - Careers/.keep
+      - Careers/Teaching Positions.md
+      - Careers/Non Teaching Positions.md
       - Contact Us.md
