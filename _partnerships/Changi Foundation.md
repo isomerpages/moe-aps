@@ -34,8 +34,8 @@ On 22 Sep and 24 Sep 2021, the awards presented during respective level assembly
 
 Award presentation is an important platform to acknowledge and recognise APS students' achievements. it also helps to develop their self-esteem, confidence and to motivate them to continue learning.
 
-<img src="/images/Changi/Year%203%20Group%20Photo.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/Changi/Year%204%20Group%20Photo.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/Changi/Year%203%20Group%20Photo.jpg" style="width:41%;margin-left:65px;" align = "left">
+<img src="/images/Changi/Year%204%20Group%20Photo.jpg" style="width:41%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -50,12 +50,12 @@ Ninety-five APS students were selected for Changi Foundation Education Awards ba
   
 Due to COVID-19, special arrangement were made for this award presentation. On 29 July 2020, CFEA were presented to the student awardees by APS School Leaders in class.
 
-<img src="/images/changifoundation1.jpg" style="width:37%;margin-left:75px;" align = "left">
-<img src="/images/changifoundation2.jpg" style="width:41%;margin-right:75px;" align = "right">
+<img src="/images/changifoundation1.jpg" style="width:37.5%;margin-left:75px;" align = "left">
+<img src="/images/changifoundation2.jpg" style="width:41.5%;margin-right:75px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/changifoundation3.jpg" style="width:26%;margin-left:65px;" align = "left">
+<img src="/images/changifoundation3.jpg" style="width:27%;margin-left:65px;" align = "left">
 <img src="/images/changifoundation4.jpg" style="width:55%;margin-right:65px;" align = "right">
 
 <br clear="left">
@@ -67,12 +67,12 @@ Changi Foundation Education Awards 2018
 
 On Wed 7 Mar 2018 Changi Foundation Education Awards were presented to award students of good conduct and performance. Ninety-nine students received the certificates from Ms Ivy Choo, Senior Manager, People Team of Changi Airport Group during the award ceremony.
 
-<img src="/images/changifoundation5.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/changifoundation6.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/changifoundation5.jpg" style="width:41%;margin-left:65px;" align = "left">
+<img src="/images/changifoundation6.jpg" style="width:41%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
-<img src="/images/changifoundation7.jpg" style="width:40%;margin-left:65px;" align = "left">
-<img src="/images/changifoundation8.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/changifoundation7.jpg" style="width:41%;margin-left:65px;" align = "left">
+<img src="/images/changifoundation8.jpg" style="width:41%;margin-right:65px;" align = "right">
 
 <br clear="left">
