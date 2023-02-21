@@ -16,7 +16,24 @@ links:
   - title: The ART
     collection: the-art
   - title: Partnerships
-    collection: partnerships
+    url: /partnerships/permalink
+    sublinks:
+      - title: Partnerships
+        url: /partnerships/permalink
+      - title: Parent
+        url: /partnerships/parent/permalink
+      - title: Alumni
+        url: /partnerships/alumni/permalink/
+      - title: Changi Foundation
+        url: /partnerships/changi/permalink/
+      - title: SATS
+        url: /partnerships/sats/permalink/
+      - title: ST Engineering
+        url: /partnerships/STEngineering/permalink/
+      - title: Temasek Foundation
+        url: /partnerships/temasek/permalink/
+      - title: Institute of Technical Edu
+        url: https://www.ite.edu.sg/
   - title: Contact Us
     url: /contactus/permalink
     sublinks:
