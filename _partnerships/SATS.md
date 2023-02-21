@@ -1,12 +1,13 @@
 ---
 title: SATS
-permalink: /partnerships/sats/permalink
+permalink: /partnerships/sats/permalink/
 description: ""
 ---
 SATS
 ====
+<img src="/images/SATS.jpg" style="width:25%" align=left>
 
-![](/images/SATS.jpg)
+<br clear="left">
 
 ATS is the chief ground-handling and in-flight catering service provider at Singapore Changi Airport. SATS controls about 80% of Changi airport's ground handling and catering business. SATS provides gateway services and food solutions in Asia. SATS' food solutions business comprises airline catering, food distribution and logistics, industrial catering as well as chilled and frozen food manufacturing, besides linen and laundry services.
 
@@ -19,7 +20,8 @@ They have also assisted APS with the set-up of The ART as well as to build F&B f
 Celebrating National Day together with SATS at ICC1
 ---------------------------------------------------
 ![](/images/1Ywvl2MQ_jpeg.jpg)
-![](/images/IieiGOjw_jpeg.jpg)
+
+<img src="/images/IieiGOjw_jpeg.jpg" style="width:50%;margin-right:15px;" align = "left">
 
 APS is happy to be part of the National Day celebration at SATS on Thu 8 Aug 2019.  
 
