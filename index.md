@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/APS Site.jpg
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: SGF Charity Movie 2022
       image: /images/movienight.png
