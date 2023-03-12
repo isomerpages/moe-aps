@@ -7,10 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.gif
+      background: /images/APS Site.jpg
   - infopic:
       title: SGF Charity Movie 2022
       image: /images/movienight.png
       alt: Image alt text
 ---
-
