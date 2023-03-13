@@ -12,5 +12,5 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      subtitle: Art Exhibition
+      subtitle: Storyteller Art Exhibition @ National Gallery Singapore
 ---
