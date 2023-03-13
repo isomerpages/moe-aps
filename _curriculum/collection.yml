@@ -1,0 +1,24 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Curriculum.md
+      - Character Education/.keep
+      - Character Education/Character Education.md
+      - Character Education/Montfort Development Programme.md
+      - Character Education/iSTAY Programme.md
+      - Character Education/Income OrangeAid APS Challenge.md
+      - Character Education/Co Curricular Activities.md
+      - Character Education/Sexuality Education Programme.md
+      - Character Education/Arts Appreciation Programme.md
+      - Character Education/Physical Education.md
+      - Foundation Education/.keep
+      - Foundation Education/Foundation Education.md
+      - Foundation Education/English.md
+      - Foundation Education/Math.md
+      - Foundation Education/Information Communication Technology.md
+      - Vocational Education/.keep
+      - Vocational Education/Vocational Education.md
+      - Vocational Education/ITE Skills Certificate.md
+      - Vocational Education/Skills Induction Programme.md
+      - Vocational Education/Industry Experiential Programme.md

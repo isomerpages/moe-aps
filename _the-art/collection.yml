@@ -1,0 +1,10 @@
+collections:
+  the-art:
+    output: true
+    order:
+      - The ART.md
+      - About The ART.md
+      - Menu.md
+      - An Evening @ The ART.md
+      - Friend of APS.md
+      - Contact Us.md

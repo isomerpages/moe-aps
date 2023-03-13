@@ -1,15 +1,47 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/aps_logo.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Admission
+    collection: admission
+  - title: Student
+    collection: student
+  - title: Staff
+    url: https://tinyurl.com/y5xspy6n
+    sublinks:
+      - title: Opal 2.0
+        url: https://tinyurl.com/y5xspy6n
+  - title: The ART
+    collection: the-art
+  - title: Partnerships
+    url: /partnerships/permalink
+    sublinks:
+      - title: Partnerships
+        url: /partnerships/permalink
+      - title: Parent
+        url: /partnerships/parent/permalink
+      - title: Alumni
+        url: /partnerships/alumni/permalink/
+      - title: Changi Foundation
+        url: /partnerships/changi/permalink/
+      - title: SATS
+        url: /partnerships/sats/permalink/
+      - title: ST Engineering
+        url: /partnerships/STEngineering/permalink/
+      - title: Temasek Foundation
+        url: /partnerships/temasek/permalink/
+      - title: Institute of Technical Edu
+        url: https://www.ite.edu.sg/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contactus/permalink
+    sublinks:
+      - title: Contact Us
+        url: /contactus/permalink
+      - title: Careers
+        url: /contactus/careers/
+      - title: Instagram
+        url: https://www.instagram.com/assumptionpathway/
+      - title: Facebook
+        url: https://www.facebook.com/assumptionpathwayschool/
