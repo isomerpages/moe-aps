@@ -9,8 +9,7 @@ sections:
   - hero:
       background: /images/APS Site.jpg
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Storyteller Art Exhibition @ National Gallery Singapore
+          description: ""
           url: ""
-      subtitle: Storyteller Art Exhibition @ National Gallery Singapore
 ---
