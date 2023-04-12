@@ -20,7 +20,7 @@ Photos and menu below for illustration and reference only (subjected to changes 
 
 **Available on Monday to Friday** (Excluding school and public holidays)  
   
-<p><a href="[https://go.gov.sg/apstheart-onlinebooking](https://book.chope.co/booking?rid=theart2210sg&source=rest_theart)">
+<p><a href="https://book.chope.co/booking?rid=theart2210sg&source=rest_theart">
 <img style="width:35%" src="/images/chopeebutton.jpeg" align=left>
 </a></p>
 
