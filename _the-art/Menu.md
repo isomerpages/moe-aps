@@ -67,5 +67,3 @@ Click the links below to see reviews from popular bloggers:
 *   [https://www.misstamchiak.com/the-art-porridge-buffet/](https://www.misstamchiak.com/the-art-porridge-buffet/)&nbsp;  
     
 *   [http://gninethree.com/2017/05/09/12-nett-porridge-buffet-every-last-friday-of-the-month-the-art-aps/](http://gninethree.com/2017/05/09/12-nett-porridge-buffet-every-last-friday-of-the-month-the-art-aps/)
-
-[Test](https://book.chope.co/booking?rid=theart2210sg&amp;source=rest_theart)
