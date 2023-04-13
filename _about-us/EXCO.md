@@ -9,28 +9,30 @@ Exco
 | Name | Designation |
 |---|---|
 | Mr Stephen Chin | Principal |
-| Mr Neo Teng Long Christopher | Executive Director, Vocational Programme |
-| Mr Shashidaran S/O Kaneson | Vice Principal, Instructional Programme |
+| Mr Shashidaran S/O Kaneson | Vice-Principal, Instructional Programme |
+| Dr Wee Siew Fong Jasmine | Vice-Principal, Vocational Education |
 | Mr Wong Mun Fei Alvin | Vice Principal, Administration |
 | Mr Tan Boon Hong Mark | HOD Facility Services |
 | Ms Lin Hui Sayan Anvie | Subject Head, Hospitality Services |
 | Mr Eng Choon Hian McDonald  | Subject Head, Culinary Skills  |
-| Ms Goh Lee Lian Alice | Subject Head, Baking Practices / Hairdressing |
-| Ms Ang Bee Bee Jolene | Subject Head (Covering), Assumption Pathway Academy |
+| Ms Goh Lee Lian Alice | Head of Department, Baking Practices and Hairdressing |
+| Mr Go Tien Lye Daniel | Head of Department, Assumption Pathway Academy |
 | Ms Tan Lai Xiang Tania | HOD, English Language |
 | Mr Ang Chin Hwee Mark | Subject Head, Mathematics |
 | Mr Suhaimi Bin Sukiyar | HOD, Aesthetics |
-| Mr Shashidaran S/O Kaneson | HOD (Covering), Info-Communication Technology |
+| Mr Tan Soh Meng Freddie| HOD, Info-Communication Technology |
+| Mr Manimaran Shyam Luke | Subject Head, Info-Communication Technology |
 | Mr Ow Kok Meng | HOD, Physical Education / Discipline Master |
-| Mr Varatha Rajan S/O Subramaniam  | Subject Head, Physical Education |
-| Mr Ng Yan Kit | HOD, Student Development |
+| Ms Leong Mei Ern Audrey | HOD, Student Support |
 | Mr Peh Yee Peng Gabriel | Subject Head, Character & Citizenship Education |
-| Mr Muhamad Alfian Bin Tajuddin | Year Head - 1 |
-| Mr Mohamed Izam Bin Mohamed Hani | Year Head - 2 |
+| Mr Fong Yu Keong Christopher     | Year Head - 1 |
+| Mr Muhamad Alfian Bin Tajuddin | Year Head - 2 |
+| Mr Mohamed Izam Bin Mohamed Hani | Year Head - 3 |
 | Ms Leong Mei Ern Audrey | Year Head - 3 |
-| Mr Fong Yu Keong Christopher     | Year Head - 4 |
+| Mr Shukor Bin Kassim     | Year Head - 4 |
 | Mr Mui Chee Yin Casey | School Staff Developer |
 | Mr Ang Ghim Phong Kelvin | HOD, Administration |
 | Ms Lee Ee Sang Serene | HOD, Finance |
-|  | Operations Manager |
+| Ms Choo Geok Hua | Head of Department, Human Resource |
+| Mr Mohammad Azlan Bin Abd Rahim | Operations Manager |
 |
