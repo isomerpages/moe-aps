@@ -21,7 +21,7 @@ Exco
 | Mr Ang Chin Hwee Mark | Subject Head, Mathematics |
 | Mr Suhaimi Bin Sukiyar | HOD, Aesthetics |
 | Mr Tan Soh Meng Freddie| HOD, Info-Communication Technology |
-| Mr Shyam Luke | Subject Head, Info-Communication Technology |
+| Mr Manimaran Shyam Luke | Subject Head, Info-Communication Technology |
 | Mr Ow Kok Meng | HOD, Physical Education / Discipline Master |
 | Ms Leong Mei Ern Audrey | HOD, Student Support |
 | Mr Peh Yee Peng Gabriel | Subject Head, Character & Citizenship Education |
