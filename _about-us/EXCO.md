@@ -10,7 +10,7 @@ Exco
 |---|---|
 | Mr Stephen Chin | Principal |
 | Mr Shashidaran S/O Kaneson | Vice-Principal, Instructional Programme |
-| Dr Wee Siew Fong Jasmine | Vice-Principal, Vocational Programme |
+| Dr Wee Siew Fong Jasmine | Vice-Principal, Vocational Education |
 | Mr Wong Mun Fei Alvin | Vice Principal, Administration |
 | Mr Tan Boon Hong Mark | HOD Facility Services |
 | Ms Lin Hui Sayan Anvie | Subject Head, Hospitality Services |
