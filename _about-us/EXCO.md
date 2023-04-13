@@ -8,7 +8,7 @@ Exco
 
 | Name | Designation |
 |---|---|
-| Mr Stephen Chin | Principal |
+| Mr Stephen Chin Hong Ern | Principal |
 | Mr Shashidaran S/O Kaneson | Vice-Principal, Instructional Programme |
 | Dr Wee Siew Fong Jasmine | Vice-Principal, Vocational Education |
 | Mr Wong Mun Fei Alvin | Vice-Principal, Administration |
