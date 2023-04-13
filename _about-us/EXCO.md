@@ -28,7 +28,6 @@ Exco
 | Mr Fong Yu Keong Christopher     | Year Head - 1 |
 | Mr Muhamad Alfian Bin Tajuddin | Year Head - 2 |
 | Mr Mohamed Izam Bin Mohamed Hani | Year Head - 3 |
-| Ms Leong Mei Ern Audrey | Year Head - 3 |
 | Mr Shukor Bin Kassim     | Year Head - 4 |
 | Mr Mui Chee Yin Casey | School Staff Developer |
 | Mr Ang Ghim Phong Kelvin | HOD, Administration |
