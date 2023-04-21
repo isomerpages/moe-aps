@@ -28,13 +28,9 @@ Learning and Behavioral Support / Special Educational Needs (SEN) Support
 Our Education Psychologist (EP) and SEN Officers aim to create an inclusive school environment for our students. They work collaboratively with key stakeholders such as parents, teachers and external agencies to provide support for our students with SEN. They plan and coordinate various levels of support, design customized intervention for selected students to equip them with skills to succeed in the real world. 
 
 Some of the key interventions provided by our SEN Officers include:
-1)	Learning Support
-•	Occupation Therapy
-•	Literacy and Numeracy Support
-2)	Social Behavioural Support
-•	Social Skills workshops
-3)	Support for Hearing Loss, Visual and Physical Impairment 
-•	Application for Assistive Technology Devices
+1)	Learning Support (Occupation Therapy, Literacy and Numeracy Support)
+2)	Social Behavioural Support (Social Skills workshops)
+3)	Support for Hearing Loss, Visual and Physical Impairment (Application for Assistive Technology Devices)
 4)	Transition Support
 5)	Collaboration with VWOs for itinerant school-based educational support services
 
@@ -46,8 +42,4 @@ Our Discipline belief is aligned to our Core Belief and MOE’s Discipline Philo
 
 Our school embarks on a positive and proactive approach to discipline where teachers focus on promoting positive student behavior through the teaching of values and skills, and where timely reinforcement through corrective guidance is used to address student’s actions.
 
-[undefined](https://docs.google.com/document/d/1_xFqI-SGLCLm1KENe6Be2I150dI_kCTD5IftFmH6Dd0/edit?usp=sharing)
-
-
-
-        
+[School Rules and Student Expectations](https://docs.google.com/document/d/1_xFqI-SGLCLm1KENe6Be2I150dI_kCTD5IftFmH6Dd0/edit?usp=sharing)
