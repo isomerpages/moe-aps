@@ -10,10 +10,10 @@ The school is committed to enhancing student achievement by providing a range of
 
 **Student Support Team in APS**
 The Student Support team in APS is a student-focused structure put in place to:
-•	look at each student holistically, taking into consideration his/her academic and non-academic needs.
-•	co-ordinate the support available for students in the school.
-•	provide assistance to teachers and students, focused on both prevention and intervention strategies.
-•	facilitate connections to and collaborations with the community and other non-school support services.
+* look at each student holistically, taking into consideration his/her academic and non-academic needs.
+* co-ordinate the support available for students in the school.
+* provide assistance to teachers and students, focused on both prevention and intervention strategies.
+* facilitate connections to and collaborations with the community and other non-school support services.
 
 **Counselling Support**
 We have one School Counsellor attached to each level and they play a fundamental role in supporting the social, mental and emotional well-being of our students. They journey alongside our students, equipping them with skills and competencies to cope and overcome challenges. 
