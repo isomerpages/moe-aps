@@ -5,7 +5,6 @@ description: ""
 ---
 Student Support
 ==========
-Student Support Department
 The school is committed to enhancing student achievement by providing a range of support that caters for the learning, social emotional and behavioral needs of our students.
 
 **Student Support Team in APS**
@@ -24,8 +23,8 @@ Some of the key interventions provided by our Counsellors include:
 * Customised lessons that suit the needs of students
 * Collaboration with stakeholders
 
-**Learning and Behavioral Support / Special Educational Needs (SEN) Support 
-**
+**Learning and Behavioral Support / Special Educational Needs (SEN) Support**
+
 Our Education Psychologist (EP) and SEN Officers aim to create an inclusive school environment for our students. They work collaboratively with key stakeholders such as parents, teachers and external agencies to provide support for our students with SEN. They plan and coordinate various levels of support, design customized intervention for selected students to equip them with skills to succeed in the real world. 
 
 Some of the key interventions provided by our SEN Officers include:
@@ -35,7 +34,7 @@ Some of the key interventions provided by our SEN Officers include:
 4. Transition Support
 5. Collaboration with VWOs for itinerant school-based educational support services
 
-**Student Management Needs Support**
+**Student Management Support**
 Our Discipline belief is aligned to our Core Belief and MOE’s Discipline Philosophy. 
 * All can Learn 
 * Every Student can Succeed
