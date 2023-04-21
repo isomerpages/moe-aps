@@ -8,6 +8,7 @@ Student Support
 The school is committed to enhancing student achievement by providing a range of support that caters for the learning, social emotional and behavioral needs of our students.
 
 **Student Support Team in APS**
+
 The Student Support team in APS is a student-focused structure put in place to:
 * look at each student holistically, taking into consideration his/her academic and non-academic needs.
 * co-ordinate the support available for students in the school.
@@ -15,6 +16,7 @@ The Student Support team in APS is a student-focused structure put in place to:
 * facilitate connections to and collaborations with the community and other non-school support services.
 
 **Counselling Support**
+
 We have one School Counsellor attached to each level and they play a fundamental role in supporting the social, mental and emotional well-being of our students. They journey alongside our students, equipping them with skills and competencies to cope and overcome challenges. 
 
 Some of the key interventions provided by our Counsellors include:
@@ -35,6 +37,7 @@ Some of the key interventions provided by our SEN Officers include:
 5. Collaboration with VWOs for itinerant school-based educational support services
 
 **Student Management Support**
+
 Our Discipline belief is aligned to our Core Belief and MOE’s Discipline Philosophy. 
 * All can Learn 
 * Every Student can Succeed
