@@ -19,12 +19,13 @@ The Student Support team in APS is a student-focused structure put in place to:
 We have one School Counsellor attached to each level and they play a fundamental role in supporting the social, mental and emotional well-being of our students. They journey alongside our students, equipping them with skills and competencies to cope and overcome challenges. 
 
 Some of the key interventions provided by our Counsellors include:
-•	Counselling sessions
-•	Psychoeducation on mental, emotional and social well-being
-•	Customised lessons that suit the needs of students
-•	Collaboration with stakeholders
+* Counselling sessions
+* Psychoeducation on mental, emotional and social well-being
+* Customised lessons that suit the needs of students
+* Collaboration with stakeholders
 
-**Learning and Behavioral Support / Special Educational Needs (SEN) Support **
+**Learning and Behavioral Support / Special Educational Needs (SEN) Support 
+**
 Our Education Psychologist (EP) and SEN Officers aim to create an inclusive school environment for our students. They work collaboratively with key stakeholders such as parents, teachers and external agencies to provide support for our students with SEN. They plan and coordinate various levels of support, design customized intervention for selected students to equip them with skills to succeed in the real world. 
 
 Some of the key interventions provided by our SEN Officers include:
