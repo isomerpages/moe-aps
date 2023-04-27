@@ -1,9 +1,9 @@
 ---
 title: Curriculum
-permalink: /curriculum/permalink
+permalink: /curriculum/permalink/
 description: ""
 ---
 Curriculum
 ==========
 
-![](/images/Curriculum.jpeg)
+![](/images/aps%20curriculum.jpg)
