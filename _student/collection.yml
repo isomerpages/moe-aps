@@ -2,7 +2,6 @@ collections:
   student:
     output: true
     order:
-      - Sexuality Education(SEd).md
       - Student Learning Space (SLS).md
       - Student Support.md
       - PDLP.md
