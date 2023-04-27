@@ -2,7 +2,6 @@ collections:
   student:
     output: true
     order:
-      - Student Learning Space (SLS).md
       - Student Support.md
       - PDLP.md
       - Student Online Portal Password Reset.md
