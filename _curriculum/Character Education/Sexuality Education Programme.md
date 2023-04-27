@@ -252,9 +252,8 @@ You may click&nbsp;[here](http://go.gov.sg/moe-sexuallity-education)&nbsp;for mo
 **Information for Parents**<br>
 10\. Parents may opt their children out of Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents are the start of the year and is also downloadable&nbsp;[here.](/files/2022%20Annex%20A%20Opt%20Out.pdf) The completed form is to be submitted to the school office by&nbsp;**17 February 2023**.
+11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents are the start of the year and is also downloadable&nbsp;[here.](/files/annex%20a%20-%20sed%20parents%20opt-out%20form%20(sec)%202023.pdf) The completed form is to be submitted to the school office by&nbsp;**17 February 2023**.
 
-12\. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here ](/files/2022%20Annex%20B%20eTeens.pdf). The completed form  is to be submitted to the school office by&nbsp;**17 February**&nbsp;**2023**.
+12\. Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here.](/files/annex%20b%20-%20eteens%20parents%20opt-out%20form%20(sec)%202023.pdf) The completed form  is to be submitted to the school office by&nbsp;**17 February**&nbsp;**2023**.
 
 13\. Parents can contact the school at 6279 3000 or email at aps@schools.gov.sg for discussion or to seek clarification about the school's Sexuality Education programme.
-
