@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Assumption Pathway School
 locations:
   - address:
-      - "30 "
-      - Cashew Road
+      - 30 Cashew Road
       - Singapore 679697
+      - ""
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.30pm
