@@ -1,14 +1,16 @@
 ---
 title: PDLP
-permalink: /student/pdlp/permalink
+permalink: /student/pdlp/permalink/
 description: ""
 ---
 PDLP
 ====
 
-1. [APS PLD Initiative](/files/APS%20PLD%20Initiative.pdf)
-2. [Student Briefing PDLP Slides](/files/Student%20Briefing%20PDLP%202022.pdf)
-3. [Parent Briefing PDLP Slides](/files/Parent%20Briefing%20PDLP%202022.pdf)
-4. [Student Handbook PDLP](/files/PDLP%20Student%20Handbook%202021%20V1.pdf)
-5. [PDLP Student Device Information](/files/PDLP%20Student%20Device%20Information.pdf)
-6. [Acceptable Use Policy PDLP](/files/PDLP%20Acceptable%20Use%20Policy.pdf)
+1. [APS PLD Initiatives](/files/aps%20infographic%20on%20the%20pld%20initiative_2023.pdf)
+2. [Student's Engagement Slides](/files/aps%20student%20engagement%20deck_2023.pdf)
+3. [Student's PLD Handbook](/files/PDLP%20Student%20Handbook%202021%20V1.pdf)
+4. [Student Device Information Kit](/files/aps%20student%20device%20information%20kit%202023.pdf)
+5. [Acceptable Use Policy PDLP](/files/PDLP%20Acceptable%20Use%20Policy.pdf)
+6. [Parent's Engagement Slides](/files/aps%20parent%20engagement%20deck_2023.pdf)
+7. [Parent's Handbook (I) on Learning with PLD](/files/parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf)
+8. [Parent's Handbook (II) on Learning with PLD](/files/parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf)
