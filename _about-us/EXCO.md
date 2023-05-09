@@ -3,7 +3,7 @@ title: EXCO
 permalink: /about-us/exco/permalink/
 description: ""
 ---
-Exco
+ExCo
 ============
 
 | Name | Designation |
@@ -22,7 +22,7 @@ Exco
 | Mr Suhaimi Bin Sukiyar | Head of Department, Aesthetics |
 | Mr Tan Soh Meng Freddie| Head of Department, Information and Communications Technology |
 | Mr Manimaran Shyam Luke | Subject Head, Information and Communications Technology |
-| Mr Ow Kok Meng | Head of Department, Physical Education / Discipline Master |
+| Mr Ow Kok Meng | Head of Department, Physical Education |
 | Ms Leong Mei Ern Audrey | Head of Department, Student Support |
 | Mr Peh Yee Peng Gabriel | Subject Head, Character & Citizenship Education |
 | Mr Fong Yu Keong Christopher     | Year Head - 1 |
