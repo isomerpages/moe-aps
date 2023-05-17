@@ -11,4 +11,5 @@ sections:
         - title: School Calendar
           description: ""
           url: https://calendar.google.com/calendar/embed?src=c_shb69o5g3diif4s0i8uq5ucric%40group.calendar.google.com&ctz=Asia%2FSingapore
+      background: /images/15th anniversary website 2.jpg
 ---
