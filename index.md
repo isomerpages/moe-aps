@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/15th anniversary.jpg
+      background: /images/15th anniversary website.jpg
       key_highlights:
         - title: School Calendar
           description: ""
