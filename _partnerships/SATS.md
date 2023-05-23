@@ -47,6 +47,3 @@ During annual School Graduation Ceremony, SATS awards are presented to students 
 ![](/images/8_sats%20best%20progress%20award_hs.jpg)
 
 ![](/images/9_sats%20character%20award_hs.jpg)
-
-
-
