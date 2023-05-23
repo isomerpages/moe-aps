@@ -17,7 +17,6 @@ Since 2013, ST Engineering has been supporting APS Industry Experiential Program
 ![](/images/1_st%20engineering%20acheivement%20award.jpg)
 
 #### The ACT at ST Engineering
-<br>
 The ACT (Assumption Café for Training) is located at ST Engineering’s office building in Jurong East. ST Engineering has helped set up this training café with APS to create authentic learning opportunities and enable APS students to earn real work experiences beyond the familiarity of the school compound. As the first on-the-job training platform at an external non-school based premise serving ST Engineering staff, guests and visitors, The ACT provides a higher tier training for students to be work ready.
 
 
