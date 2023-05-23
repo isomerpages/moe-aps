@@ -12,20 +12,9 @@ ST Engineering
 
 ST Engineering is a global technology, defence and engineering group with a diverse portfolio of businesses across the aerospace, smart city, defence and public security segments. The Group harnesses technology and innovation to solve real-world problems, enabling a more secure and sustainable world.
 
-Since 2013, ST Engineering has been supporting APS' Industry Experiential Programme (IEP) for students to gain industry knowledge. IEP is a significant platform that provides learning opportunity and prepares students to be work ready. ST Engineering has also been contributing through awards and funding enrichment and innovation projects. 
+Since 2013, ST Engineering has been supporting APS Industry Experiential Programme (IEP), a two-week attachment for students to gain industry knowledge. IEP is a significant platform that provides learning opportunity and prepares students to be work ready. ST Engineering has also been contributing through awards and funding enrichment and innovation projects. 
 
-
-
-<img src="/images/stengineering1.jpg" style="width:45%">
-<center>APS students are attached to ST Engineering for their 2-week IEP</center>
-
-Mr Choong Woei Liang, VP/Head Warehousing &amp; Distribution representing ST Engineering to present the awards during APS Graduation Ceremony 2022.
-
-<img src="/images/stengineering2.jpg" style="width:45%">
-<center>Muhd Nuraqmal (Student of APS, 2021 Graduating Cohort) receiving award</center>
-
-<img src="/images/stengineering3.jpg" style="width:45%">
-<center>Nor Shafika (Student of APS, 2021 Graduating Cohort) receiving award</center>
+![](/images/1_st%20engineering%20acheivement%20award.jpg)
 
 #### The ACT at ST Engineering
 <br>
