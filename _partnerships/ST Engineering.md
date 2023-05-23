@@ -14,6 +14,8 @@ ST Engineering is a global technology, defence and engineering group with a dive
 
 Since 2013, ST Engineering has been supporting APS Industry Experiential Programme (IEP), a two-week attachment for students to gain industry knowledge. IEP is a significant platform that provides learning opportunity and prepares students to be work ready. 
 
+![](/images/stengineering1.jpg)
+
 ST Engineering has also been funding enrichment and innovation projects, and contributing through awards to encourage students.
 
 
