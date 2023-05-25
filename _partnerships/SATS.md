@@ -11,7 +11,7 @@ SATS
 
 SATS is the chief ground-handling and in-flight catering service provider at Singapore Changi Airport. SATS controls about 80% of Changi airport's ground handling and catering business. SATS provides gateway services and food solutions in Asia. SATS' food solutions business comprises airline catering, food distribution and logistics, industrial catering as well as chilled and frozen food manufacturing, besides linen and laundry services.
 
-Since 2009, SATS has been a strong collaborative partner with APS. The scope of collaboration spans across Industrial Experiential Programmes (IEP) for APS students to gain useful working experience as well as insight on how to better improve our F&amp;B programmes.
+SATS is a strong collaborative partner and has been sharing culinary expertise with APS since 2009. The scope of collaboration spans across Industrial Experiential Programmes (IEP) for APS students to gain useful working experience as well as insight on how to better improve our F&amp;B programmes.
 
 They have also assisted APS with the set-up of The ART as well as to build F&amp;B facilities in order to support APS initiatives as well as to extend the training scope for APS students. In addition, SATS also supports APS for the academic awards and bursaries that are given to the students.&nbsp;
 
