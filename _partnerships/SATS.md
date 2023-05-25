@@ -13,22 +13,9 @@ SATS is Asia's preeminent provider of food solutions and a global leader in gate
 
 SATS is a strong collaborative partner and has been sharing culinary expertise with APS since 2009. The scope of collaboration spans across Industrial Experiential Programmes (IEP) for APS students to gain useful working experience as well as insight on how to better improve our F&amp;B programmes.
 
-They have also assisted with the set-up of APS training restaurant, The ART (Assumption Restaurant for Training) as well as to build F&amp;B facilities in order to support the school' initiatives to extend students' training scope. In addition, SATS also sponsor awards to APS students in the F&amp;B related courses.
+They have also assisted with the set-up of APS training restaurant, [The ART](https://www.aps.edu.sg/the-art/permalink/) (Assumption Restaurant for Training) as well as to build F&amp;B facilities in order to support the school's initiatives and students' training. 
 
-[Click here for more information about SATS Foundation](https://www.sats.com.sg/sustainability/sats-foundation)
-
-#### Celebrating National Day together
----------------------------------------------------
-
-
-![](/images/aps%20dance%20group%202.jpg)
-
-APS Dance Group was invited to perform during SATS National Day celebration. APS students were grateful for the opportunity given to perform beyond school events
-
-#### APS Graduation Ceremony
-----------------------------
-
-During annual School Graduation Ceremony, SATS awards are presented to students who have worked hard and proven themselves. This requires the support and effort from the teachers as well as assistance from SATS to help implement programmes in the best interests of the students.
+In addition, SATS also sponsor awards to APS students in the F&amp;B related courses. The awards are presented during the annual School Graduation Ceremony.
 
 ![](/images/1_sats%20achievement%20award_bp.jpg)
 
@@ -47,3 +34,18 @@ During annual School Graduation Ceremony, SATS awards are presented to students 
 ![](/images/8_sats%20best%20progress%20award_hs.jpg)
 
 ![](/images/9_sats%20character%20award_hs.jpg)
+
+
+[Click here for more information about SATS Foundation](https://www.sats.com.sg/sustainability/sats-foundation)
+
+#### Celebrating National Day together
+---------------------------------------------------
+
+
+![](/images/aps%20dance%20group%202.jpg)
+
+APS Dance Group was invited to perform during SATS National Day celebration. APS students were grateful for the opportunity given to perform beyond school-based events.
+
+#### APS Graduation Ceremony
+----------------------------
+
