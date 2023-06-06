@@ -6,25 +6,30 @@ description: ""
 Menu
 ====
 
-<center><a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a></center>
+#### **<a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a>**
 
-<center><b>The ART is not halal certified. All items offered contain no pork and no lard.
+The ART is not halal certified. All items offered contain no pork and no lard.
+<br>
+Menu is revised periodically, subject to changes and availability.
+<br>Photos and menu below for illustration and reference only. 
 
-The menu is revised periodically.
+**Follow us on <a href="https://www.facebook.com/APStheART/">Facebook</a> at <a href="https://www.instagram.com/apstheart/">Instagram</a>to see our latest promotions!**
 
-Photos and menu below for illustration and reference only (subjected to changes and availability).
-
-**Follow us on&nbsp;<a href="https://www.facebook.com/APStheART/">Facebook</a>&nbsp;at&nbsp;<a href="https://www.facebook.com/APStheART/">APStheART</a>&nbsp;to see our latest promotions!** </b></center>
-
-### **Lunch**  
-
-**Available on Monday to Friday**&nbsp;(Excluding school and public holidays)  
-  
+<br>
 <p><a href="https://book.chope.co/booking?rid=theart2210sg&amp;source=rest_theart">
 <img style="width:35%" src="/images/chopeebutton.jpeg" align="left">
 </a></p>
-
 <br clear="left">
+
+### **<a href="https://sites.google.com/view/the-art-menu/breakfast/">Breakfast</a>**  
+**Available on Monday to Friday, 8.30am to 11.30am** (Last order 11.15am)
+<br>(Except last Friday of each month, public and school holidays) 
+
+![](/images/ART/american%20breakfast.jpeg)
+
+### **<a href="https://sites.google.com/view/the-art-menu/lunch/">Lunch</a>**  
+**Available on Monday to Friday, 12.00pm to 3.00pm** (Last order 2.30pm)
+<br>(Except public and school holidays)  
 
 3-Course Set Lunch at nett price inclusive of: <br>
 ~ Soup served with bread <br>
@@ -33,29 +38,19 @@ Photos and menu below for illustration and reference only (subjected to changes 
 
 ![](/images/Fish%20N%20Chips.jpg)
 
-**Friday Dinner (Western)**
 
-**Available on**&nbsp;2nd Friday&nbsp;**of the month**&nbsp;(Excluding school and public holidays)  
-**By**&nbsp;**reservation only&nbsp;[(Click here for reservation)](https://go.gov.sg/apstheart-onlinebooking)**  
-From $16.50 nett onwards  
-~ Appetiser&nbsp;/ Soup  
-~ Main Course  
-~ Dessert comes with complimentary Freshly Brewed Coffee or Fine English Tea
+### **<a href="https://sites.google.com/view/the-art-menu/porridge-dinner/">Porridge Dinner</a>**
+**Available on last Friday of the month**
+<br>(Except public and school holidays)  
 
-![](/images/Seared%20Salmon.jpg)
-
-**Teochew Porridge Buffet Dinner**
-
-**Available on&nbsp;last Friday&nbsp;of the month**&nbsp;(excluding school and public holidays).
-
-<center><b>By reservation only</b><br><a href="https://go.gov.sg/apstheart-onlinebooking-porridgebuffet">Click here for Teochew Porridge Buffet Dinner reservation</a></center>
+<b>By reservation only<br><a href="https://go.gov.sg/apstheart-onlinebooking-porridgebuffet">Click here for Teochew Porridge Buffet Dinner reservation</a></b>
 
 ![](/images/porridge.jpg)
 ~ Free-flow porridge and selected condiments served to your table upon request<br>
 ~ Pre-set mains include all-time favourite dishes to go with porridge<br>
 ~ Desserts and Fragrant Chinese Tea are included too
 
-Click the links below to see reviews from popular bloggers:
+Reviews from popular bloggers in the links below:
 *   [https://rubbisheatrubbishgrow.com/2017/02/22/assumption-pathway-school/](https://rubbisheatrubbishgrow.com/2017/02/22/assumption-pathway-school/)  
     
 *   [http://www.pinkypiggu.com/2017/03/12-nett-porridge-buffet-dinner-art.html](http://www.pinkypiggu.com/2017/03/12-nett-porridge-buffet-dinner-art.html)  
