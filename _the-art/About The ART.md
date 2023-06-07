@@ -12,11 +12,10 @@ It is a casual dining restaurant that gives APS students an authentic working en
 The ART is equipped with a food preparation kitchen, baking production kitchen as well as a coffee and cake counter. For the comfort of our guests, we also provide air-conditioned and al fresco dining.  
 
 At The ART, we strive to bring you upon a delightful dining experience. More importantly, when you dine with us, you are supporting our students' passion for cooking.
+<br> 
+##### <center><a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a></center>
 
-<center><a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a></center>
-
-\*The ART is not halal-certified. All items offered contain no pork and no lard.
 
 <img src="/images/abttheart1.jpg" style="width:65%">
-
+<br>
 <img src="/images/abttheart2.jpg" style="width:65%">
