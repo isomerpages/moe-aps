@@ -49,48 +49,17 @@ Due to COVID-19 pandemic, no event was held in Year 2020.
 2019 An Evening @ The ART Series
 --------------------------------
 
-![](/images/ART/Post%20Write-up%20An%20Evening%20at%20The%20ART%20with%20on%20Sat%209%20Nov%202019.jpg)
+![](/images/ART/eta201911.jpg)
 
-![](/images/ART/An%20Evening%20@%20The%20ART%20-%20Hawker%20Fiesta%20(Post%20Write-up).jpg)
+![](/images/ART/eta201908.jpg)
 
-![](/images/ART/Post%20Write%20Up%20for%20An%20Evening%20at%20The%20ART%20Holiday%20Inn%20May%2019.jpg)
+![](/images/ART/eta201905.jpg)
 
-![](/images/ART/Post%20Write%20up%20Chef%20Immanuel%202%20Mar%202019%20vers%205.jpg)
+![](/images/ART/eta201903.jpg)
 
-2018 An Evening @ The ART Series
---------------------------------
 
-![](/images/ART/Post%20Write-up.jpg)
 
-2017 An Evening @ The ART Series
---------------------------------
-
-![](/images/ART/An%20Evening%20at%20The%20ART%20on%20Sat%2011%20Nov%202017%20-%20Post%20Write-up.jpg)
-
-![](/images/ART/An%20Evening%20@%20The%20ART%20-%20Hawker%20Fiesta%20(Post%20Write-up).jpg)
-
-![](/images/ART/An%20Evening%20@%20The%20ART%20with%20Chef%20Elvin%20on%20Sat%2013%20May%202017%20-%20Post%20Write%20Up.jpg)
-
-![](/images/ART/An%20Evening%20at%20The%20ART%20with%20Chef%20Kelvin%20Loke%20(Sat%2025%20Mar%202017)%20-%20Post%20Writeup.jpg)
-
-Previous Evening @ The ART Collaborations
+Previous Evening at The ART Collaborations
 -----------------------------------------
 
-![](/images/ART/An-Evening-at-The-ART-on-Sat-5-Nov-2016.jpg)
-
-![](/images/ART/art1.jpg)
-
-![](/images/ART/LavishDinePoster.jpg)
-
-![](/images/ART/Poster.jpg)
-
-![](/images/ART/art6.jpg)
-
-![](/images/ART/menu4.jpg)
-
-![](/images/ART/menu3.jpg)
-
-![](/images/ART/art5.jpg)
-
-![](/images/ART/menu2.jpg)
-![](/images/ART/art7.jpg)
+Click here to see more
