@@ -18,7 +18,7 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 
 2023 An Evening at The ART
 -------------------------
-
+#### [Check out upcoming events here!](https://www.eventbrite.sg/e/an-evening-at-the-art-satsuki-omakase-tickets-621551887427)
 
 
 
