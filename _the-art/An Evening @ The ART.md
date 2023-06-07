@@ -25,24 +25,25 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 
 2022 An Evening @ The ART
 -------------------------
+![](/images/ART/eta202211.jpg)
 
-![](/images/ART/An%20Evening%20%20The%20ART%20on%20Sat%2014%20May%202022%20-%20Post%20Event.jpg)
+![](/images/eta202208.jpg)
 
-![](/images/ART/An%20Evening%20%20The%20ART%20on%20Sat%2012%20Mar%202022%20Post-event.jpg)
+![](/images/ART/eta202205.jpg)
+
+![](/images/ART/eta202203.jpg)
 
 2021 An Evening @ The ART Series
 --------------------------------
 
-![](/images/ART/An%20Evening%20%20The%20ART%20on%20Sat%2020%20Nov%202021%20-%20post%20event.jpg)
+![](/images/ART/eta202111.jpg)
 
-Our signature dinner event resumed in Sep 2021 in collaboration with Creative Eateries!
-Follow us on&nbsp;[Facebook](https://www.facebook.com/APStheART/)&nbsp;at&nbsp;[APStheART](https://www.facebook.com/APStheART/)&nbsp;to see our latest promotions!
+![](/images/ART/eta202109.jpg)
 
-![](/images/ART/An%20Evening%20%20The%20ART%20on%20Sat%2018%20Sep%202021%20Post-event.jpg)
 
 \-----------------------------------------------------------------------------------------------------------
 
-Due to COVID-19 pandemic, no event was held in Year 2020.
+*No event held in Year 2020 due to COVID-19 restrictions.*
 
 \-----------------------------------------------------------------------------------------------------------
 
