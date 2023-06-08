@@ -17,8 +17,9 @@ Menu is revised periodically, subject to changes and availability.
 
 <br>
 <p><a href="https://book.chope.co/booking?rid=theart2210sg&amp;source=rest_theart">
-<img style="width:35%" src="/images/chopeebutton.jpeg" align="left">
+<img style="width:35%" src="/images/ART/chopeebutton.jpeg" align="left">
 </a></p>
+
 <br clear="left">
 
 ### **<a href="https://sites.google.com/view/the-art-menu/breakfast/">Breakfast</a>**  
@@ -36,7 +37,7 @@ Menu is revised periodically, subject to changes and availability.
 ~ Main Course served with Daily Greens and Starch <br>
 ~ Dessert comes with complimentary Freshly Brewed Coffee or Fine English Tea
 
-![](/images/Fish%20N%20Chips.jpg)
+![](/images/ART/Fish%20N%20Chips.jpg)
 
 
 ### **<a href="https://sites.google.com/view/the-art-menu/porridge-dinner/">Porridge Dinner</a>**
@@ -45,7 +46,7 @@ Menu is revised periodically, subject to changes and availability.
 
 <b>By reservation only<br><a href="https://go.gov.sg/apstheart-onlinebooking-porridgebuffet">Click here for Teochew Porridge Buffet Dinner reservation</a></b>
 
-![](/images/porridge.jpg)
+![](/images/ART/porridge.jpg)
 ~ Free-flow porridge and selected condiments served to your table upon request<br>
 ~ Pre-set mains include all-time favourite dishes to go with porridge<br>
 ~ Desserts and Fragrant Chinese Tea are included too
