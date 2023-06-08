@@ -16,6 +16,6 @@ At The ART, we strive to bring you upon a delightful dining experience. More imp
 ##### <center><a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a></center>
 
 
-<img src="/images/abttheart1.jpg" style="width:65%">
+<img src="/images/ART/abttheart1.jpg" style="width:65%">
 <br>
-<img src="/images/abttheart2.jpg" style="width:65%">
+<img src="/images/ART/abttheart2.jpg" style="width:65%">
