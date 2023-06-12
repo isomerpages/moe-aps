@@ -6,7 +6,7 @@ description: ""
 Milestones
 ==========
 
-**1938**&nbsp;
+**1938**
 <br>Founding of Saint Joseph’s Trade School.
 
 **1951**
@@ -46,4 +46,5 @@ Milestones
 <br>Art Exhibition collaboration with National Gallery Singapore
 
 **2021**
-<br>Opening of three new APS on-the-job training (OJT) platforms - Two new Assumption Cafés for Training (ACT), one in ST Engineering office in Jurong and another in a Food Truck outside Kallang Polyclinic. Converted one APS workshop to Assumption Realworks Kitchen (ARK) to prepare hot food.
+<br>Opening of three new APS on-the-job training (OJT) platforms:
+<br>Two new Assumption Cafés for Training (ACT), one in ST Engineering office in Jurong and another in a Food Truck outside Kallang Polyclinic. Converted one workshop in the school to Assumption Realworks Kitchen (ARK) to prepare hot food.
