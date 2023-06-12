@@ -46,5 +46,5 @@ Milestones
 <br>Art Exhibition collaboration with National Gallery Singapore
 
 **2021**
-<br>Opening of three new APS on-the-job training (OJT) platforms:
+<br>Opening of three new APS on-the-job training (OJT) platforms to further enhance APA's signature Learn-and-Earn-Programme:
 <br>Two new Assumption Cafés for Training (ACT), one in ST Engineering office in Jurong and another in a Food Truck outside Kallang Polyclinic. Converted one workshop in the school to Assumption Realworks Kitchen (ARK) to prepare hot food.
