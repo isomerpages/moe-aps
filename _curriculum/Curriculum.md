@@ -6,4 +6,4 @@ description: ""
 Curriculum
 ==========
 
-![](/images/aps%20curriculum.jpg)
+![](/images/Curriculum/Curriculum.jpeg)
