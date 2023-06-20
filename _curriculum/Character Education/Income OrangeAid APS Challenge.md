@@ -1,10 +1,10 @@
 ---
 title: Income OrangeAid APS Challenge
-permalink: /curriculum/Character-Education/income/permalink
+permalink: /curriculum/Character-Education/income/permalink/
 description: ""
 third_nav_title: Character Education
 ---
-Income OrangeAid APS Challenge
+APS Challenge
 ==============================
 
-![](/images/Income%20Orange.jpeg)
+![](/images/Curriculum/Income%20Orange.jpeg)
