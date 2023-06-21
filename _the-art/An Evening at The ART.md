@@ -27,7 +27,7 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 -------------------------
 ![](/images/ART/eta202211.jpg)
 
-![](/images/eta202208.jpg)
+![](/images/ART/eta202208.jpg)
 
 ![](/images/ART/eta202205.jpg)
 
