@@ -4,7 +4,7 @@ permalink: /the-art/evening/permalink/
 description: ""
 ---
 An Evening at The ART
-====================
+==================
 
 An Evening at The ART is a dining event held quarterly featuring different themes and cuisines, in collaboration with APS partners.
 Partnering with well-known establishment chefs is an excellent training opportunity to expand the training scope of APS culinary and hospitality students to elevate their skills and develop their confidence in larger and professional settings.
@@ -26,12 +26,16 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 2023 An Evening at The ART
 -------------------------
 
-##### In collaboration with RE&amp;S<br>Sat 20 May 2023
+##### In collaboration with RE&amp;!S<br>Sat 20 May 2023
 Thank you, our amazing partner for bringing the unique learning experience to our students.<br>
 We had a great time learning to prepare and serve Japanese cuisine at The ART!
 ![](/images/ART/eta202305.jpg)<br>
 ![](/images/ART/eta202305a.jpg)<br>
 ![](/images/ART/eta202305b.jpg)
+
+##### In collaboration with Conrad Centennial <br>Sat 25 Mar 2023
+
+![](/images/ART/eta202303a.JPG)
 
 2022 An Evening @ The ART
 -------------------------
