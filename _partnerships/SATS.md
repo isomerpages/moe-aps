@@ -5,7 +5,7 @@ description: ""
 ---
 SATS
 ====
-<img src="/images/SATS.jpg" style="width:25%" align="left">
+<img src="/images/SATS/SATS.jpg" style="width:25%" align="left">
 
 <br clear="left">
 
@@ -19,23 +19,23 @@ They have also assisted with the set-up of APS training restaurant, [The ART](ht
 
 In addition, SATS also sponsor awards to APS students in the F&amp;B related courses. The awards are presented during the annual School Graduation Ceremony.
 
-![](/images/1_sats%20achievement%20award_bp.jpg)
+![](/images/SATS/1_sats%20achievement%20award_bp.jpg)
 
-![](/images/2_sats%20best%20progress%20award_bp.jpg)
+![](/images/SATS/2_sats%20best%20progress%20award_bp.jpg)
 
-![](/images/3_sats%20character%20award_bp.jpg)
+![](/images/SATS/3_sats%20character%20award_bp.jpg)
 
-![](/images/4_sats%20achievement%20award_cs.jpg)
+![](/images/SATS/4_sats%20achievement%20award_cs.jpg)
 
-![](/images/5_sats%20best%20progress%20award_cs.jpg)
+![](/images/SATS/5_sats%20best%20progress%20award_cs.jpg)
 
-![](/images/6_sats%20character%20award_cs.jpg)
+![](/images/SATS/6_sats%20character%20award_cs.jpg)
 
-![](/images/7_sats%20achievement%20award_hs.jpg)
+![](/images/SATS/7_sats%20achievement%20award_hs.jpg)
 
-![](/images/8_sats%20best%20progress%20award_hs.jpg)
+![](/images/SATS/8_sats%20best%20progress%20award_hs.jpg)
 
-![](/images/9_sats%20character%20award_hs.jpg)
+![](/images/SATS/9_sats%20character%20award_hs.jpg)
 
 
 
@@ -44,6 +44,6 @@ In addition, SATS also sponsor awards to APS students in the F&amp;B related cou
 ---------------------------------------------------
 
 
-![](/images/aps%20dance%20group%202.jpg)
+![](/images/SATS/aps%20dance%20group%202.jpg)
 
 APS Dance Group was invited to perform during SATS National Day celebration. APS students were grateful for the opportunity given to perform beyond school-based events.
