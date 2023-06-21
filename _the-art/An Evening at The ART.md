@@ -26,6 +26,12 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 2023 An Evening at The ART
 -------------------------
 
+##### In collaboration with RE&amp;S<br>Sat 20 May 2023
+Thank you, our amazing partner for bringing the unique learning experience to our students.<br>
+We had a great time learning to prepare and serve Japanese cuisine at The ART!
+![](/images/ART/eta202305.jpg)<br>
+![](/images/ART/eta202305a.jpg)<br>
+![](/images/ART/eta202305b.jpg)
 
 2022 An Evening @ The ART
 -------------------------
