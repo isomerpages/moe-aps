@@ -6,7 +6,7 @@ description: ""
 Changi Foundation
 =================
 
-<img src="/images/Changi/Changi%20Foundation.jpg" style="width:38%" align="left">
+<img src="/images/Changi Foundation/Changi%20Foundation.jpg" style="width:50%" align="left">
 
 <br clear="left">
 
