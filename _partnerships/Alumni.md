@@ -21,29 +21,22 @@ Some of them are pursuing their studies at ITE. Amira, who graduated from APS in
 
 Most of them are happy and excited about being back in their home school and to able to reconnect with their friends. Dr Roland Yeow, President of the Alumni gave his heartfelt appreciation to the alumni members for coming back to APS for this event. SMC Chairman Mr Gabriel Teo and Executive Director, Vocational Programme Mr Christopher Neo were present to give their ardent support. There was much fun and joy during the event and the alumni looks forward to more of these bonding sessions in the future.
 
-<img src="/images/Alumni/alumni1.jpg" style="width:41%;margin-left:65px;" align="left">
-<img src="/images/Alumni/alumni2.jpg" style="width:41%;margin-right:65px;" align="right">
-
+<img src="/images/Alumni/alumni1.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni2.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni3.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni4.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni5.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni6.jpg" style="width:50%;margin-left:65px;" align="left">
 <br clear="left">
 
-<img src="/images/Alumni/alumni3.jpg" style="width:41%;margin-left:65px;" align="left">
-<img src="/images/Alumni/alumni4.jpg" style="width:41%;margin-right:65px;" align="right">
-
-<br clear="left">
-
-<img src="/images/Alumni/alumni5.jpg" style="width:41%;margin-left:65px;" align="left">
-<img src="/images/Alumni/alumni6.jpg" style="width:41%;margin-right:65px;" align="right">
-
-<br clear="left">
-
-<center>A joyous and happy event for bonding and friendship among the alumni members</center>
+A joyous and happy event for bonding and friendship among the alumni members
 
 Montfort Brothers of St Gabriel Sports Fiesta
 ---------------------------------------------
 
 The APS Alumni team actively participated in the Montfort Brothers of St Gabriel Sports Fiesta in 2017 and 2018. The members were involved in several gruelling and exciting rounds of Futsal against members from the seven Gabrielite Institutions. The alumni members showed dexterity and true sportsmanship during the games. More importantly, this is to rekindle the good old times and the Montfortian spirit.
 
-<img src="/images/Alumni/alumni7.jpg" style="width:35%;margin-left:65px;" align="left">
-<img src="/images/Alumni/alumni8.jpg" style="width:46.5%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni7.jpg" style="width:60%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni8.jpg" style="width:60%;margin-left:65px;" align="left">
 
 <br clear="left">The APS alumni members with drive and determination
