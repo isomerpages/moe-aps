@@ -10,10 +10,7 @@ An Evening at The ART is a dining event held quarterly featuring different theme
 Partnering with well-known establishment chefs is an excellent training opportunity to expand the training scope of APS culinary and hospitality students to elevate their skills and develop their confidence in larger and professional settings.
 
 #### [Check out upcoming events here!](https://www.eventbrite.sg/e/an-evening-at-the-art-satsuki-omakase-tickets-621551887427)
-
-
-
-
+<br><br>
 
 <iframe allowfullscreen="true" width="500" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR0IKFx0P4EvQ9Mwssbekfr3vhww6XvyUHw708mX0Io8YeXWNXYm9ow_0rWUwVnkTgl9gUDiUu5A47/embed?start=false&amp;loop=false&amp;delayms=3000" align="left"></iframe>
 <br clear="left"><br><br>
@@ -29,9 +26,12 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 ##### In collaboration with RE&amp;S<br>Sat 20 May 2023
 Thank you, our amazing partner for bringing the unique learning and dining experience.<br>
 Our students had a great time learning to prepare and serve Japanese cuisine at The ART!
-<img src="/images/ART/eta202305.jpg" style="width:65%"><br>
-<img src="/images/ART/eta202305a.jpg" style="width:65%"><br>
-<img src="/images/ART/eta202305b.jpg" style="width:65%">
+<img src="/images/ART/eta202305.jpg" style="width:70%" align="left"><br>
+
+<img src="/images/ART/eta202305a.jpg" style="width:70%" align="left"><br>
+
+<img src="/images/ART/eta202305b.jpg" style="width:70%" align="left">
+
 
 ##### In collaboration with Conrad Centennial <br>Sat 25 Mar 2023
 Our special guest Chef Atish and his culinary team kicked off this 2023 season with Modern Spanish themed cuisine.
