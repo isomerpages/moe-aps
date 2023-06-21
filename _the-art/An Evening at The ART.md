@@ -35,7 +35,9 @@ We had a great time learning to prepare and serve Japanese cuisine at The ART!
 
 ##### In collaboration with Conrad Centennial <br>Sat 25 Mar 2023
 
-![](/images/ART/eta202303a.JPG)
+![](/images/ART/eta202303a.JPG)<br>
+![](/images/ART/eta202303c.jpg)<br>
+![](/images/ART/eta202303b.jpg)
 
 2022 An Evening @ The ART
 -------------------------
