@@ -26,19 +26,20 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 ##### In collaboration with RE&amp;S<br>Sat 20 May 2023
 Thank you, our amazing partner for bringing the unique learning and dining experience.<br>
 Our students had a great time learning to prepare and serve Japanese cuisine at The ART!
-<img src="/images/ART/eta202305.jpg" style="width:70%" align="left"><br>
-
-<img src="/images/ART/eta202305a.jpg" style="width:70%" align="left"><br>
-
+<img src="/images/ART/eta202305.jpg" style="width:70%" align="left"><br clear="left"><br>
+<img src="/images/ART/eta202305a.jpg" style="width:70%" align="left"><br clear="left"><br>
 <img src="/images/ART/eta202305b.jpg" style="width:70%" align="left">
-
+<br clear="left">
 
 ##### In collaboration with Conrad Centennial <br>Sat 25 Mar 2023
 Our special guest Chef Atish and his culinary team kicked off this 2023 season with Modern Spanish themed cuisine.
 This event is much more meaningful as we have our former student coming back as part of the Conrad team.
-![](/images/ART/eta202303a.JPG)<br>
-![](/images/ART/eta202303c.jpg)<br>
-![](/images/ART/eta202303b.jpg)
+<img src="/images/ART/eta202303a.JPG" style="width:70%" align="left">
+<br clear="left"><br>
+<img src="/images/ART/eta202303c.jpg" style="width:70%" align="left">
+<br clear="left"><br>
+<img src="/images/ART/eta202303b.jpg" style="width:70%" align="left">
+<br clear="left"><br>
 
 2022 An Evening @ The ART
 -------------------------
