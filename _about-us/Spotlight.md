@@ -19,4 +19,4 @@ Catch more&nbsp;[videos featuring APS here](https://youtube.com/playlist?list=PL
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLzyzUNYhGjzVo6hZkoyPp5nDdfivCVlta" height="315" width="560"></iframe>
 
-##### Like and subscribe our&nbsp;[YouTube Channel](https://www.youtube.com/channel/UCELGcRS7xPL_wnSdZqr2Hcg)
+##### Like and subscribe our [YouTube Channel](https://www.youtube.com/channel/UCELGcRS7xPL_wnSdZqr2Hcg)
