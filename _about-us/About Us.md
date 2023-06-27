@@ -1,6 +1,6 @@
 ---
 title: About Us
-permalink: /about-us/permalink
+permalink: /about-us/permalink/
 description: ""
 ---
 About Us
@@ -16,7 +16,7 @@ Currently, APS is managed by the St Gabriel’s Foundation under the Montfort Br
 
 APS Corporate Video
 -------------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IpH_2NFobZU" title="APS Corporate Video 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IpH_2NFobZU" title="APS Corporate Video 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 Purpose
@@ -42,11 +42,11 @@ Through Hard Work Achieve Success
 Values
 ------
 
-**C are** (Love All)  
-**A daptability** (Be Flexible)  
-**R esilience** (Be Strong)  
-**E xcellence** (Aim High)  
-**R esponsibility** (Do Right)
+**C&nbsp;are**&nbsp;(Love All)  
+**A&nbsp;daptability**&nbsp;(Be Flexible)  
+**R&nbsp;esilience**&nbsp;(Be Strong)  
+**E&nbsp;xcellence**&nbsp;(Aim High)  
+**R&nbsp;esponsibility**&nbsp;(Do Right)
 
 Core Beliefs
 ------------

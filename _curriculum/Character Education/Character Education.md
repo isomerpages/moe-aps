@@ -1,10 +1,10 @@
 ---
 title: Character Education
-permalink: /curriculum/Character-Education/permalink
+permalink: /curriculum/Character-Education/permalink/
 description: ""
 third_nav_title: Character Education
 ---
 Character Education
 ===================
 
-![](/images/Character%20Education.jpeg)
+![](/images/Curriculum/Character%20Education.jpeg)

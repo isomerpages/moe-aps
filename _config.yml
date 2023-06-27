@@ -3,7 +3,7 @@ url: https://www.assumptionpathway.edu.sg
 favicon: /images/crest.gif
 colors:
   primary-color: "#034484"
-  secondary-color: "#c9e5a7"
+  secondary-color: "#034484"
   media-colors:
     - title: media-color-one
       color: "#49759a"

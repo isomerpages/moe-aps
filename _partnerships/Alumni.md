@@ -6,7 +6,7 @@ description: ""
 Alumni
 ======
 
-APS Alumni was founded in 2017 with graduates of APS and its predecessors from Assumption Vocational Institute and Boys’ Town Vocational Institute. The President of the Alumni is Dr Roland Yeow Theng Nam, Executive Director of Boys’ Town Singapore. 
+APS Alumni was founded in 2017 with graduates of APS and its predecessors from Assumption Vocational Institute and Boys’ Town Vocational Institute. The President of the Alumni is Dr Roland Yeow Theng Nam, Executive Director of Boys’ Town Singapore.&nbsp;
 
 School Management Committee (SMC) Chairman Mr Gabriel Teo also hopes to form a support network with the alumni members. The alumni aims to extend its outreach to more members. This is to encourage and foster close and strong relationships as well as to build a sustainable and inclusive community.
 
@@ -17,35 +17,26 @@ BBQ Bonding Day of APS Alumni Association 2018
 
 Over 80 APS Alumni members gathered at APS school canteen for BBQ Bonding Day of APS Alumni Association on Fri 28 Sep 2018.
 
-Some of them are pursuing their studies at ITE. Amira, who graduated from APS in 2014 has completed a _Nitec_ in Beauty and Wellness and will be pursuing a _Higher Nitec_ in Performance Production in 2019. Some others are serving National Service or gainfully employed. It is certainly heart-warming to see that they are doing well after graduating from APS.
+Some of them are pursuing their studies at ITE. Amira, who graduated from APS in 2014 has completed a&nbsp;_Nitec_&nbsp;in Beauty and Wellness and will be pursuing a&nbsp;_Higher Nitec_&nbsp;in Performance Production in 2019. Some others are serving National Service or gainfully employed. It is certainly heart-warming to see that they are doing well after graduating from APS.
 
 Most of them are happy and excited about being back in their home school and to able to reconnect with their friends. Dr Roland Yeow, President of the Alumni gave his heartfelt appreciation to the alumni members for coming back to APS for this event. SMC Chairman Mr Gabriel Teo and Executive Director, Vocational Programme Mr Christopher Neo were present to give their ardent support. There was much fun and joy during the event and the alumni looks forward to more of these bonding sessions in the future.
 
-<img src="/images/alumni1.jpg" style="width:41%;margin-left:65px;" align = "left">
-<img src="/images/alumni2.jpg" style="width:41%;margin-right:65px;" align = "right">
-
+<img src="/images/Alumni/alumni1.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni2.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni3.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni4.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni5.jpg" style="width:50%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni6.jpg" style="width:50%;margin-left:65px;" align="left">
 <br clear="left">
 
-<img src="/images/alumni3.jpg" style="width:41%;margin-left:65px;" align = "left">
-<img src="/images/alumni4.jpg" style="width:41%;margin-right:65px;" align = "right">
-
-<br clear="left">
-
-<img src="/images/alumni5.jpg" style="width:41%;margin-left:65px;" align = "left">
-<img src="/images/alumni6.jpg" style="width:41%;margin-right:65px;" align = "right">
-
-<br clear="left">
-
-<center>A joyous and happy event for bonding and friendship among the alumni members</center>
+A joyous and happy event for bonding and friendship among the alumni members
 
 Montfort Brothers of St Gabriel Sports Fiesta
 ---------------------------------------------
 
 The APS Alumni team actively participated in the Montfort Brothers of St Gabriel Sports Fiesta in 2017 and 2018. The members were involved in several gruelling and exciting rounds of Futsal against members from the seven Gabrielite Institutions. The alumni members showed dexterity and true sportsmanship during the games. More importantly, this is to rekindle the good old times and the Montfortian spirit.
 
-<img src="/images/alumni7.jpg" style="width:35%;margin-left:65px;" align = "left">
-<img src="/images/alumni8.jpg" style="width:46.5%;margin-right:65px;" align = "right">
+<img src="/images/Alumni/alumni7.jpg" style="width:60%;margin-left:65px;" align="left">
+<img src="/images/Alumni/alumni8.jpg" style="width:60%;margin-left:65px;" align="left">
 
-<br clear="left">
-
-<center>The APS alumni members with drive and determination</center>
+<br clear="left">The APS alumni members with drive and determination
