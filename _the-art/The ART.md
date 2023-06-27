@@ -7,4 +7,4 @@ The ART
 =======
 
 
-#### [Click here for our latest menu!](https://go.gov.sg/apstheart-menu)
+#### [Click here for our latest update and menu!](https://go.gov.sg/apstheart-menu)
