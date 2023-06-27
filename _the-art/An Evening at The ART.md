@@ -9,7 +9,7 @@ An Evening at The ART
 An Evening at The ART is a dining event held quarterly featuring different themes and cuisines, in collaboration with APS partners.
 Partnering with well-known establishment chefs is an excellent training opportunity to expand the training scope of APS culinary and hospitality students to elevate their skills and develop their confidence in larger and professional settings.
 
-#### [Check out upcoming events here!](https://www.eventbrite.sg/e/an-evening-at-the-art-satsuki-omakase-tickets-621551887427)
+#### [Check out upcoming events here!](https://sites.google.com/view/the-art-menu/home)
 <br><br>
 
 <iframe allowfullscreen="true" width="500" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR0IKFx0P4EvQ9Mwssbekfr3vhww6XvyUHw708mX0Io8YeXWNXYm9ow_0rWUwVnkTgl9gUDiUu5A47/embed?start=false&amp;loop=false&amp;delayms=3000" align="left"></iframe>
