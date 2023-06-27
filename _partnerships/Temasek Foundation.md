@@ -40,5 +40,4 @@ Temasek Foundation has also contributed to other school programmes, such as burs
 
 <br><center>Ms Woon Saet Nyoon, Head, Community Networks &amp; Partnerships of Temasek Foundation receiving the Friend of APS Award from Minister Chan Chun Sing.
 ![](/images/Temasek%20Foundation/2023%20foa-temasekfoundation.png)
-
 </center>
