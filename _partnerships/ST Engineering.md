@@ -39,7 +39,3 @@ The ACT (Assumption Café for Training) is located at ST Engineering’s office 
 <br>
 <img src="/images/ST Engineering/apa%20student%20-%20yu%20heng.jpeg" style="width:50%;" align="centre">
 <br>
-
-
-
-[Click here for ST Engineering Annual Report 2021 (Page 51 - Featuring APS)](/files/ST%20Engineering%20Annual%20Report%202021%20Page%2051%20-%20APS.pdf)

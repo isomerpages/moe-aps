@@ -2,7 +2,6 @@ collections:
   the-art:
     output: true
     order:
-      - The ART.md
       - About The ART.md
       - Menu.md
       - An Evening at The ART.md
