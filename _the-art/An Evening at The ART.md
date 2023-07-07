@@ -1,6 +1,6 @@
 ---
 title: An Evening at The ART
-permalink: /the-art/evening/permalink/
+permalink: /the-art/evening/
 description: ""
 ---
 An Evening at The ART

@@ -1,6 +1,6 @@
 ---
 title: Menu
-permalink: /the-art/Menu/permalink/
+permalink: /the-art/menu/
 description: ""
 ---
 Menu

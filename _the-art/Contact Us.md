@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /the-art/contactus/permalink/
+permalink: /the-art/contactus/
 description: ""
 ---
 Contact Us

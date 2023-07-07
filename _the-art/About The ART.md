@@ -1,6 +1,6 @@
 ---
 title: About The ART
-permalink: /the-art/about/permalink/
+permalink: /the-art/
 description: ""
 ---
 About The ART
