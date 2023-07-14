@@ -15,5 +15,5 @@ Assumption Pathway School (APS)<br>
 30 Cashew Road, Singapore 679697<br>
 Tel: 6892 6187 (During The ART operating hours)<br>
 Email:&nbsp;[theart@moe.edu.sg](mailto:theart@moe.edu.sg)<br>
-Facebook:&nbsp;[https://www.facebook.com/APStheART/](https://www.facebook.com/APStheART/)<br>
-Instagram:&nbsp;[https://www.instagram.com/apstheart/](https://www.instagram.com/apstheart/%C2%A0)
+Facebook: [https://www.facebook.com/APStheART/](https://www.facebook.com/APStheART/)<br>
+Instagram: [https://www.instagram.com/apstheart/](https://www.instagram.com/apstheart/)
