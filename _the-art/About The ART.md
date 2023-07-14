@@ -3,8 +3,10 @@ title: About The ART
 permalink: /the-art/
 description: ""
 ---
-About The ART
-=============
+
+<img src="images/ART/The%20ART%20Logo.png" style="width:70%" align="left">
+
+<br>
 The ART (Assumption Restaurant for Training) was established in April 2011&nbsp;within the premises of APS (Assumption Pathway School).
 
 It is a casual dining restaurant that gives APS students an authentic working environment to put their F&amp;B knowledge and skills into practice. Students gain practical experience in interacting with real customers. They also learn new cooking techniques and gain exposure to service delivery during various themed events and promotions.
