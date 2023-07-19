@@ -2,7 +2,7 @@ collections:
   the-art:
     output: true
     order:
-      - About The ART.md
+      - The ART.md
       - Menu.md
       - An Evening at The ART.md
       - Contact Us.md

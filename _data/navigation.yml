@@ -9,12 +9,14 @@ links:
   - title: Student
     collection: student
   - title: Staff
-    url: https://tinyurl.com/y5xspy6n
+    url: https://sites.google.com/moe.edu.sg/aps-staff/
     sublinks:
-      - title: Opal 2.0
-        url: https://idm.opal2.moe.edu.sg/
       - title: APS Portal
         url: https://intranet.apsch.edu.sg/
+      - title: APS Staff Google Site
+        url: https://sites.google.com/moe.edu.sg/aps-staff/
+      - title: Opal 2.0
+        url: https://idm.opal2.moe.edu.sg/
       - title: SIMS
         url: https://sims.apsch.edu.sg/
       - title: Timesoft
