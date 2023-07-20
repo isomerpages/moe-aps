@@ -397,15 +397,15 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">No. of Employees</span></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">135</span></td>
-    <td class="tg-vgx9">128</td>
-    <td class="tg-vgx9">(5%)</td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">128</span></td>
+    <td class="tg-vgx9">136</td>
+    <td class="tg-vgx9">(6%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Employee Costs</span></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">12,679</span></td>
-    <td class="tg-vgx9">13,285</td>
-    <td class="tg-vgx9">5%</td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">13,285</span></td>
+    <td class="tg-vgx9">13,858</td>
+    <td class="tg-vgx9">4%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Related Party Transactions (S$’000)</span> 8</td>
