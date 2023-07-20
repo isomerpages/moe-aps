@@ -353,8 +353,8 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds and Liabilities</td>
-    <td class="tg-veki">50,250</td>
     <td class="tg-veki">47,753</td>
+    <td class="tg-veki">45,173</td>
     <td class="tg-veki">(5%)</td>
   </tr>
 </tbody>
