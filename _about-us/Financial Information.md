@@ -88,7 +88,7 @@ Financial Information
   <tr>
     <td class="tg-1xc9">Income</td>
     <td class="tg-1xc9">FY2021 Jan to Dec (S$'000)</td>
-    <td class="tg-1xc9">FY2021 Jan to Dec (S$'000)</td>
+    <td class="tg-1xc9">FY2022 Jan to Dec (S$'000)</td>
     <td class="tg-1xc9">% Increase/ (Decrease)</td>
   </tr>
   <tr>
