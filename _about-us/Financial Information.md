@@ -106,8 +106,8 @@ Financial Information
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Grants / Sponsorships</span></td>
     <td class="tg-vgx9">16,047<br></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">16,945</span></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">6%</span></td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">14,023</span></td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">17%</span></td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investment income</span></td>
