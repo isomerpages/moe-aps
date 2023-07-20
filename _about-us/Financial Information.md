@@ -123,9 +123,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Others (please specify if material)</span></td>
-    <td class="tg-vgx9">176<br></td>
     <td class="tg-vgx9">202<br></td>
-    <td class="tg-vgx9">15%</td>
+    <td class="tg-vgx9">405<br></td>
+    <td class="tg-vgx9">100%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Income</span></td>
