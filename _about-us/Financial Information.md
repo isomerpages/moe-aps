@@ -329,15 +329,15 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Long-Term Liabilities</span></td>
-    <td class="tg-vgx9">19,989</td>
     <td class="tg-vgx9">19,503</td>
-    <td class="tg-vgx9">(2%)</td>
+    <td class="tg-vgx9">18,237</td>
+    <td class="tg-vgx9">(6%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Current Liabilities</span></td>
-    <td class="tg-vgx9">3,924</td>
     <td class="tg-vgx9">3,257</td>
-    <td class="tg-vgx9">(17%)</td>
+    <td class="tg-vgx9">5,826</td>
+    <td class="tg-vgx9">(79%)</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Total Liabilities</td>
