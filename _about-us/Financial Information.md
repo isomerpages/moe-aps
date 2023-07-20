@@ -302,9 +302,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Restricted Fund</span> 6</td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">               4,671</span></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">4,024</span><br></td>
-    <td class="tg-vgx9">(14%)</td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">               4,024</span></td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">4,023</span><br></td>
+    <td class="tg-vgx9">(0%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Endowment Fund</span> 7</td>
