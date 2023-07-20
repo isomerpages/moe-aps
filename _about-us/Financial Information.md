@@ -150,6 +150,17 @@ Financial Information
 .tg .tg-g443{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:middle}
 .tg .tg-vgx9{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:top}
 </style>
+
+   ~~~~
+
+1\. These include donations collected through flag days, donations that entail benefits to the donors and donations received for overseas purposes.  
+  
+2\. This refers to costs directly incurred and paid for during fund-raising. They include such costs as advertisements, printing, publicity materials, rental of premises, logistics, hiring of commercial third-party fund-raisers, organizing games of chance, etc.  
+  
+3\. These are all resources applied by the charity in undertaking its work to meet its charitable objectives in the delivery of goods and services. Such costs include the direct costs of the charitable activities together with those support costs incurred that enable these activities to be undertaken.  
+  
+4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.
+
 <table class="tg">
 <thead>
   <tr>
@@ -193,30 +204,7 @@ Financial Information
     <td class="tg-y7qa">(3642)<br></td>
     <td class="tg-y7qa">426%</td>
   </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Others (please specify if material)</span></td>
-    <td class="tg-vgx9">176<br></td>
-    <td class="tg-vgx9">202<br></td>
-    <td class="tg-vgx9">15%</td>
-  </tr>
-  <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Income</span></td>
-    <td class="tg-vgx9">16,984</td>
-    <td class="tg-vgx9">17,550</td>
-    <td class="tg-vgx9">3%</td>
-  </tr>
-</tbody>
-</table>
-
-1\. These include donations collected through flag days, donations that entail benefits to the donors and donations received for overseas purposes.  
-  
-2\. This refers to costs directly incurred and paid for during fund-raising. They include such costs as advertisements, printing, publicity materials, rental of premises, logistics, hiring of commercial third-party fund-raisers, organizing games of chance, etc.  
-  
-3\. These are all resources applied by the charity in undertaking its work to meet its charitable objectives in the delivery of goods and services. Such costs include the direct costs of the charitable activities together with those support costs incurred that enable these activities to be undertaken.  
-  
-4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.
-
-<style type="text/css">
+  <tr><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -233,7 +221,7 @@ Financial Information
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-g443{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:middle}
 </style>
-<table class="tg">
+</tr></tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-iva4">Balance Sheet</th>
