@@ -189,9 +189,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Surplus / (Deficit)</span>                                                    </td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(204)</span><br></td>
-    <td class="tg-y7qa">(692)<br></td>
-    <td class="tg-y7qa">239%</td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(692)</span><br></td>
+    <td class="tg-y7qa">(3642)<br></td>
+    <td class="tg-y7qa">426%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Others (please specify if material)</span></td>
