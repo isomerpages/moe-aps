@@ -165,9 +165,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses</span> 3<br>Local<br>Overseas</td>
-    <td class="tg-y7qa"> <br>463<br>-<br></td>
     <td class="tg-y7qa"> <br>374<br>-<br></td>
-    <td class="tg-y7qa"> <br>(19%)<br>-</td>
+    <td class="tg-y7qa"> <br>353<br>-<br></td>
+    <td class="tg-y7qa"> <br>(6%)<br>-</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Operating &amp; Administration Expenses</span> 4</td>
