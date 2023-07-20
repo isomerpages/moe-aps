@@ -225,8 +225,8 @@ Financial Information
 <thead>
   <tr>
     <th class="tg-iva4">Balance Sheet</th>
-    <th class="tg-1xc9">FY2020 Jan to Dec (S$'000)</th>
     <th class="tg-1xc9">FY2021 Jan to Dec (S$'000)</th>
+    <th class="tg-1xc9">FY2022 Jan to Dec (S$'000)</th>
     <th class="tg-1xc9">% Increase/ (Decrease)</th>
   </tr>
 </thead>
