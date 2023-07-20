@@ -239,15 +239,15 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Land and Buildings</span></td>
-    <td class="tg-vgx9">18,866</td>
     <td class="tg-vgx9">17,922</td>
+    <td class="tg-vgx9">16,979</td>
     <td class="tg-vgx9">(5%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Tangible Assets</span></td>
-    <td class="tg-vgx9">1,189<br></td>
-    <td class="tg-vgx9">1,634</td>
-    <td class="tg-vgx9">37%</td>
+    <td class="tg-vgx9">1,634<br></td>
+    <td class="tg-vgx9">1,314</td>
+    <td class="tg-vgx9">20%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investments</span></td>
@@ -263,9 +263,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Accounts Receivable</span></td>
-    <td class="tg-vgx9">165<br></td>
-    <td class="tg-vgx9">143</td>
-    <td class="tg-vgx9">(13%)</td>
+    <td class="tg-vgx9">143<br></td>
+    <td class="tg-vgx9">234</td>
+    <td class="tg-vgx9">(64%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Cash &amp; Deposits</span></td>
