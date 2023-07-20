@@ -185,7 +185,7 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Expenditure</span></td>
     <td class="tg-y7qa">18,242</td>
     <td class="tg-y7qa">18,559</td>
-    <td class="tg-y7qa">2%</td>
+    <td class="tg-y7qa">  2%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Surplus / (Deficit)</span>                                                    </td>
