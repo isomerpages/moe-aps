@@ -314,9 +314,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds</td>
-    <td class="tg-veki">26,337</td>
     <td class="tg-veki">24,993</td>
-    <td class="tg-veki">(5%)</td>
+    <td class="tg-veki">21,110</td>
+    <td class="tg-veki">(16%)</td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
