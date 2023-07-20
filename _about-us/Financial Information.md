@@ -296,9 +296,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unrestricted Fund</span> 5</td>
-    <td class="tg-vgx9">21,666</td>
     <td class="tg-vgx9">20,969</td>
-    <td class="tg-vgx9">(3%)</td>
+    <td class="tg-vgx9">17,087</td>
+    <td class="tg-vgx9">(19%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Restricted Fund</span> 6</td>
