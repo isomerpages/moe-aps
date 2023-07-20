@@ -270,7 +270,7 @@ Financial Information
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Cash &amp; Deposits</span></td>
     <td class="tg-vgx9">28,054</td>
-    <td class="tg-vgx9">28,054</td>
+    <td class="tg-vgx9">26,646</td>
     <td class="tg-vgx9">(7%)</td>
   </tr>
   <tr>
