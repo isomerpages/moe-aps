@@ -18,12 +18,12 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-3p0s" colspan="2"><span style="color:#000">ASSUMPTION PATHWAY SCHOOL</span><br><span style="color:#000"> KEY INFORMATION ONLINE</span></th>
+    <th colspan="2" class="tg-3p0s"><span style="color:#000">ASSUMPTION PATHWAY SCHOOL</span><br><span style="color:#000"> KEY INFORMATION ONLINE</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rj1p" colspan="2">1. Non-Financial Information</td>
+    <td colspan="2" class="tg-rj1p">1. Non-Financial Information</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Address:<br>30 Cashew Road,<br>Singapore 679697<br><br>Email Address: <a href="mailto:aps@ite.edu.sg"><span style="text-decoration:none;color:#427B36">aps@s</span></a>chools.gov.sg</td>
@@ -81,7 +81,7 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-z5wu" colspan="4">2. Financial Information</th>
+    <th colspan="4" class="tg-z5wu">2. Financial Information</th>
   </tr>
 </thead>
 <tbody>
@@ -135,7 +135,6 @@ Financial Information
   </tr>
 </tbody>
 </table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -154,7 +153,7 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-iva4" colspan="4">Expenses</th>
+    <th colspan="4" class="tg-iva4">Expenses</th>
   </tr>
 </thead>
 <tbody>
@@ -194,7 +193,16 @@ Financial Information
     <td class="tg-y7qa">(3642)<br></td>
     <td class="tg-y7qa">426%</td>
   </tr>
-
+<style type="text/css">
+1\. These include donations collected through flag days, donations that entail benefits to the donors and donations received for overseas purposes.  
+	
+2\. This refers to costs directly incurred and paid for during fund-raising. They include such costs as advertisements, printing, publicity materials, rental of premises, logistics, hiring of commercial third-party fund-raisers, organizing games of chance, etc.  
+  
+3\. These are all resources applied by the charity in undertaking its work to meet its charitable objectives in the delivery of goods and services. Such costs include the direct costs of the charitable activities together with those support costs incurred that enable these activities to be undertaken.  
+  
+4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.
+</style>	
+		
 <tr><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -276,7 +284,7 @@ Financial Information
     <td class="tg-veki">(5%)</td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
+    <td colspan="4" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-rmnb">FUNDS <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
@@ -309,7 +317,7 @@ Financial Information
     <td class="tg-veki">(16%)</td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
+    <td colspan="4" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-rmnb">LIABILITIES <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
@@ -431,7 +439,7 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rj1p" colspan="3">3. For Each Fund-Raising Event that raises $1 million or more</th>
+    <th colspan="3" class="tg-rj1p">3. For Each Fund-Raising Event that raises $1 million or more</th>
   </tr>
 </thead>
 <tbody>
