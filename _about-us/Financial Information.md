@@ -203,7 +203,9 @@ Financial Information
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(692)</span><br></td>
     <td class="tg-y7qa">(3642)<br></td>
     <td class="tg-y7qa">426%</td>
-  </tr><tr><style type="text/css">
+  </tr><tr>
+
+	<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
