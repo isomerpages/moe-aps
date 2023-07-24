@@ -92,13 +92,13 @@ Financial Information
     <td class="tg-1xc9">% Increase/ (Decrease)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Cash</span><br>• Tax Deductible<br>Non-Tax Deductible 1</td>
-    <td class="tg-vgx9"> <br>113<br>223</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Cash</span><br>• Tax Deductible<br>• Non-Tax Deductible<sup>1</sup></td>
+    <td class="tg-vgx9"><br>113<br>223</td>
     <td class="tg-vgx9"><br>131<br>195<br></td>
     <td class="tg-vgx9"><br>16%<br>(13%)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>Tax Deductible<br>• Non-Tax Deductible</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>• Tax Deductible<br>• Non-Tax Deductible</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9">-<br>-</td>
