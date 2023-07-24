@@ -105,9 +105,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Grants / Sponsorships</span></td>
-    <td class="tg-vgx9">16,047<br></td>
+    <td class="tg-vgx9">16,945<br></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">14,023</span></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">17%</span></td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(17%)</span></td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investment income</span></td>
@@ -131,7 +131,7 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Income</span></td>
     <td class="tg-vgx9">17,550</td>
     <td class="tg-vgx9">14,917</td>
-    <td class="tg-vgx9">15%</td>
+    <td class="tg-vgx9">(15%)</td>
   </tr>
 </tbody>
 </table>
@@ -151,7 +151,7 @@ Financial Information
 .tg .tg-vgx9{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:top}
 </style>
 
-   ~~~~
+
 
 1\. These include donations collected through flag days, donations that entail benefits to the donors and donations received for overseas purposes.  
   
@@ -159,8 +159,10 @@ Financial Information
   
 3\. These are all resources applied by the charity in undertaking its work to meet its charitable objectives in the delivery of goods and services. Such costs include the direct costs of the charitable activities together with those support costs incurred that enable these activities to be undertaken.  
   
-4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.
-
+4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.		
+		
+		
+		
 <table class="tg">
 <thead>
   <tr>
@@ -220,8 +222,7 @@ Financial Information
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-g443{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:middle}
-</style>
-</tr></tbody></table><table class="tg">
+</style></tr></tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-iva4">Balance Sheet</th>
