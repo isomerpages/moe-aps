@@ -18,12 +18,12 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-3p0s"><span style="color:#000">ASSUMPTION PATHWAY SCHOOL</span><br><span style="color:#000"> KEY INFORMATION ONLINE</span></th>
+    <th class="tg-3p0s" colspan="2"><span style="color:#000">ASSUMPTION PATHWAY SCHOOL</span><br><span style="color:#000"> KEY INFORMATION ONLINE</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" class="tg-rj1p">1. Non-Financial Information</td>
+    <td class="tg-rj1p" colspan="2">1. Non-Financial Information</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Address:<br>30 Cashew Road,<br>Singapore 679697<br><br>Email Address: <a href="mailto:aps@ite.edu.sg"><span style="text-decoration:none;color:#427B36">aps@s</span></a>chools.gov.sg</td>
@@ -81,7 +81,7 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-z5wu">2. Financial Information</th>
+    <th class="tg-z5wu" colspan="4">2. Financial Information</th>
   </tr>
 </thead>
 <tbody>
@@ -153,7 +153,7 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="4" class="tg-iva4">Expenses</th>
+    <th class="tg-iva4" colspan="4">Expenses</th>
   </tr>
 </thead>
 <tbody>
@@ -284,7 +284,7 @@ Financial Information
     <td class="tg-veki">(5%)</td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
+    <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-rmnb">FUNDS <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
@@ -317,7 +317,7 @@ Financial Information
     <td class="tg-veki">(16%)</td>
   </tr>
   <tr>
-    <td colspan="4" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
+    <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
     <td class="tg-rmnb">LIABILITIES <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
@@ -439,7 +439,7 @@ Financial Information
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="3" class="tg-rj1p">3. For Each Fund-Raising Event that raises $1 million or more</th>
+    <th class="tg-rj1p" colspan="3">3. For Each Fund-Raising Event that raises $1 million or more</th>
   </tr>
 </thead>
 <tbody>
