@@ -45,7 +45,7 @@ Financial Information
 <thead>
   <tr>
     <td class="tg-z5wu">Charity Status<br><span style="color:#222;background-color:#EAEAEA">Unique Entity No: T09CC0004J</span><br><span style="color:#222;background-color:#EAEAEA">Charity Regn Date: 17 July 2009</span></td>
-    <td class="tg-rj1p">IPC Status<br><span style="color:#222;background-color:#EAEAEA">IPC No: IPC000672</span><br><span style="color:#222;background-color:#EAEAEA">           Effective Date : 27 August 2023 to 26 August 2028</span></td>
+    <td class="tg-rj1p">IPC Status<br><span style="color:#222;background-color:#EAEAEA">IPC No: IPC000672</span><br><span style="color:#222;background-color:#EAEAEA">Effective Date : 27 August 2023 to 26 August 2028</span></td>
   </tr>
 </thead>
 </table>
@@ -92,13 +92,13 @@ Financial Information
     <td class="tg-1xc9">% Increase/ (Decrease)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Cash</span><br>Tax Deductible<br>Non-Tax Deductible 1</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Cash</span><br>• Tax Deductible<br>Non-Tax Deductible 1</td>
     <td class="tg-vgx9"> <br>113<br>223</td>
     <td class="tg-vgx9"><br>131<br>195<br></td>
     <td class="tg-vgx9"><br>16%<br>(13%)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>Tax Deductible<br>Non-Tax Deductible</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>Tax Deductible<br>• Non-Tax Deductible</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9">-<br>-</td>
