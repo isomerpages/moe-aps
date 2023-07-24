@@ -45,7 +45,7 @@ Financial Information
 <thead>
   <tr>
     <td class="tg-z5wu">Charity Status<br><span style="color:#222;background-color:#EAEAEA">Unique Entity No: T09CC0004J</span><br><span style="color:#222;background-color:#EAEAEA">Charity Regn Date: 17 July 2009</span></td>
-    <td class="tg-rj1p">&nbsp; &nbsp; &nbsp; &nbsp;  IPC Status<br><span style="color:#222;background-color:#EAEAEA">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  IPC No: IPC000672</span><br><span style="color:#222;background-color:#EAEAEA">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Effective Date : 27 August 2023 to 26 August 2028</span></td>
+    <td class="tg-rj1p">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; IPC Status<br><span style="color:#222;background-color:#EAEAEA">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  IPC No: IPC000672</span><br><span style="color:#222;background-color:#EAEAEA">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Effective Date : 27 August 2023 to 26 August 2028</span></td>
   </tr>
 </thead>
 </table>
