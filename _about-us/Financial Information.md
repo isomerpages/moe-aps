@@ -158,7 +158,6 @@ Financial Information
 .tg .tg-g443{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:middle}
 .tg .tg-vgx9{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:top}
 </style>
-
 <table class="tg">
 <thead>
   <tr>
