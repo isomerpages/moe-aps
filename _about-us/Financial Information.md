@@ -244,7 +244,7 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Tangible Assets</span></td>
     <td class="tg-vgx9">1,634<br></td>
     <td class="tg-vgx9">1,314</td>
-    <td class="tg-vgx9">20%</td>
+    <td class="tg-vgx9">(20%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investments</span></td>
