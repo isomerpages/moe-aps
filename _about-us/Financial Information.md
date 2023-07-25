@@ -338,9 +338,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Liabilities</td>
-    <td class="tg-veki">22,760</td>
-    <td class="tg-veki">24,063</td>
-    <td class="tg-veki">6%</td>
+    <td class="tg-vgx9">22,760</td>
+    <td class="tg-vgx9">24,063</td>
+    <td class="tg-vgx9">6%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
@@ -350,9 +350,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds and Liabilities</td>
-    <td class="tg-veki">47,753</td>
-    <td class="tg-veki">45,173</td>
-    <td class="tg-veki">(5%)</td>
+    <td class="tg-vgx9">47,753</td>
+    <td class="tg-vgx9">45,173</td>
+    <td class="tg-vgx9">(5%)</td>
   </tr>
 </tbody>
 </table>
@@ -396,7 +396,7 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">No. of Employees</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">128</span></td>
     <td class="tg-vgx9">136</td>
-    <td class="tg-vgx9">(6%)</td>
+    <td class="tg-vgx9">6%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Employee Costs</span></td>
@@ -405,19 +405,19 @@ Financial Information
     <td class="tg-vgx9">4%</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Related Party Transactions (S$’000)</span> 8</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Related Party Transactions (S$’000)</span><sup> 8</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Fund-raising efficiency (S$’000)</span> 9</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Fund-raising efficiency (S$’000)</span><sup>9</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ratio of reserves to annual operating expenditure</span> 10</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ratio of reserves to annual operating expenditure</span><sup>10</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
