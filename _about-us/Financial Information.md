@@ -286,34 +286,34 @@ Financial Information
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
-    <td class="tg-rmnb">FUNDS <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
+    <td class="tg-rj1p">FUNDS <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unrestricted Fund</span> 5</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unrestricted Fund</span><sup>5</sup></td>
     <td class="tg-vgx9">20,969</td>
     <td class="tg-vgx9">17,087</td>
     <td class="tg-vgx9">(19%)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Restricted Fund</span> 6</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Restricted Fund</span><sup>6</sup></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">               4,024</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">4,023</span><br></td>
-    <td class="tg-vgx9">(0%)</td>
+    <td class="tg-vgx9">0%</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Endowment Fund</span> 7</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Endowment Fund</span><sup>7</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds</td>
-    <td class="tg-veki">24,993</td>
-    <td class="tg-veki">21,110</td>
-    <td class="tg-veki">(16%)</td>
+    <td class="tg-vgx9">24,993</td>
+    <td class="tg-vgx9">21,110</td>
+    <td class="tg-vgx9">(16%)</td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
