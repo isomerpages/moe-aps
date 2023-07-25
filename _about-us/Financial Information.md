@@ -278,9 +278,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Assets</td>
-    <td class="tg-veki">  47,753<br></td>
-    <td class="tg-veki">  45,173<br></td>
-    <td class="tg-veki">     (5%)</td>
+    <td class="tg-vgx9">47,753<br></td>
+    <td class="tg-vgx9">45,173<br></td>
+    <td class="tg-vgx9"> (5%)</td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
