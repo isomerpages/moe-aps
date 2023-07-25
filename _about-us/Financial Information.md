@@ -166,19 +166,19 @@ Financial Information
 </thead>
 <tbody>
   <tr>
-    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">Direct Fund-raising Expenses 2</span></td>
+    <td class="tg-w9w3"><span style="color:#222;background-color:#EAEAEA">Direct Fund-raising Expenses <sup>2</sup></span></td>
     <td class="tg-rj1p">-<br></td>
     <td class="tg-rj1p">-<br></td>
     <td class="tg-rj1p">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses</span> 3<br>Local<br>Overseas</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses</span>3<br>Local<br>Overseas</td>
     <td class="tg-y7qa"> <br>374<br>-<br></td>
     <td class="tg-y7qa"> <br>353<br>-<br></td>
     <td class="tg-y7qa"> <br>(6%)<br>-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Operating &amp; Administration Expenses</span> 4</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Operating &amp; Administration Expenses</span><sup> 4</sup></td>
     <td class="tg-y7qa">17,868</td>
     <td class="tg-y7qa">18,206</td>
     <td class="tg-y7qa">2%</td>
