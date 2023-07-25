@@ -92,22 +92,22 @@ Financial Information
     <td class="tg-1xc9">% Increase/ (Decrease)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Cash</span><br>Tax Deductible<br>Non-Tax Deductible 1</td>
-    <td class="tg-vgx9"> <br>113<br>223</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Cash</span><br>• Tax Deductible<br>• Non-Tax Deductible<sup>1</sup></td>
+    <td class="tg-vgx9"><br>113<br>223</td>
     <td class="tg-vgx9"><br>131<br>195<br></td>
     <td class="tg-vgx9"><br>16%<br>(13%)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>Tax Deductible<br>Non-Tax Deductible</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>• Tax Deductible<br>• Non-Tax Deductible</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9">-<br>-</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Grants / Sponsorships</span></td>
-    <td class="tg-vgx9">16,047<br></td>
+    <td class="tg-vgx9">16,945<br></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">14,023</span></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">17%</span></td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(17%)</span></td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investment income</span></td>
@@ -131,11 +131,19 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Income</span></td>
     <td class="tg-vgx9">17,550</td>
     <td class="tg-vgx9">14,917</td>
-    <td class="tg-vgx9">15%</td>
+    <td class="tg-vgx9">(15%)</td>
   </tr>
 </tbody>
 </table>
 
+1\. These include donations collected through flag days, donations that entail benefits to the donors and donations received for overseas purposes.  
+	
+2\. This refers to costs directly incurred and paid for during fund-raising. They include such costs as advertisements, printing, publicity materials, rental of premises, logistics, hiring of commercial third-party fund-raisers, organizing games of chance, etc.  
+  
+3\. These are all resources applied by the charity in undertaking its work to meet its charitable objectives in the delivery of goods and services. Such costs include the direct costs of the charitable activities together with those support costs incurred that enable these activities to be undertaken.  
+  
+4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -150,17 +158,6 @@ Financial Information
 .tg .tg-g443{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:middle}
 .tg .tg-vgx9{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:top}
 </style>
-
-   ~~~~
-
-1\. These include donations collected through flag days, donations that entail benefits to the donors and donations received for overseas purposes.  
-  
-2\. This refers to costs directly incurred and paid for during fund-raising. They include such costs as advertisements, printing, publicity materials, rental of premises, logistics, hiring of commercial third-party fund-raisers, organizing games of chance, etc.  
-  
-3\. These are all resources applied by the charity in undertaking its work to meet its charitable objectives in the delivery of goods and services. Such costs include the direct costs of the charitable activities together with those support costs incurred that enable these activities to be undertaken.  
-  
-4\. These are expenses which relate to the general running of the charity that provide the governance infrastructure which allows the charity to operate, to generate the information required for public accountability, and the strategic planning processes that contribute to future development of the charity.
-
 <table class="tg">
 <thead>
   <tr>
@@ -203,8 +200,9 @@ Financial Information
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(692)</span><br></td>
     <td class="tg-y7qa">(3642)<br></td>
     <td class="tg-y7qa">426%</td>
-  </tr>
-  <tr><style type="text/css">
+  </tr><tr>
+
+	<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -220,8 +218,7 @@ Financial Information
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-g443{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:middle}
-</style>
-</tr></tbody></table><table class="tg">
+</style></tr></tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-iva4">Balance Sheet</th>
@@ -247,7 +244,7 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Tangible Assets</span></td>
     <td class="tg-vgx9">1,634<br></td>
     <td class="tg-vgx9">1,314</td>
-    <td class="tg-vgx9">20%</td>
+    <td class="tg-vgx9">(20%)</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investments</span></td>
@@ -281,42 +278,42 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Assets</td>
-    <td class="tg-veki">47,753<br></td>
-    <td class="tg-veki">45,173<br></td>
-    <td class="tg-veki">(5%)</td>
+    <td class="tg-vgx9">47,753<br></td>
+    <td class="tg-vgx9">45,173<br></td>
+    <td class="tg-vgx9"> (5%)</td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
-    <td class="tg-rmnb">FUNDS <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
+    <td class="tg-rj1p">FUNDS <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unrestricted Fund</span> 5</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Unrestricted Fund</span><sup>5</sup></td>
     <td class="tg-vgx9">20,969</td>
     <td class="tg-vgx9">17,087</td>
     <td class="tg-vgx9">(19%)</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Restricted Fund</span> 6</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Restricted Fund</span><sup>6</sup></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">               4,024</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">4,023</span><br></td>
-    <td class="tg-vgx9">(0%)</td>
+    <td class="tg-vgx9">0%</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Endowment Fund</span> 7</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Endowment Fund</span><sup>7</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds</td>
-    <td class="tg-veki">24,993</td>
-    <td class="tg-veki">21,110</td>
-    <td class="tg-veki">(16%)</td>
+    <td class="tg-vgx9">24,993</td>
+    <td class="tg-vgx9">21,110</td>
+    <td class="tg-vgx9">(16%)</td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
@@ -337,13 +334,13 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Current Liabilities</span></td>
     <td class="tg-vgx9">3,257</td>
     <td class="tg-vgx9">5,826</td>
-    <td class="tg-vgx9">(79%)</td>
+    <td class="tg-vgx9">79%</td>
   </tr>
   <tr>
     <td class="tg-rj1p">Total Liabilities</td>
-    <td class="tg-veki">22,760</td>
-    <td class="tg-veki">24,063</td>
-    <td class="tg-veki">(6%)</td>
+    <td class="tg-vgx9">22,760</td>
+    <td class="tg-vgx9">24,063</td>
+    <td class="tg-vgx9">6%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
@@ -353,9 +350,9 @@ Financial Information
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds and Liabilities</td>
-    <td class="tg-veki">47,753</td>
-    <td class="tg-veki">45,173</td>
-    <td class="tg-veki">(5%)</td>
+    <td class="tg-vgx9">47,753</td>
+    <td class="tg-vgx9">45,173</td>
+    <td class="tg-vgx9">(5%)</td>
   </tr>
 </tbody>
 </table>
@@ -399,7 +396,7 @@ Financial Information
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">No. of Employees</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">128</span></td>
     <td class="tg-vgx9">136</td>
-    <td class="tg-vgx9">(6%)</td>
+    <td class="tg-vgx9">6%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Employee Costs</span></td>
@@ -408,19 +405,19 @@ Financial Information
     <td class="tg-vgx9">4%</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Related Party Transactions (S$’000)</span> 8</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Total Related Party Transactions (S$’000)</span><sup> 8</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Fund-raising efficiency (S$’000)</span> 9</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Fund-raising efficiency (S$’000)</span><sup>9</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ratio of reserves to annual operating expenditure</span> 10</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Ratio of reserves to annual operating expenditure</span><sup>10</sup></td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
