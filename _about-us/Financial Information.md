@@ -340,7 +340,7 @@ Financial Information
     <td class="tg-rj1p">Total Liabilities</td>
     <td class="tg-veki">22,760</td>
     <td class="tg-veki">24,063</td>
-    <td class="tg-veki">(6%)</td>
+    <td class="tg-veki">6%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> </span></td>
