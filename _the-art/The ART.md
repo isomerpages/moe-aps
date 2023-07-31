@@ -3,7 +3,7 @@ title: The ART
 permalink: /the-art/
 description: ""
 ---
-<img src="images/ART/The%20ART%20Logo.png" style="width:70%" align="left">
+<img src="/images/ART/The%20ART%20Logo.png" style="width:70%" align="left">
 
 <br clear="left">
 
