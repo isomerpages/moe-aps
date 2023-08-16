@@ -98,7 +98,7 @@ description: ""
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Donations in Kind</span><br><br>• Tax Deductible<br>• Non-Tax Deductible</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
     <td class="tg-vgx9"> <br>-<br>-</td>
-    <td class="tg-vgx9">-<br>-</td>
+    <td class="tg-vgx9"> <br>-<br>-</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Grants / Sponsorships</span></td>
