@@ -3,7 +3,7 @@ title: Financial Information
 permalink: /about-us/financialinfo/permalink/
 description: ""
 ---
-Financial Information
+
 =====================
 
 <style type="text/css">
