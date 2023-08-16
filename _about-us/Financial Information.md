@@ -110,7 +110,7 @@ description: ""
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investment income</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">67</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">163</span><br></td>
-    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">(143%)</span></td>
+    <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA">143%</span></td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Investment gains</span></td>
