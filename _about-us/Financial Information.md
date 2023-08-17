@@ -311,7 +311,7 @@ description: ""
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
   </tr>
   <tr>
-    <td class="tg-rmnb">LIABILITIES <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
+    <td class="tg-rj1p">LIABILITIES <span style="color:#222;background-color:#EAEAEA">(To breakdown by each fund as suggested below)</span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-g443"><span style="color:#222;background-color:#EAEAEA"> </span></td>
