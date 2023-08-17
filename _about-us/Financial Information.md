@@ -38,6 +38,7 @@ description: ""
 .tg .tg-z5wu{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -143,10 +144,12 @@ description: ""
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+	
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;}
+	
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+	
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-iva4{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-w9w3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
@@ -169,7 +172,7 @@ description: ""
     <td class="tg-rj1p">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses<sup>3</sup></span><br>Local<br>Overseas</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses<sup>3</sup></span><br>• Local<br>• Overseas</td>
     <td class="tg-y7qa"> <br>374<br>-<br></td>
     <td class="tg-y7qa"> <br>353<br>-<br></td>
     <td class="tg-y7qa"> <br>(6%)<br>-</td>
