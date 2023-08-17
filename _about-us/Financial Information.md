@@ -159,10 +159,15 @@ description: ""
 .tg .tg-vgx9{background-color:#EAEAEA;color:#222;text-align:right;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+
+	<thead>
   <tr>
-    <th class="tg-iva4" colspan="4">Expenses</th>
-  </tr>
+   <td class="tg-1xc9">Expenses</td>
+<td class="tg-1xc9">FY 2021 Jan to Dec (S$'000)</td>
+<td class="tg-1xc9">FY 2022 Jan to Dec (S$'000)</td>
+<td class="tg-1xc9">%Increase/(Decrease)</td>
+
+		</tr>
 </thead>
 <tbody>
   <tr>
