@@ -223,9 +223,9 @@ description: ""
 <tbody>
   <tr>
 		<td class="tg-w9w3">ASSETS</td>
-    <td class="tg-nr7g"></td>
-    <td class="tg-nr7g"></td>
-    <td class="tg-nr7g"></td>
+    <td class="tg-w9w3"></td>
+    <td class="tg-w9w3"></td>
+    <td class="tg-w9w3"></td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Land and Buildings</span></td>
