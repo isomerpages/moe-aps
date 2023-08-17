@@ -58,7 +58,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cjod{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 </style>
-<br>
+
 <table class="tg">
 <thead>
   <tr>
@@ -66,7 +66,7 @@ description: ""
   </tr>
 </thead>
 </table>
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
