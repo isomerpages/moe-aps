@@ -222,7 +222,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rmnb">ASSETS</td>
+		<td class="tg-nr7g"><b>ASSETS</b></td>
     <td class="tg-nr7g"></td>
     <td class="tg-nr7g"></td>
     <td class="tg-nr7g"></td>
@@ -269,11 +269,11 @@ description: ""
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td class="tg-rj1p">Total Assets</td>
     <td class="tg-vgx9">47,753<br></td>
-    <td class="tg-vgx9">45,173<br></td>
-    <td class="tg-vgx9"> (5%)</td>
+		<td class="tg-vgx9">45,173<br></td>
+		<td class="tg-vgx9"> <b>(5%)</b></td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="4"><span style="color:#222;background-color:#EAEAEA"> &nbsp;&nbsp;&nbsp;</span></td>
@@ -343,7 +343,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-rj1p">Total Funds and Liabilities</td>
-    <td class="tg-vgx9">47,753</td>
+		<td class="tg-vgx9">47,753</td>
     <td class="tg-vgx9">45,173</td>
     <td class="tg-vgx9">(5%)</td>
   </tr>
