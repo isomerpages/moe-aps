@@ -169,7 +169,7 @@ description: ""
     <td class="tg-rj1p">-</td>
   </tr>
   <tr>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses</span>3<br>Local<br>Overseas</td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses<sup>3</sup></span><br>Local<br>Overseas</td>
     <td class="tg-y7qa"> <br>374<br>-<br></td>
     <td class="tg-y7qa"> <br>353<br>-<br></td>
     <td class="tg-y7qa"> <br>(6%)<br>-</td>
