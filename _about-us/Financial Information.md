@@ -42,7 +42,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td style="width:50%" class="tg-z5wu">Charity Status<br><span style="color:#222;background-color:#EAEAEA">Unique Entity No: T09CC0004J</span><br><span style="color:#222;background-color:#EAEAEA">Charity Regn Date: 17 July 2009</span></td>
+    <td style="width:50%" class="tg-rj1p">Charity Status<br><span style="color:#222;background-color:#EAEAEA">Unique Entity No: T09CC0004J</span><br><span style="color:#222;background-color:#EAEAEA">Charity Regn Date: 17 July 2009</span></td>
 		<td class="tg-rj1p">IPC Status<br><span style="color:#222;background-color:#EAEAEA">IPC No: IPC000672</span><br><span style="color:#222;background-color:#EAEAEA">Effective Date : 27 August 2023 to 26 August 2028</span>
 		
 </td>
@@ -58,6 +58,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cjod{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 </style>
+<br>
 <table class="tg">
 <thead>
   <tr>
@@ -65,7 +66,7 @@ description: ""
   </tr>
 </thead>
 </table>
-
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
