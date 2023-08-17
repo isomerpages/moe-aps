@@ -259,7 +259,7 @@ description: ""
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Accounts Receivable</span></td>
     <td class="tg-vgx9">143<br></td>
     <td class="tg-vgx9">234</td>
-    <td class="tg-vgx9">(64%)</td>
+    <td class="tg-vgx9">64%</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Cash &amp; Deposits</span></td>
