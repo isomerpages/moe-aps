@@ -222,7 +222,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-		<td class="tg-nr7g"><b>ASSETS</b></td>
+		<td class="tg-iva4">ASSETS</td>
     <td class="tg-nr7g"></td>
     <td class="tg-nr7g"></td>
     <td class="tg-nr7g"></td>
