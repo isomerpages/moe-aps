@@ -214,7 +214,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-iva4">Balance Sheet</th>
+    <th class="tg-1xc9">Balance Sheet</th>
     <th class="tg-1xc9">FY2021 Jan to Dec (S$'000)</th>
     <th class="tg-1xc9">FY2022 Jan to Dec (S$'000)</th>
     <th class="tg-1xc9">% Increase/ (Decrease)</th>
@@ -222,7 +222,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-		<td class="tg-iva4">ASSETS</td>
+		<td class="tg-w9w3">ASSETS</td>
     <td class="tg-nr7g"></td>
     <td class="tg-nr7g"></td>
     <td class="tg-nr7g"></td>
