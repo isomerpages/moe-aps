@@ -172,9 +172,9 @@ description: ""
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Charitable Activities Expenses<sup>3</sup></span><br>• Local<br>• Overseas</td>
-    <td class="tg-vgx9"> <br>374<br>-<br></td>
-    <td class="tg-vgx9"> <br>353<br>-<br></td>
-    <td class="tg-vgx9"> <br>(6%)<br>-</td>
+    <td class="tg-vgx9"> <br><br><br>374<br>-<br></td>
+    <td class="tg-vgx9"> <br><br><br>353<br>-<br></td>
+    <td class="tg-vgx9"> <br><br><br>(6%)<br>-</td>
   </tr>
   <tr>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Other Operating &amp; Administration Expenses</span><sup> 4</sup></td>
