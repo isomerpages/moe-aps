@@ -302,7 +302,7 @@ description: ""
     <td class="tg-vgx9">-</td>
     <td class="tg-vgx9">-</td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td class="tg-rj1p">Total Funds</td>
     <td class="tg-vgx9">24,993</td>
     <td class="tg-vgx9">21,110</td>
@@ -329,7 +329,7 @@ description: ""
     <td class="tg-vgx9">5,826</td>
     <td class="tg-vgx9">79%</td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td class="tg-rj1p">Total Liabilities</td>
     <td class="tg-vgx9">22,760</td>
     <td class="tg-vgx9">24,063</td>
@@ -341,7 +341,7 @@ description: ""
     <td class="tg-vgx9"> </td>
     <td class="tg-vgx9"> </td>
   </tr>
-  <tr>
+  <tr style="font-weight:bold">
     <td class="tg-rj1p">Total Funds and Liabilities</td>
 		<td class="tg-vgx9">47,753</td>
     <td class="tg-vgx9">45,173</td>
@@ -447,9 +447,9 @@ description: ""
     <td class="tg-1xc9">Fund-Raising Expenses(S$'000)</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">-</td>
-    <td class="tg-y7qa">-</td>
-    <td class="tg-y7qa">-</td>
+    <td class="tg-vgx9">-</td>
+    <td class="tg-vgx9">-</td>
+    <td class="tg-vgx9">-</td>
   </tr>
 </tbody>
 </table>
