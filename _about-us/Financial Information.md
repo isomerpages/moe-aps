@@ -23,7 +23,7 @@ description: ""
     <td class="tg-rj1p" colspan="2">1. Non-Financial Information</td>
   </tr>
   <tr>
-    <td class="tg-rj1p">Address:<br>30 Cashew Road,<br>Singapore 679697<br><br>Email Address: <a href="mailto:aps@ite.edu.sg"><span style="text-decoration:none;color:#427B36">aps@s</span></a>chools.gov.sg</td>
+    <td class="tg-rj1p">Address:<br>30 Cashew Road,<br>Singapore 679697<br><br>Email Address: <a href="mailto:aps@ite.edu.sg"><span style="text-decoration:none;color:#427B36">aps@schools.gov.sg</span></a></td>
     <td class="tg-rj1p">Contact Information:<br><br>Name of Contact Person: Mr Alvin Wong<br>Telephone No: 62793000<br>Fax No: 67622857</td>
   </tr>
 </tbody>
