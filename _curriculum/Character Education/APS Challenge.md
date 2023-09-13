@@ -7,4 +7,4 @@ third_nav_title: Character Education
 APS Challenge
 ==============================
 
-![](/images/Curriculum/Income%20Orange.jpeg)
+![](/images/aps%20challenge%20for%20website.JPG)
