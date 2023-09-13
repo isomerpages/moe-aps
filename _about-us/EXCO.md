@@ -11,7 +11,6 @@ ExCo
 | Mr Stephen Chin Hong Ern | Principal |
 | Mr Shashidaran S/O Kaneson | Vice-Principal, Instructional Programme |
 | Dr Wee Siew Fong Jasmine | Vice-Principal, Vocational Education |
-| Mr Wong Mun Fei Alvin | Vice-Principal, Administration |
 | Mr Tan Boon Hong Mark | Head of Department, Facility Services |
 | Ms Lin Hui Sayan Anvie | Subject Head, Hospitality Services |
 | Mr Eng Choon Hian McDonald  | Subject Head, Culinary Skills  |
