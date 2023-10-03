@@ -6,8 +6,8 @@ links:
     collection: curriculum
   - title: Admission
     collection: admission
-  - title: Student
-    collection: student
+  - title: Students
+    collection: students
   - title: Staff
     url: https://sites.google.com/moe.edu.sg/aps-staff/
     sublinks:
