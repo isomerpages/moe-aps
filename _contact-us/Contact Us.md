@@ -10,10 +10,8 @@ Contact Us
 
 
 
-Tel:&nbsp;**+65**&nbsp;**6279 3000**<br>
-Fax: +65 6762 2857
+Tel:&nbsp;**+65**&nbsp;**6279 3000**
 
-  
 
 Email:&nbsp;[aps@schools.gov.sg](mailto:aps@schools.gov.sg)
 
