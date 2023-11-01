@@ -5,7 +5,10 @@ description: ""
 ---
 Newsletter
 ==========
-#### [APS Newsletter 2023 - Semester 1](/files/Newsletter/2023%20aps%20newsletter%20issue%201.pdf)
+
+#### [APS Newsletter 2023 - Issue 2](/files/Newsletter/newsletter%202023%20issue%202.pdf)
+
+#### [APS Newsletter 2023 - Issue 1](/files/Newsletter/2023%20aps%20newsletter%20issue%201.pdf)
 
 
 
