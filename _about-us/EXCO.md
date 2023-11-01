@@ -29,7 +29,7 @@ ExCo
 | Mr Mohamed Izam Bin Mohamed Hani | Year Head - 3 |
 | Mr Shukor Bin Kassim     | Year Head - 4 |
 | Mr Mui Chee Yin Casey | School Staff Developer |
-| Mr Ang Ghim Phong Kelvin | Head of Department, Administration |
+| Mr Ang Kelvin | Head of Department, Administration |
 | Ms Lee Ee Sang Serene | Head of Department, Finance|
 | Ms Choo Geok Hua | Head of Department, Human Resource |
 | Mr Mohammad Azlan Bin Abd Rahim | Operations Manager |
