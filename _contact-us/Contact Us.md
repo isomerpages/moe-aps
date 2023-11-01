@@ -6,15 +6,16 @@ description: ""
 Contact Us
 ==========
 
-  
-
-
-
-Tel:&nbsp;**+65**&nbsp;**6279 3000**
-
+Telephone: **6279 3000**
 
 Email:&nbsp;[aps@schools.gov.sg](mailto:aps@schools.gov.sg)
 
-![](/images/APS%20Location%20Map.jpg)
+Address: 30 Cashew Road, Singapore 679697
 
-![](/images/APS%20Location%20Map%20-%20Directions.jpg)
+Buses:  75, 184 (Bus Stop 1 and 2)
+
+Buses:  67, 75, 170, 176, 178, 184, 961, 963, 970 (Bus Stop 3 and 4)
+
+MRT: Cashew Station
+
+![](/images/APS%20Location%20Map.jpg)
