@@ -11,16 +11,10 @@ links:
   - title: Staff
     url: https://sites.google.com/moe.edu.sg/aps-staff/
     sublinks:
-      - title: APS Portal
-        url: https://intranet.apsch.edu.sg/
       - title: APS Staff Google Site
         url: https://sites.google.com/moe.edu.sg/aps-staff/
       - title: Opal 2.0
         url: https://idm.opal2.moe.edu.sg/
-      - title: SIMS
-        url: https://sims.apsch.edu.sg/
-      - title: Timesoft
-        url: https://hr.apsch.edu.sg/TimeSolution/Signin.aspx
   - title: The ART
     collection: the-art
   - title: Partnerships
