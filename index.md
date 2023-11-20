@@ -12,4 +12,12 @@ sections:
           description: ""
           url: https://calendar.google.com/calendar/embed?src=c_shb69o5g3diif4s0i8uq5ucric%40group.calendar.google.com&ctz=Asia%2FSingapore
       background: /images/rsz_115th_anniversary_website2.jpg
+  - infobar:
+      title: APS Open House 2023
+      id: infobar
+      description: |
+        22 Nov: 1-4pm; 
+        23 - 24 Nov: 8.30am-12pm
+      button: Open House webpage
+      url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
 ---
