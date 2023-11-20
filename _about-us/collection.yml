@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Yearbook.md
       - About Us.md
       - School Crest.md
       - Financial Information.md
@@ -12,4 +11,5 @@ collections:
       - Privacy Policy.md
       - Montfortian Education Charter.md
       - Newsletter.md
+      - Yearbook.md
       - Spotlight.md
