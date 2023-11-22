@@ -1,6 +1,6 @@
 ---
 title: Yearbook
-permalink: /about-us/permalink/
+permalink: /about-us/yearbook/
 variant: markdown
 description: ""
 ---
