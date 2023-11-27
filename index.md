@@ -14,13 +14,22 @@ sections:
       background: /images/rsz_115th_anniversary_website2.jpg
   - infopic:
       title: APS Story
-      subtitle: " "
       id: infopic
       description: Suganya shares how she overcame her challenges and is now guiding others.
-      button: continue here
+      button: continue
       url: https://youtu.be/ZQrolgs0ap0?si=nFvRuOcqF9TbJScJ
       image: /images/SUGANYA__1_.jpg
       alt: Suganya
+  - infopic:
+      title: APS Story
+      subtitle: " "
+      id: infopic
+      description: Meet Sakinah and witness her transformation with the support of our
+        job coaches.
+      button: continue
+      url: https://youtu.be/u-Td78ERXyU?si=VMEVkovHdImBz39c
+      image: /images/SAKINAH__1_.jpg
+      alt: Sakinah
   - infobar:
       title: APS Open House 2023
       id: infobar
