@@ -15,9 +15,19 @@ sections:
   - infobar:
       title: APS Open House 2023
       id: infobar
-      description: |
+      description: |-
         22 Nov: 1-4pm; 
         23 - 24 Nov: 8.30am-12pm
       button: Open House webpage
       url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
+  - infopic:
+      title: APS Story
+      subtitle: Add an image and text
+      id: infopic
+      description: Meet Suganya sharing how she overcame her challenges and is now
+        guiding others.
+      button: continue here
+      url: https://youtu.be/ZQrolgs0ap0?si=nFvRuOcqF9TbJScJ
+      image: /images/SUGANYA__1_.jpg
+      alt: Suganya
 ---
