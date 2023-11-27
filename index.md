@@ -22,7 +22,7 @@ sections:
       url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
   - infopic:
       title: APS Story
-      subtitle: Add an image and text
+      subtitle: " "
       id: infopic
       description: Suganya shares how she overcame her challenges and is now guiding others.
       button: continue here
