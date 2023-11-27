@@ -24,8 +24,7 @@ sections:
       title: APS Story
       subtitle: Add an image and text
       id: infopic
-      description: Meet Suganya sharing how she overcame her challenges and is now
-        guiding others.
+      description: Suganya shares how she overcame her challenges and is now guiding others.
       button: continue here
       url: https://youtu.be/ZQrolgs0ap0?si=nFvRuOcqF9TbJScJ
       image: /images/SUGANYA__1_.jpg
