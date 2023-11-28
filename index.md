@@ -13,12 +13,12 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=c_shb69o5g3diif4s0i8uq5ucric%40group.calendar.google.com&ctz=Asia%2FSingapore
       background: /images/rsz_115th_anniversary_website2.jpg
   - infobar:
-      title: APS Open House 2023
+      title: Registration for AY2024
       id: infobar
       button: find out more
       url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
   - infopic:
-      title: APS Story
+      title: Rising Up Against All Odds
       id: infopic
       description: Suganya shares how she overcame her challenges and is now guiding others.
       button: continue
@@ -26,7 +26,7 @@ sections:
       image: /images/SUGANYA__1_.jpg
       alt: Suganya
   - infopic:
-      title: APS Story
+      title: Through Hard Work Achieve Success
       id: infopic
       description: Meet Sakinah and witness her transformation with the support of our
         job coaches.
