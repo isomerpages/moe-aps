@@ -3,6 +3,11 @@ collections:
     output: true
     order:
       - Curriculum.md
+      - Foundation Education/.keep
+      - Foundation Education/Foundation Education.md
+      - Foundation Education/English.md
+      - Foundation Education/Math.md
+      - Foundation Education/Information Communication Technology.md
       - Character Education/.keep
       - Character Education/Character Education.md
       - Character Education/Montfort Development Programme.md
@@ -12,11 +17,6 @@ collections:
       - Character Education/Sexuality Education Programme.md
       - Character Education/Arts Appreciation Programme.md
       - Character Education/Physical Education.md
-      - Foundation Education/.keep
-      - Foundation Education/Foundation Education.md
-      - Foundation Education/English.md
-      - Foundation Education/Math.md
-      - Foundation Education/Information Communication Technology.md
       - Vocational Education/.keep
       - Vocational Education/Vocational Education.md
       - Vocational Education/ITE Skills Certificate.md
