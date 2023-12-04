@@ -4,8 +4,7 @@ permalink: /partnerships/stengineering/
 description: ""
 variant: markdown
 ---
-ST Engineering
-==============
+
 <br clear="left">
 <img src="/images/ST Engineering/ST Engineering.jpg" style="width:60%" align="left">
 
