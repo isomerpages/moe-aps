@@ -4,9 +4,7 @@ permalink: /partnerships/temasekfoundation/
 description: ""
 variant: markdown
 ---
-Temasek Foundation
-==================
-<br>
+
 <img src="/images/Temasek Foundation/TF logo.png" style="width:45%" align="left">
 
 <br clear="left">
