@@ -4,8 +4,7 @@ permalink: /partnerships/sats/
 description: ""
 variant: markdown
 ---
-SATS
-====
+
 <img src="/images/SATS/SATS.jpg" style="width:25%" align="left">
 
 <br clear="left">
