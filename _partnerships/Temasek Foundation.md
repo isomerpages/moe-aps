@@ -2,6 +2,7 @@
 title: Temasek Foundation
 permalink: /partnerships/temasek/permalink/
 description: ""
+variant: markdown
 ---
 Temasek Foundation
 ==================
@@ -39,5 +40,5 @@ Temasek Foundation has also contributed to other school programmes, such as burs
 <img src="/images/Temasek Foundation/bake%20and%20brew%201.jpg" style="width:70%">
 
 <br><center>Ms Woon Saet Nyoon, Head, Community Networks &amp; Partnerships of Temasek Foundation receiving the Friend of APS Award from Minister Chan Chun Sing.
-![](/images/Temasek%20Foundation/2023%20foa-temasekfoundation.png)
+![](/images/Temasek%20Foundation/2023_FOA_TemasekFoundation_copy.jpg)
 </center>
