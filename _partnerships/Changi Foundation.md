@@ -2,10 +2,8 @@
 title: Changi Foundation
 permalink: /partnerships/changifoundation/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-Changi Foundation
-=================
 
 <img src="/images/Changi Foundation/Changi%20Foundation.jpg" style="width:50%" align="left">
 
