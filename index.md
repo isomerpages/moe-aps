@@ -18,7 +18,7 @@ sections:
       subtitle: " application for AY2024"
       id: infobar
       description: 2023 APS Year 4 students with GPA 2.5 and above, application is now
-        open till 22 Dec 2023.
+        open till 22 Dec 2023. For assistance, please contact ITE.
       button: apply
       url: https://www.ite.edu.sg/apply-for-ITE-courses
   - infobar:
