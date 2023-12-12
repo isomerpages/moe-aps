@@ -17,8 +17,8 @@ sections:
       title: Application for ITE Courses
       subtitle: 2023 APS Y4 students
       id: infobar
-      description: From MON 18 DEC 2023 (2.30PM) to THU 21 DEC 2023 (5PM). Require at
-        least GPA of 2.5 points to apply. Please contact ITE for assistance.
+      description: From Mon 18 Dec 2023 (2.30pm) to Thu 21 Dec 2023 (5pm). Require at
+        least GPA of 2.5 points to apply. Contact ITE for assistance.
       button: APPLY
       url: https://www.ite.edu.sg/apply-for-ITE-courses
   - infobar:
