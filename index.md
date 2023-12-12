@@ -14,11 +14,11 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infobar:
-      title: Application for ITE Nitec Courses
+      title: Application for ITE Courses
       subtitle: 2023 APS Y4 students
       id: infobar
-      description: MON 18 DEC 2023 - THU 21 DEC 2023 (Require at least GPA of 2.5
-        points to apply) Please contact ITE for assistance.
+      description: MON 18 DEC 2023 (2.30PM) - THU 21 DEC 2023 (5PM). Require at least
+        GPA of 2.5 points to apply. Please contact ITE for assistance.
       button: APPLY
       url: https://www.ite.edu.sg/apply-for-ITE-courses
   - infobar:
