@@ -13,14 +13,15 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=c_shb69o5g3diif4s0i8uq5ucric%40group.calendar.google.com&ctz=Asia%2FSingapore
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
-  - infobar:
-      title: ITE Nitec Courses
-      subtitle: " application for AY2024"
-      id: infobar
-      description: 2023 APS Year 4 students with GPA 2.5 and above, application is now
-        open till 22 Dec 2023. For assistance, please contact ITE.
-      button: apply
+  - infopic:
+      title: ITE Courses
+      subtitle: apply for
+      id: infopic
+      description: (Jan 2024 Intake)
+      button: apply now
       url: https://www.ite.edu.sg/apply-for-ITE-courses
+      image: /images/Apply_for_ITE.gif
+      alt: Image alt text
   - infobar:
       title: Registration for AY2024
       id: infobar
