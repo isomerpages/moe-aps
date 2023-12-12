@@ -14,6 +14,14 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infobar:
+      title: ITE Nitec Courses
+      subtitle: " application for AY2024"
+      id: infobar
+      description: 2023 APS Year 4 students with GPA 2.5 and above, application is now
+        open till 22 Dec 2023.
+      button: apply
+      url: https://www.ite.edu.sg/apply-for-ITE-courses
+  - infobar:
       title: Registration for AY2024
       id: infobar
       button: find out more
