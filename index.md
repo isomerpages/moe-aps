@@ -15,11 +15,13 @@ sections:
       title: Ready for Work and Life
   - infobar:
       title: Application for ITE Courses
-      subtitle: 2023 APS Y4 students
+      subtitle: 2023 Y4 ISC students
       id: infobar
-      description: From Mon 18 Dec 2023 (2.30pm) to Thu 21 Dec 2023 (5.00pm). Require
-        at least GPA of 2.5 points to apply. Contact ITE for assistance.
-      button: APPLY
+      description: >-
+        Open for only 4 working days 
+
+        between 2.30pm on Monday, 18 December 2023 and 5.00pm on Thursday, 21 December 2023.
+      button: MORE INFO
       url: https://www.ite.edu.sg/apply-for-ITE-courses
   - infobar:
       title: Registration for AY2024
