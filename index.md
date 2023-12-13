@@ -14,15 +14,13 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infobar:
-      title: Application for ITE Courses
+      title: Apply for ITE Nitec Courses
       subtitle: 2023 Y4 ISC students
       id: infobar
-      description: >-
-        Open for only 4 working days 
-
-        between 2.30pm on Monday, 18 December 2023 and 5.00pm on Thursday, 21 December 2023.
+      description: Application is open for only 4 working days between 2.30pm on
+        Monday, 18 December 2023 and 5.00pm on Thursday, 21 December 2023.
       button: MORE INFO
-      url: https://www.ite.edu.sg/apply-for-ITE-courses
+      url: https://www.aps.edu.sg/students/apply-for-ite/
   - infobar:
       title: Registration for AY2024
       id: infobar
