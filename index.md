@@ -15,7 +15,6 @@ sections:
       title: Ready for Work and Life
   - infobar:
       title: Application for ITE Courses for Year 4 ISC Students
-      subtitle: 2023 Y4 ISC students
       id: infobar
       description: >-
         Open for only 4 working days 
