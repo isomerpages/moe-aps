@@ -16,15 +16,10 @@ sections:
   - infobar:
       title: Application for ITE Courses for Year 4 ISC Students
       id: infobar
-      description: Application opens for only 4 working days between 2.30pm on Monday,
-        18 December 2023 and 5.00pm on Thursday, 21 December 2023.
+      description: Application will be open for only 4 working days between 2.30pm on
+        Monday, 18 December 2023 and 5.00pm on Thursday, 21 December 2023.
       button: MORE INFO
       url: https://www.aps.edu.sg/students/apply-for-ite/
-  - infobar:
-      title: Registration for AY2024
-      id: infobar
-      button: find out more
-      url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
   - infopic:
       title: Rising Up Against All Odds
       id: infopic
