@@ -1,10 +1,10 @@
 ---
 title: SATS
-permalink: /partnerships/sats/permalink/
+permalink: /partnerships/sats/
 description: ""
+variant: markdown
 ---
-SATS
-====
+
 <img src="/images/SATS/SATS.jpg" style="width:25%" align="left">
 
 <br clear="left">
@@ -15,7 +15,7 @@ SATS is Asia's preeminent provider of food solutions and a global leader in gate
 
 SATS is a strong collaborative partner and has been sharing culinary expertise with APS since 2009. The scope of collaboration spans across Industrial Experiential Programmes (IEP) for APS students to gain useful working experience as well as insight on how to better improve our F&amp;B programmes.
 
-They have also assisted with the set-up of APS training restaurant, [The ART](https://www.aps.edu.sg/the-art/permalink/) (Assumption Restaurant for Training) as well as to build F&amp;B facilities in order to support the school's initiatives and students' training. 
+They have also assisted with the set-up of APS training restaurant, [The ART](https://www.aps.edu.sg/the-art/) (Assumption Restaurant for Training) as well as to build F&amp;B facilities in order to support the school's initiatives and students' training. 
 
 In addition, SATS also sponsor awards to APS students in the F&amp;B related courses. The awards are presented during the annual School Graduation Ceremony.
 

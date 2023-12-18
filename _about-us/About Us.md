@@ -2,6 +2,7 @@
 title: About Us
 permalink: /about-us/
 description: ""
+variant: markdown
 ---
 About Us
 ========
@@ -16,27 +17,23 @@ Currently, APS is managed by the St Gabriel’s Foundation under the Montfort Br
 
 APS Corporate Video
 -------------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IpH_2NFobZU" title="APS Corporate Video 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/STCM6KFYrwI?si=Z_RrKJ0hzzA4HRe6" height="315" width="560"></iframe>
 
 
 Purpose
 -------
-
 Assumption Pathway School is a Catholic Educational Institution transforming and empowering students unable to access or complete mainstream secondary education to be CARERs Achieving Personal Success.  
 
 Vision
 ------
-
 Every Student a CARER Achieving Personal Success
 
 Tagline
 -------
-
 Many Paths. One Purpose
 
 Motto
 -----
-
 Through Hard Work Achieve Success
 
 Values

@@ -1,10 +1,9 @@
 ---
 title: Changi Foundation
-permalink: /partnerships/changi/permalink/
+permalink: /partnerships/changifoundation/
 description: ""
+variant: markdown
 ---
-Changi Foundation
-=================
 
 <img src="/images/Changi Foundation/Changi%20Foundation.jpg" style="width:50%" align="left">
 

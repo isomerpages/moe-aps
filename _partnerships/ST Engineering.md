@@ -1,10 +1,10 @@
 ---
 title: ST Engineering
-permalink: /partnerships/STEngineering/permalink/
+permalink: /partnerships/stengineering/
 description: ""
+variant: markdown
 ---
-ST Engineering
-==============
+
 <br clear="left">
 <img src="/images/ST Engineering/ST Engineering.jpg" style="width:60%" align="left">
 
@@ -12,7 +12,7 @@ ST Engineering
 
 ST Engineering is a global technology, defence and engineering group with a diverse portfolio of businesses across the aerospace, smart city, defence and public security segments. The Group harnesses technology and innovation to solve real-world problems, enabling a more secure and sustainable world.
 
-Since 2013, ST Engineering has been supporting APS Industry Experiential Programme (IEP), a two-week attachment for students to gain industry knowledge. IEP is a significant platform that provides learning opportunity and prepares students to be work ready. 
+Since 2013, ST Engineering has been supporting APS Industry Experiential Programme (IEP), an attachment programme for students to gain industry knowledge. IEP is a significant platform that provides learning opportunity and prepares students to be work ready. 
 
 ![](/images/ST%20Engineering/stengineering1.jpg)
 
