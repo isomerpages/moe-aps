@@ -13,13 +13,6 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=c_shb69o5g3diif4s0i8uq5ucric%40group.calendar.google.com&ctz=Asia%2FSingapore
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
-  - infobar:
-      title: Application for ITE Courses for Year 4 ISC Students
-      id: infobar
-      description: Application will be open for only 4 working days between 2.30pm on
-        Monday, 18 December 2023 and 5.00pm on Thursday, 21 December 2023.
-      button: MORE INFO
-      url: https://www.aps.edu.sg/students/apply-for-ite/
   - infopic:
       title: Rising Up Against All Odds
       id: infopic
