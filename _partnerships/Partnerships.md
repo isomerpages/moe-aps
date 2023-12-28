@@ -1,7 +1,8 @@
 ---
 title: Partnerships
-permalink: /partnerships/permalink
+permalink: /partnerships/
 description: ""
+variant: tiptap
 ---
 Partnerships
 ============

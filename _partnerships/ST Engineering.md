@@ -4,7 +4,6 @@ permalink: /partnerships/stengineering/
 description: ""
 variant: markdown
 ---
-
 <br clear="left">
 <img src="/images/ST Engineering/ST Engineering.jpg" style="width:60%" align="left">
 
@@ -18,17 +17,7 @@ Since 2013, ST Engineering has been supporting APS Industry Experiential Program
 
 ST Engineering has also been funding enrichment and innovation projects, and contributing through awards to encourage students.
 
-
-<img src="/images/ST Engineering/1_st%20engineering%20acheivement%20award.jpg" style="width:80%;" align="centre">
-<br>
-<img src="/images/ST Engineering/2_st%20engineering%20acheivement%20award.jpg" style="width:80%;" align="centre">
-<br>
-<img src="/images/ST Engineering/3_st%20engineering%20best%20progress%20award.jpg" style="width:80%;" align="centre">
-<br>
-<img src="/images/ST Engineering/4_st%20engineering%20best%20progress%20award.jpg" style="width:80%;" align="centre">
-<br>
-<img src="/images/ST Engineering/5_st%20engineering%20character%20award.jpg" style="width:80%;" align="centre">
-
+<iframe allowfullscreen="true" height="400" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgN-gyW4Y4rr8lJdpAsgGCw_YT8bvug68g3sOnqgM1KHo4NdYLhpsLV9yXmfi7Pra53Vv8Zwofpe10/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 #### The ACT at ST Engineering
