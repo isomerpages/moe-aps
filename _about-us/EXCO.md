@@ -25,7 +25,7 @@ ExCo
 | Mr Manimaran Shyam Luke | Subject Head, Information and Communications Technology |
 | Mr Ow Kok Meng | Head of Department, Physical Education |
 | Ms Leong Mei Ern Audrey | Head of Department, Student Support |
-| Mr Peh Yee Peng Gabriel | Subject Head, Character & Citizenship Education |
+| Mr Peh Yee Peng Gabriel | Subject Head, Character & Citizenship Education / Student Development |
 | Mr Lee Thim Soon Ivan    | Subject Head, Character & Citizenship Education |
 | Mr Shukor Bin Kassim     | Year Head - 1 |
 | Mr Fong Yu Keong Christopher     | Year Head - 2 |
