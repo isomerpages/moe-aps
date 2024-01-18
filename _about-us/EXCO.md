@@ -2,38 +2,6 @@
 title: EXCO
 permalink: /about-us/exco/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-ExCo
-============
-
-| Name | Designation |
-|---|---|
-| Mr Stephen Chin Hong Ern | Principal |
-| Mr Shashidaran S/O Kaneson | Vice-Principal, Instructional Programme |
-| Dr Wee Siew Fong Jasmine | Vice-Principal, Vocational Education |
-| Ms Shabnam Lena | Vice-Principal, Admin |
-| Mr Tan Boon Hong Mark | Head of Department, Facility Services |
-| Ms Lin Hui Sayan Anvie | Subject Head, Hospitality Services |
-| Mr Eng Choon Hian McDonald  | Subject Head, Culinary Skills  |
-| Ms Goh Lee Lian Alice | Head of Department, Baking Practices and Hairdressing |
-| Mr Go Tien Lye Daniel | Head of Department, Assumption Pathway Academy |
-| Ms Chang Tian Ju | Head of Department, English Language |
-| Mr Ang Chin Hwee Mark | Subject Head, Mathematics |
-| Mr Suhaimi Bin Sukiyar | Head of Department, Aesthetics |
-| Mr Tan Soh Meng Freddie| Head of Department, Information and Communications Technology |
-| Mr Manimaran Shyam Luke | Subject Head, Information and Communications Technology |
-| Mr Ow Kok Meng | Head of Department, Physical Education |
-| Ms Leong Mei Ern Audrey | Head of Department, Student Support |
-| Mr Peh Yee Peng Gabriel | Subject Head, Character & Citizenship Education / Student Development |
-| Mr Lee Thim Soon Ivan    | Subject Head, Character & Citizenship Education |
-| Mr Shukor Bin Kassim     | Year Head - 1 |
-| Mr Fong Yu Keong Christopher     | Year Head - 2 |
-| Mr Muhamad Alfian Bin Tajuddin | Year Head - 3 |
-| Mr Mohamed Izam Bin Mohamed Hani | Year Head - 4 |
-| Mr Mui Chee Yin Casey | School Staff Developer |
-| Mr Ang Kelvin | Head of Department, Administration |
-| Ms Lee Ee Sang Serene | Head of Department, Finance|
-| Ms Choo Geok Hua | Head of Department, Human Resource |
-| Mr Mohammad Azlan Bin Abd Rahim | Operations Manager |
-|
+<h1>ExCo</h1><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME</p></th><th rowspan="1" colspan="1"><p>DESIGNATION</p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>SCHOOL LEADERS</strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Stephen Chin Hong Ern</p></td><td rowspan="1" colspan="1"><p>Principal</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Shashidaran S/O Kaneson</p></td><td rowspan="1" colspan="1"><p>Vice-Principal, Instructional Programme</p></td></tr><tr><td rowspan="1" colspan="1"><p>Dr Wee Siew Fong Jasmine</p></td><td rowspan="1" colspan="1"><p>Vice-Principal, Vocational Education</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Shabnam Lena</p></td><td rowspan="1" colspan="1"><p>Vice-Principal, Administration</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>INSTRUCTIONAL PROGRAMME</strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Suhaimi Bin Sukiyar</p></td><td rowspan="1" colspan="1"><p>Head of Department, Aesthetics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Chang Tian Ju</p></td><td rowspan="1" colspan="1"><p>Head of Department, English Language</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Soh Meng Freddie</p></td><td rowspan="1" colspan="1"><p>Head of Department, Info-Communication Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Manimaran Shyam Luke S/O Samiayya</p></td><td rowspan="1" colspan="1"><p>Subject Head, Info-Communication Technology</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Chin Hwee Mark</p></td><td rowspan="1" colspan="1"><p>Subject Head, Mathematics</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ow Kok Meng</p></td><td rowspan="1" colspan="1"><p>Head of Department, Physical Education</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Gabriel Peh Yee Peng</p></td><td rowspan="1" colspan="1"><p>Subject Head, Character &amp; Citizenship Education / Student Development</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Lee Thim Soon Ivan</p></td><td rowspan="1" colspan="1"><p>Subject Head, Character &amp; Citizenship Education</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Audrey Leong Mei Ern </p></td><td rowspan="1" colspan="1"><p>Head of Department, Student Support</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mui Chee Yin Casey</p></td><td rowspan="1" colspan="1"><p>School Staff Developer</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>VOCATIONAL EDUCATION</strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Go Tien Lye Daniel</p></td><td rowspan="1" colspan="1"><p>Head of Department, Assumption Pathway Academy</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ten Sze Onn John</p></td><td rowspan="1" colspan="1"><p>Subject Head, Baking and Culinary Skills</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Goh Soon Lai Lionel</p></td><td rowspan="1" colspan="1"><p>Subject Head, Hospitality Operations</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Goh Lee Lian Alice</p></td><td rowspan="1" colspan="1"><p>Head of Department, Baking Practices and Hairdressing</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Eng Choon Hian Mcdonald</p></td><td rowspan="1" colspan="1"><p>Subject Head, Culinary Skills</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Tan Boon Hong Mark</p></td><td rowspan="1" colspan="1"><p>Head of Department, Facility Services</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lin Hui Sayan Anvie</p></td><td rowspan="1" colspan="1"><p>Subject Head, Hospitality Services</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>YEAR HEAD</strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohamed Izam Bin Mohamed Hani</p></td><td rowspan="1" colspan="1"><p>Year Head - 4</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhamad Alfian Bin Tajuddin</p></td><td rowspan="1" colspan="1"><p>Year Head - 3</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Fong Yu Keong Christopher</p></td><td rowspan="1" colspan="1"><p>Year Head - 2</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Shukor Bin Kassim</p></td><td rowspan="1" colspan="1"><p>Year Head - 1</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>ADMINISTRATION</strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ang Ghim Phong Kelvin</p></td><td rowspan="1" colspan="1"><p>Head of Department, Administration</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lee Ee Sang Serene</p></td><td rowspan="1" colspan="1"><p>Head of Department, Finance</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Choo Geok Hua</p></td><td rowspan="1" colspan="1"><p>Head of Department, Human Resource</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohammad Azlan Bin Abd Rahim</p></td><td rowspan="1" colspan="1"><p>Head of Department, Operations</p></td></tr></tbody></table><p></p>
