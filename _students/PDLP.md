@@ -7,8 +7,8 @@ variant: markdown
 PDLP
 ====
 
-1. [APS PLD Initiatives](/files/aps%20infographic%20on%20the%20pld%20initiative_2023.pdf)
-2. [Student's Engagement Slides](/files/aps%20student%20engagement%20deck_2023.pdf)
+1. [APS PLD Initiaves](/files/PDLP/APS_Infographic_on_the_PLD_Initiative_2024_FINAL.pdf)
+2. 
 3. [Student's PLD Handbook](/files/PDLP%20Student%20Handbook%202021%20V1.pdf)
 4. [Student Device Information Kit](/files/aps%20student%20device%20information%20kit%202023.pdf)
 5. [Acceptable Use Policy PDLP](/files/PDLP%20Acceptable%20Use%20Policy.pdf)
