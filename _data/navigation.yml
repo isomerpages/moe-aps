@@ -1,0 +1,49 @@
+logo: /images/aps_logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Admission
+    collection: admission
+  - title: Students
+    collection: students
+  - title: Staff
+    url: https://sites.google.com/moe.edu.sg/aps-staff/
+    sublinks:
+      - title: APS Staff Google Site
+        url: https://sites.google.com/moe.edu.sg/aps-staff/
+      - title: Opal 2.0
+        url: https://idm.opal2.moe.edu.sg/
+  - title: The ART
+    collection: the-art
+  - title: Partnerships
+    url: /partnerships/
+    sublinks:
+      - title: Partnerships
+        url: /partnerships/permalink
+      - title: Parent
+        url: /partnerships/parent/permalink
+      - title: Alumni
+        url: /partnerships/alumni/permalink/
+      - title: Changi Foundation
+        url: /partnerships/changifoundation/
+      - title: SATS
+        url: /partnerships/sats/
+      - title: ST Engineering
+        url: /partnerships/stengineering/
+      - title: Temasek Foundation
+        url: /partnerships/temasekfoundation/
+      - title: Institute of Technical Edu
+        url: https://www.ite.edu.sg/
+  - title: Contact Us
+    url: /contactus/permalink
+    sublinks:
+      - title: Contact Us
+        url: /contactus/permalink
+      - title: Careers
+        url: /contactus/careers/
+      - title: Instagram
+        url: https://www.instagram.com/assumptionpathway/
+      - title: Facebook
+        url: https://www.facebook.com/assumptionpathwayschool/
