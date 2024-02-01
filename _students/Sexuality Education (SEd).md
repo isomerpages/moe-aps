@@ -4,7 +4,7 @@ permalink: /students/permalink/
 variant: tiptap
 description: ""
 ---
-<p><a href="/files/SEd/SEd_Website_write_Up.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education (SEd)</a> 
+<p><a href="/files/SEd/SEd_Website_write_Up.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education (SEd)</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
