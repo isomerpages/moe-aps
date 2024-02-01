@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Sexuality Education (SEd).md
       - Cyberwellness@APS.md
       - Student Learning Space (SLS).md
       - Student Support.md
+      - Sexuality Education (SEd).md
       - PDLP.md
       - Student Online Portal Password Reset.md
