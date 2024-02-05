@@ -28,7 +28,7 @@ Sexuality Education Programme
 
 &nbsp;&nbsp; &nbsp;&nbsp;(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://go.gov.sg/moe-sexuallity-education)&nbsp;for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
 **Overview of Assumption Pathway**&nbsp;**School’s**&nbsp;**Sexuality Education Programme for 2024**<br>
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
