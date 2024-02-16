@@ -6,30 +6,27 @@ third_nav_title: Character Education
 variant: tiptap
 ---
 <h1>Sexuality Education Programme</h1>
-<p><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong>
+<p><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong> 
 <br>1. Sexuality Education (SEd) in schools is about enabling students to
 understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships including those
-with members of the opposite sex, and make wise, informed and responsible
-decisions on sexuality matters. SEd is premised on the importance of the
-family as the basic unit of society. This means encouraging healthy, heterosexual
-marriages and stable nuclear family units with extended family support.
-The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
+as they mature, develop healthy and rewarding relationships with others,
+including those with members of the opposite sex, and make wise, informed
+and responsible decisions on sexuality matters. SEd is premised on the
+importance of the family as the basic unit of society. This means encouraging
+healthy, heterosexual marriages and stable nuclear family units with extended
+family support. The teaching and learning of SEd is based on respect for
+the values and beliefs of the different ethnic and religious communities
+in Singapore on sexuality issues.</p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
-<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(a) To help students make wise, responsible
-and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on
-human sexuality and the consequences of sexual activity;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;(b) To help students know themselves and build
-healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of
-self-awareness, management of their thoughts, feelings and behaviours,
-development of empathy for others, possession of effective communication,
-problem-solving and decision-making skills; and</p>
-<p>&nbsp;&nbsp; &nbsp;&nbsp;(c) To help students develop a moral compass,
-respect for themselves and for others as sexual beings, premised on the
-family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about
-sexuality.</p>
+<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(a) Support students in managing their
+physiological, social and emotional changes as they grow up and develop
+safe and healthy relationships.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;(b) Guide students to make wise, informed and
+responsible decisions on sexuality matters.</p>
+<p>&nbsp;&nbsp; &nbsp;&nbsp;(c) Help students develop a moral compass and
+respect for themselves and others by having positive mainstream values
+and attitudes about sexuality that are premised on the family as the basic
+unit of society.</p>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>&nbsp;&nbsp; &nbsp;&nbsp;(a) Love and respect yourself as you love and
 respect others;</p>
@@ -42,7 +39,7 @@ against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Assumption Pathway</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Assumption Pathway</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong> 
 <br>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -52,7 +49,7 @@ in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:
 <br>&nbsp;&nbsp;&nbsp;a. Science
 <br>&nbsp;&nbsp;&nbsp;b. Character and Citizenship Education (CCE)</p>
-<p><u>Sexuality Education Lessons:</u>
+<p><u>Sexuality Education Lessons:</u> 
 <br>&nbsp; &nbsp;6. The values and attitudes of our youth towards sexuality
 are increasingly shaped by their peers, exposure to the media, popular
 culture and the internet. Adolescence is a complex stage in life as the
@@ -85,6 +82,9 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p>LESSONS / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>LESSON OVERVIEW</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
@@ -100,21 +100,43 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1
+<p>Steady or Not</p>
+<p>Lesson 1
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles
-<br>Recognise that there are different forms of love (e.g. familial, platonic,
+<p>This lesson helps students understand more about relationship building
+and the different types of love (e.g. familial, platonic, romantic). They
+will have the opportunity to better understand the considerations involved
+in making responsible decisions towards dating and romantic relationships
+and understand how to build healthy and supportive relationships, both
+online and offline.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise the importance of monitoring and managing our emotional reactions,
+in helpful ways that are reflective of our values and principles</p>
+</li>
+<li>
+<p>Recognise that there are different forms of love (e.g. familial, platonic,
 romantic love)
-<br>Recognise the importance and understand what builds healthy and supportive
+<br>
+</p>
+</li>
+<li>
+<p>Recognise the importance and understand what builds healthy and supportive
 relationships, both online and offline
-<br>Understand what dating is, and recognise that the readiness and interest
+<br>
+</p>
+</li>
+<li>
+<p>Understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
@@ -122,16 +144,30 @@ in dating vary among individuals
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
+<p>Being Aware, Being Safe</p>
+<p>Lesson 2
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Understand that physical and psychological abuse from others, especially
+<p>This lesson focuses on helping students to be safe from the dangers of
+sexual grooming and on respecting one’s right to safety. Students will
+also learn about the legal provisions against sexual abuse, and the impact
+of sexual abuse on victims, including the psychological impact on the sense
+of self.&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -139,20 +175,39 @@ self-concept
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
+<p>More than Meets the Eye</p>
+<p>Lesson 3
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Understand and accept that as we work towards becoming our best self,
+<p>This lesson touches on two areas relevant to an adolescent’s curiosity
+on matters related to sexuality – masturbation and pornography. Students
+will gain awareness of the health, legal and moral issues related to viewing,
+downloading and/or distributing pornography. While students may perceive
+watching pornography as a private issue without consequences to bear, they
+will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences
-<br>Recognise that there are moral and legal consequences of risky sexual
+<br>
+</p>
+</li>
+<li>
+<p>Recognise that there are moral and legal consequences of risky sexual
 behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 3</p>
@@ -172,6 +227,9 @@ etc.)
 <p>LESSONS / DURATION</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>LESSON OVERVIEW</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
@@ -184,18 +242,45 @@ etc.)
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1
+<p>Roles for Everyone</p>
+<p>Lesson 1
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Know that one’s understanding of gender roles should not be limited by
-gender stereotypes
-<br>Develop an appreciation of one’s own unique qualities and characteristics
+<p>This lesson focus on how the family, culture and society can influence
+one’s perception of their gender roles. Students will learn what gender
+stereotypes are (e.g. males traditionally as breadwinners and females traditionally
+as doing household chores) and how gender stereotypes are formed. &nbsp;Students
+will discuss how one’s understanding of gender roles should not be limited
+by gender stereotypes, for example women can be pilots, while men can be
+nurses.</p>
+<p>&nbsp;</p>
+<p>Students learn to focus on their personal strengths to pursue their interests
+and build their self- confidence.</p>
+<p>&nbsp;</p>
+<p>Students will also learn about the definitions of biological sex, gender
+identity, gender expression and sexual orientation. They will learn to
+treat everyone with respect and empathy.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
+</li>
+<li>
+<p>Develop an appreciation of one’s own unique qualities and characteristics
 as a male or female
-<br>Understand what sexual orientation entails
 <br>
 </p>
+</li>
+<li>
+<p>Understand what sexual orientation entails
+<br>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 1</p>
@@ -203,16 +288,31 @@ as a male or female
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2A
+<p>Online Safety Challenge</p>
+<p>Lesson 2A
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Recognise one’s vulnerability to risky situations and the importance of
+<p>This lesson focuses on the issue of online grooming and cyber-flashing.
+It emphasises the need for help-seeking, peer support and positive peer
+influence. The lesson encourages the safe and responsible use of social
+media, and aims to deepen students’ conviction, and extend a call to action
+to students to taking appropriate decisions to safeguard their well-being
+and safety.</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both online and offline
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -220,18 +320,36 @@ both online and offline
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2B
+<p>Do I or Don't I</p>
+<p>Lesson 2B
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Recognise the importance of self-respect and respect for others in relating
+<p>This lesson focuses on respect for personal boundaries; and how to be
+safe from risky sexual behaviour, teenage pregnancy and abortion. Students
+will learn the importance of respecting one another’s boundaries in relationships.
+This lesson emphasises the importance of responsible decision-making, the
+value of sexual abstinence, the need for help seeking. Students will be
+aware of Singapore laws protecting minors, such as the legal consequences
+of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Recognise the importance of self-respect and respect for others in relating
 to members of the opposite gender
-<br>Recognise one’s vulnerability to risky situations and the importance of
+<br>
+</p>
+</li>
+<li>
+<p>Recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both offline and online
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 3</p>
@@ -486,7 +604,7 @@ of assertiveness and responsible decision-making
 </tr>
 </tbody>
 </table>
-<p><strong>Information for Parents</strong>
+<p><strong>Information for Parents</strong> 
 <br>10. Parents may opt their children out of Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need&nbsp;to
