@@ -576,26 +576,52 @@ and should be avoided.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2
+<p>When love hurts</p>
+<p>Lesson 2
 <br>(60 mins)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This lesson aims to help students recognise unhealthy relationships and
+build their help-seeking skills. Students will learn to identify potential
+signs of an unhealthy relationship and recognise the different forms of
+dating violence. They will get to understand why dating violence occurs,
+why victims often feel “trapped” in such unhealthy relationships, and how
+one can get out of such a relationship safely. Students will learn when,
+where and how to seek help from trusted adults (e.g. family, teachers,
+school counsellors) in the supportive environment that they have if they
+or their friends are involved in an unhealthy relationship.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Know there are healthy ways of coping with broken relationships, and family
 and friends are important pillars of support.
-<br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse
+<br>
+</p>
+</li>
+<li>
+<p>Recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
 social impact on victims.
-<br>Understand that we need moral courage and wisdom to recognise and end
+<br>
+</p>
+</li>
+<li>
+<p>Understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
 well-being.
-<br>Understand the importance of ensuring that non-verbal messages match with
+<br>
+</p>
+</li>
+<li>
+<p>Understand the importance of ensuring that non-verbal messages match with
 verbal ones, when communicating personal and emotional boundaries in a
 relationship.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 2</p>
@@ -603,23 +629,42 @@ relationship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3
+<p>For better or for worse</p>
+<p>Lesson 3
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;This lesson focuses on building a positive relationship with one’s
+partner in a marriage. Students will understand that while a marriage,
+defined in Singapore as a union between a man and a woman, requires mutual
+commitment and effort like the other relationships in their lives, what
+sets a marriage apart is its lifelong commitment. Students will learn that
+what really matters to sustain and maintain a long-term romantic relationship
+leading to marriage is understanding the other person’s perspective and
+effectively communicating with each other.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
-and moral dimensions.
-<br>Know that marriage entails a union between a man and a woman based on
+and moral dimensions.</p>
+<p></p>
+</li>
+<li>
+<p>Know that marriage entails a union between a man and a woman based on
 love, trust, commitment, and requires mutual effort.
-<br>Understand that conflicts are normal in any relationship, including marriage,
+<br>
+</p>
+</li>
+<li>
+<p>Understand that conflicts are normal in any relationship, including marriage,
 and the way in which a couple handles conflict is critical to the success
 of their marriage.
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 3</p>
@@ -627,16 +672,26 @@ of their marriage.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4
+<p>There's Always More to a Story</p>
+<p>Lesson 4
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>In this lesson, students will revisit the impact of pornography and deepen
+their understanding on its impact on relationships. Students will also
+learn about revenge pornography, including its definition and legal provisions.
+They will also learn that they can turn to trusted adults for help in setting
+boundaries and overcoming difficulties in making sound decisions, to prevent
+themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 4</p>
@@ -676,13 +731,16 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awareness of the different STIs and HIV/AIDS
-<br>Modes of transmission
-<br>Modes of protection, specifically on how the condom is used
-<br>Consequences and impact of STIs/HIV
-<br>
-<br>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+<p></p>
+</li>
+</ul>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -709,12 +767,12 @@ of assertiveness and responsible decision-making
 <br>10. Parents may opt their children out of Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need&nbsp;to
-complete an opt-out form. This form will be distributed to parents are
+complete an opt-out form. This form will be communicated to parents are
 the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_A___Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
 completed form is to be submitted to the school office by&nbsp;<strong>16 February 2024</strong>.</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
-to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_B___eTeens_Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_B___eTeens_Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
 completed form is to be submitted to the school office by&nbsp;<strong>16 February</strong>&nbsp;<strong>2024</strong>.</p>
 <p>13. Parents can contact the school at 6279 3000 or email at aps@schools.gov.sg
 for discussion or to seek clarification about the school's Sexuality Education
