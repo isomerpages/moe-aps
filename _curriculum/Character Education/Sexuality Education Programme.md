@@ -767,7 +767,7 @@ of assertiveness and responsible decision-making
 <br>10. Parents may opt their children out of Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need&nbsp;to
-complete an opt-out form. This form will be communicated to parents are
+complete an opt-out form. This form will be communicated to parents at
 the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_A___Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
 completed form is to be submitted to the school office by&nbsp;<strong>16 February 2024</strong>.</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
