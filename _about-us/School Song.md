@@ -4,6 +4,7 @@ permalink: /about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <p>Once more unite our youthful voices</p>
 <p>Amidst our halls the strain to raise</p>
 <p>With rapid swell the heart rejoices</p>
@@ -14,7 +15,7 @@ description: ""
 <p>Enduring links of one long chain</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Chorus</strong>
+<p><u>Chorus</u>
 </p>
 <p>We, students of Assumption Pathway School,</p>
 <p>When God from on high sheds his light on our way,</p>
