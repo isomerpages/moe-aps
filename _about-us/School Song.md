@@ -4,11 +4,6 @@ permalink: /about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<p><strong>ASSUMPTION PATHWAY SCHOOL</strong>
-</p>
-<p><strong>School Song Lyrics</strong>
-</p>
-<p></p>
 <p>Once more unite our youthful voices</p>
 <p>Amidst our halls the strain to raise</p>
 <p>With rapid swell the heart rejoices</p>
