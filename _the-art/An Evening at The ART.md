@@ -2,6 +2,7 @@
 title: An Evening at The ART
 permalink: /the-art/evening/
 description: ""
+variant: markdown
 ---
 An Evening at The ART
 ==================
@@ -12,9 +13,9 @@ Partnering with well-known establishment chefs is an excellent training opportun
 #### [See our latest update here!](https://sites.google.com/view/the-art-menu/home)
 <br><br>
 
-<iframe allowfullscreen="true" width="500" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR0IKFx0P4EvQ9Mwssbekfr3vhww6XvyUHw708mX0Io8YeXWNXYm9ow_0rWUwVnkTgl9gUDiUu5A47/embed?start=false&amp;loop=false&amp;delayms=3000" align="left"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAHkcB83-Ds1yHIMi0EPgRniKs3OEqngUwl9EYHwy-c9RiDIiIsQBnJgbCTghyLeanAmitV3uG8_uC/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" align="left"></iframe>
 <br clear="left"><br><br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" align="left"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLM6hGVOdUEyi4wSF1YgCpbBQjve_vI_-WVX8xaOkb4CKGErfoektnnS78xCU15OKMxn2XbfmUfKBg/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" align="left"></iframe>
 
 <br clear="left"><br>
 **This is a strictly by reservation event.**<br>
@@ -22,6 +23,8 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 
 2023 An Evening at The ART
 -------------------------
+
+
 
 ##### In collaboration with RE&amp;S<br>Sat 20 May 2023
 Thank you, our amazing partner for bringing the unique learning and dining experience.<br>
