@@ -24,6 +24,11 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 2023 An Evening at The ART
 -------------------------
 
+##### The Storyteller Edition<br>Sat 28 Oct 2023<br>Featuring APS Chefs with inspiration from APS Annual Art Exhibition <br> 
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="703" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPStheART%2Fposts%2Fpfbid095WM9EE7CjLfEbSvaJDxoi8SSU2RXwpY5u5QpQDPXjLyNbhDEecQebqWVEXHYRBNl&amp;show_text=true&amp;width=500"></iframe>
+
+##### In collaboration with SATS Ltd<br>Sat 26 Aug 2023
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="684" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPStheART%2Fposts%2Fpfbid0uq6xG31fmNRKLsZvLqadBovoDRH4dAFF92oLruL8aDJ1EeKvu7YJw2LQW8G7PUjql&amp;show_text=true&amp;width=500"></iframe>
 
 
 ##### In collaboration with RE&amp;S<br>Sat 20 May 2023
