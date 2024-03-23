@@ -2,6 +2,7 @@
 title: An Evening at The ART
 permalink: /the-art/evening/
 description: ""
+variant: markdown
 ---
 An Evening at The ART
 ==================
@@ -12,9 +13,9 @@ Partnering with well-known establishment chefs is an excellent training opportun
 #### [See our latest update here!](https://sites.google.com/view/the-art-menu/home)
 <br><br>
 
-<iframe allowfullscreen="true" width="500" height="400" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTR0IKFx0P4EvQ9Mwssbekfr3vhww6XvyUHw708mX0Io8YeXWNXYm9ow_0rWUwVnkTgl9gUDiUu5A47/embed?start=false&amp;loop=false&amp;delayms=3000" align="left"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAHkcB83-Ds1yHIMi0EPgRniKs3OEqngUwl9EYHwy-c9RiDIiIsQBnJgbCTghyLeanAmitV3uG8_uC/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" align="left"></iframe>
 <br clear="left"><br><br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4rpDRoDyd-vChjrFBLuT45p0S-bTQrfg2YnuZCIuxt3RH-jfvGweRyndBUTgBjescHLJJFloaXYTa/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" align="left"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLM6hGVOdUEyi4wSF1YgCpbBQjve_vI_-WVX8xaOkb4CKGErfoektnnS78xCU15OKMxn2XbfmUfKBg/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="500" height="400" allowfullscreen="true" align="left"></iframe>
 
 <br clear="left"><br>
 **This is a strictly by reservation event.**<br>
@@ -22,6 +23,13 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 
 2023 An Evening at The ART
 -------------------------
+
+##### The Storyteller Edition<br>Sat 28 Oct 2023<br>Featuring APS Chefs with inspiration from APS Annual Art Exhibition <br> 
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="703" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPStheART%2Fposts%2Fpfbid095WM9EE7CjLfEbSvaJDxoi8SSU2RXwpY5u5QpQDPXjLyNbhDEecQebqWVEXHYRBNl&amp;show_text=true&amp;width=500"></iframe>
+
+##### In collaboration with SATS Ltd<br>Sat 26 Aug 2023
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="684" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPStheART%2Fposts%2Fpfbid0uq6xG31fmNRKLsZvLqadBovoDRH4dAFF92oLruL8aDJ1EeKvu7YJw2LQW8G7PUjql&amp;show_text=true&amp;width=500"></iframe>
+
 
 ##### In collaboration with RE&amp;S<br>Sat 20 May 2023
 Thank you, our amazing partner for bringing the unique learning and dining experience.<br>
