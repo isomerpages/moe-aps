@@ -7,9 +7,10 @@ third_nav_title: APS Academy
 ---
 <p>APS set up On-the-Job Training (OJT) platforms ...</p>
 <p></p>
-<p>The ART</p>
+<h4>The ART</h4>
 <p>[link to ART page]</p>
 <p></p>
-<p>The ARK</p>
+<h4>The ARK</h4>
 <p></p>
-<p>The ACT</p>
+<h4>The ACT</h4>
+<p></p>
