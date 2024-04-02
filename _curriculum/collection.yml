@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - APS Academy.md
       - WSQ/.keep
       - Curriculum.md
       - Foundation Education/.keep
