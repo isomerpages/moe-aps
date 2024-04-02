@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum.md
+      - APS Curriculum.md
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
       - Foundation Education/English.md
