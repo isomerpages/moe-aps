@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - APS Academy.md
       - Curriculum.md
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
@@ -23,3 +22,4 @@ collections:
       - Vocational Education/ITE Skills Certificate.md
       - Vocational Education/Skills Induction Programme.md
       - Vocational Education/Industry Experiential Programme.md
+      - APS Academy.md
