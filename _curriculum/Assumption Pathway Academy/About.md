@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Assumption Pathway Academy
 ---
-<p><strong>Assumption Pathway Academy</strong> was set up in 2015 to provide
-an additional pathway for APS graduates who are unable to qualify for the
-Institute of Technical Education (ITE) or do not feel ready to join the
-workforce.</p>
+<h1><strong>Assumption Pathway Academy</strong> </h1>
+<p>[PHOTO]</p>
+<p>Assumption Pathway Academy was established in 2015 to provide additional
+pathway for APS graduates who are unable to qualify for the Institute of
+Technical Education (ITE) or do not feel ready to join the workforce.</p>
 <p>Selected APS graduates will be guided to enroll in the Academy where they
 undergo the <strong>Learn and Earn Programme </strong>that further prepare
 them to be work ready.</p>
