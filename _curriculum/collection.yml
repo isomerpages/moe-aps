@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Assumption Pathway Academy.md
       - Curriculum.md
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
@@ -29,3 +28,4 @@ collections:
       - Assumption Pathway Academy/Industry Support Programme.md
       - Assumption Pathway Academy/Success Stories.md
       - Assumption Pathway Academy/News and Events.md
+      - Assumption Pathway Academy.md
