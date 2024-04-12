@@ -7,13 +7,11 @@ variant: markdown
 An Evening at The ART
 ==================
 
-An Evening at The ART is a dining event held quarterly featuring different themes and cuisines partnering with Chefs from well-known establishments. This is an excellent training opportunity to expand the training scope of APS culinary and hospitality students to elevate their skills.
-
-Expect a repertoire of gastronomic sensory dining experiences at An Evening at The ART. <br>
-
-#### [See our latest update here!](https://sites.google.com/view/the-art-menu/home)
-
+An Evening at The ART is a dining event held quarterly featuring different themes and cuisines partnering with Chefs from well-known establishments. This is an excellent training opportunity to expand the training scope of APS culinary and hospitality students to elevate their skills.<br>
+Expect a repertoire of gastronomic sensory dining experiences at An Evening at The ART. <br> 
 **This is a strictly by reservation event.**<br>
+##### [Check out our latest update here!](https://sites.google.com/view/the-art-menu/home)<br>
+**Follow us on [Facebook](https://www.facebook.com/APStheART/) and [Instagram](https://www.instagram.com/apstheart/) to get updates on our latest menu and events.**<br>
 For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.sg</a>
 
 ##### In collaboration with Conrad Singapore Orchard<br>Sat 23 Mar 2024<br>
@@ -28,22 +26,10 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 
 
 ##### In collaboration with RE&amp;S<br>Sat 20 May 2023
-Thank you, our amazing partner for bringing the unique learning and dining experience.<br>
-Our students had a great time learning to prepare and serve Japanese cuisine at The ART!
-<img src="/images/ART/eta202305.jpg" style="width:70%" align="left"><br clear="left"><br>
-<img src="/images/ART/eta202305a.jpg" style="width:70%" align="left"><br clear="left"><br>
-<img src="/images/ART/eta202305b.jpg" style="width:70%" align="left">
-<br clear="left">
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="723" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D714204197376871%26set%3Da.490048283125798%26type%3D3&amp;show_text=true&amp;width=500"></iframe>
 
 ##### In collaboration with Conrad Centennial <br>Sat 25 Mar 2023
-Our special guest Chef Atish and his culinary team kicked off this 2023 season with Modern Spanish themed cuisine.
-This event is much more meaningful as we have our former student coming back as part of the Conrad team.
-<img src="/images/ART/eta202303a.JPG" style="width:70%" align="left">
-<br clear="left"><br>
-<img src="/images/ART/eta202303c.jpg" style="width:70%" align="left">
-<br clear="left"><br>
-<img src="/images/ART/eta202303b.jpg" style="width:70%" align="left">
-<br clear="left"><br>
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="620" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D675935534537071%26set%3Da.490048283125798%26type%3D3&amp;show_text=true&amp;width=500"></iframe>
 
 2022 An Evening @ The ART
 -------------------------
