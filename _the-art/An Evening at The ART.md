@@ -31,44 +31,8 @@ For enquiry, please email to <a href="mailto:theart@moe.edu.sg">theart@moe.edu.s
 ##### In collaboration with Conrad Centennial <br>Sat 25 Mar 2023
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="620" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D675935534537071%26set%3Da.490048283125798%26type%3D3&amp;show_text=true&amp;width=500"></iframe>
 
-2022 An Evening @ The ART
--------------------------
-![](/images/ART/eta202211.jpg)
-
-![](/images/ART/eta202208.jpg)
-
-![](/images/ART/eta202205.jpg)
-
-![](/images/ART/eta202203.jpg)
-
-2021 An Evening @ The ART Series
---------------------------------
-
-![](/images/ART/eta202111.jpg)
-
-![](/images/ART/eta202109.jpg)
-
-
-\-----------------------------------------------------------------------------------------------------------
-
-*No event held in Year 2020 due to COVID-19 restrictions.*
-
-\-----------------------------------------------------------------------------------------------------------
-
-2019 An Evening @ The ART Series
---------------------------------
-
-![](/images/ART/eta201911.jpg)
-
-![](/images/ART/eta201908.jpg)
-
-![](/images/ART/eta201905.jpg)
-
-![](/images/ART/eta201903.jpg)
 
 
 
-Previous Evening at The ART Collaborations
------------------------------------------
 
-Click here to see more
+
