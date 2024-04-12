@@ -2,64 +2,56 @@
 title: Menu
 permalink: /the-art/menu/
 description: ""
+variant: tiptap
 ---
-Menu
-====
-
-#### **<a href="https://go.gov.sg/apstheart-menu">Click here for our latest menu!</a>**
-
-The ART is not halal certified. All items offered contain no pork and no lard.
+<h1>Menu</h1>
+<h4><strong><a href="https://go.gov.sg/apstheart-menu" rel="noopener noreferrer nofollow" target="_blank">Click here for our latest menu!</a></strong></h4>
+<p>The ART is not halal certified but the food served do not use pork or
+lard.</p>
+<p>We operate during school terms and offers Daily Breakfast, A La Carte
+or Set Menu Lunch with different themes each term to expose students in
+different cuisines. On selected last Friday of the month, the school offers
+our signature Teochew Porridge Buffet or curated thematic cuisines to let
+the students practice their culinary skills to cater to the public.
 <br>
-Menu is revised periodically, subject to changes and availability.
-<br>Photos and menu below for illustration and reference only. 
-
-**Follow us on <a href="https://www.facebook.com/APStheART/">Facebook</a> at <a href="https://www.instagram.com/apstheart/">Instagram</a>to see our latest promotions!**
-
+</p>
+<p>Menu is revised periodically, subject to changes and availability.
+<br>Photos and menu below for illustration and reference only.</p>
+<p><strong>Follow us on <a href="https://www.facebook.com/APStheART/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> at <a href="https://www.instagram.com/apstheart/" rel="noopener noreferrer nofollow" target="_blank">Instagram </a>to see our latest promotions!</strong>
+</p>
+<p>
 <br>
-<p><a href="https://book.chope.co/booking?rid=theart2210sg&amp;source=rest_theart">
-<img style="width:35%" src="/images/ART/chopeebutton.jpeg" align="left">
-</a></p>
-
-<br clear="left">
-
-### **<a href="https://sites.google.com/view/the-art-menu/breakfast/">Breakfast</a>**  
-**Available on Monday to Friday, 8.30am to 11.30am** (Last order 11.15am)
-<br>(Except last Friday of each month, public and school holidays) 
-
-![](/images/ART/american%20breakfast.jpeg)
-
-### **<a href="https://sites.google.com/view/the-art-menu/lunch/">Lunch</a>**  
-**Available on Monday to Friday, 12.00pm to 3.00pm** (Last order 2.30pm)
-<br>(Except public and school holidays)  
-
-3-Course Set Lunch at nett price inclusive of: <br>
-~ Soup served with bread <br>
-~ Main Course served with Daily Greens and Starch <br>
-~ Dessert comes with complimentary Freshly Brewed Coffee or Fine English Tea
-
-![](/images/ART/Fish%20N%20Chips.jpg)
-
-
-### **<a href="https://sites.google.com/view/the-art-menu/porridge-dinner/">Porridge Dinner</a>**
-**Available on last Friday of the month**
-<br>(Except public and school holidays)  
-
-<b>By reservation only<br><a href="https://go.gov.sg/apstheart-onlinebooking-porridgebuffet">Click here for Teochew Porridge Buffet Dinner reservation</a></b>
-
-![](/images/ART/porridge.jpg)
-~ Free-flow porridge and selected condiments served to your table upon request<br>
-~ Pre-set mains include all-time favourite dishes to go with porridge<br>
-~ Desserts and Fragrant Chinese Tea are included too
-
-Reviews from popular bloggers in the links below:
-*   [https://rubbisheatrubbishgrow.com/2017/02/22/assumption-pathway-school/](https://rubbisheatrubbishgrow.com/2017/02/22/assumption-pathway-school/)  
-    
-*   [http://www.pinkypiggu.com/2017/03/12-nett-porridge-buffet-dinner-art.html](http://www.pinkypiggu.com/2017/03/12-nett-porridge-buffet-dinner-art.html)  
-    
-*   [http://danielfooddiary.com/2017/02/24/theart/](http://danielfooddiary.com/2017/02/24/theart/)  
-    
-*   [http://www.sgfoodonfoot.com/2017/04/the-art-assumption-pathway-school.html](http://www.sgfoodonfoot.com/2017/04/the-art-assumption-pathway-school.html)&nbsp;  
-    
-*   [https://www.misstamchiak.com/the-art-porridge-buffet/](https://www.misstamchiak.com/the-art-porridge-buffet/)&nbsp;  
-    
-*   [http://gninethree.com/2017/05/09/12-nett-porridge-buffet-every-last-friday-of-the-month-the-art-aps/](http://gninethree.com/2017/05/09/12-nett-porridge-buffet-every-last-friday-of-the-month-the-art-aps/)
+</p>
+<p></p>
+<p>
+<br>
+</p>
+<h3><strong><a href="https://sites.google.com/view/the-art-menu/breakfast/" rel="noopener noreferrer nofollow" target="_blank">Breakfast</a></strong></h3>
+<p>Scrumptious delights and hearty choices to kickstart your day!</p>
+<p><strong>Available on Monday to Friday, 8.30am to 11.30am</strong> (Last
+order at 11.15am)
+<br>(Except last Friday of each month, public and school holidays)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART/american%20breakfast.jpeg">
+</div>
+<h3><strong><a href="https://sites.google.com/view/the-art-menu/lunch/" rel="noopener noreferrer nofollow" target="_blank">Lunch</a></strong></h3>
+<p>A La Carte or Set Menu with different themes each term to expose students
+in different cuisines.</p>
+<p><strong>Available on Monday to Friday, 12.00pm to 3.00pm</strong> (Last
+order at 2.30pm)
+<br>(Except public and school holidays)</p>
+<p></p>
+<p>3-Course Set Lunch at nett price inclusive of:
+<br>~ Soup served with bread
+<br>~ Main Course served with Daily Greens and Starch
+<br>~ Dessert comes with complimentary Freshly Brewed Coffee or Fine English
+Tea</p>
+<p></p>
+<h3><strong><a href="https://sites.google.com/view/the-art-menu" rel="noopener noreferrer nofollow" target="_blank">Thematic Dinner (New!)</a></strong></h3>
+<p>On selected last Friday of the month, The ART offers signature Teochew
+Porridge Buffet or curated thematic cuisines to let the students practice
+their culinary skills to cater to the public.</p>
+<p></p>
+<h4>Check out our latest menu <a href="https://sites.google.com/view/the-art-menu/home" rel="noopener noreferrer nofollow" target="_blank">here</a>!<strong><br></strong></h4>
+<p></p>
+<p></p>
