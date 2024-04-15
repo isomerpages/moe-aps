@@ -14,4 +14,4 @@ A dedicated in-house training restaurant of Assumption Pathway School (APS) esta
 The ART is **open to the public on Monday to Friday** and operates during school terms. <br>
 Check availability and make your reservation [here](https://book.chope.co/booking?rid=theart2210sg&amp;source=rest_theart).
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDSEw9d9jyRn-y0mGm0qMbizgw7mN-t_BIkpSv8xpIkdd9MdwTQoWqo-FVxw-IKfRJi770BjvOgEda/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDSEw9d9jyRn-y0mGm0qMbizgw7mN-t_BIkpSv8xpIkdd9MdwTQoWqo-FVxw-IKfRJi770BjvOgEda/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
