@@ -11,17 +11,6 @@ variant: markdown
 #### The ART (Assumption Restaurant for Training)
 A dedicated in-house training restaurant of Assumption Pathway School (APS) established in April 2011 to offer real work training for students to hone their F&amp;B and service skills.
 
-The ART is **open to the public on Monday to Friday** and operates during school terms. Check availability and make your reservation here.
+The ART is **open to the public on Monday to Friday** and operates during school terms. Check availability and make your reservation [here](https://book.chope.co/booking?rid=theart2210sg&amp;source=rest_theart).
 
-
-
-
-
-
-![](/images/ART/The_ART_Dining_Area.jpg)
-<br>
-![](/images/ART/The_ART_Team.jpg)
-
-Embark on a flavor-filled adventure with our culinary and hospitality staff and students! Indulge in popular café fresh bakes, delicious breakfasts, thematic set lunch menus, food street fests, festive goodies and special dinner events, all prepared by our talented student chefs in collaboration within-house chef trainers and chefs from well-known establishments.
-
-#### [Click here to check out our latest menu!](https://sites.google.com/view/the-art-menu/home)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDSEw9d9jyRn-y0mGm0qMbizgw7mN-t_BIkpSv8xpIkdd9MdwTQoWqo-FVxw-IKfRJi770BjvOgEda/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
