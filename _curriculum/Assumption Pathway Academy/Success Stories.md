@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Assumption Pathway Academy
 ---
 <p></p>
-<h4>Meet Sakinah and witness her personal success. </h4>
+<h4>Meet Sakinah and witness her personal success.</h4>
 <p><a href="https://youtu.be/u-Td78ERXyU?si=VMEVkovHdImBz39c" rel="noopener noreferrer nofollow" target="_blank"><u>CONTINUE</u></a>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/u-Td78ERXyU?si=VMEVkovHdImBz39c"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAKINAH__1_.jpg"></a>
