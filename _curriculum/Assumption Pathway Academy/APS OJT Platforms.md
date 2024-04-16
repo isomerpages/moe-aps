@@ -5,15 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Assumption Pathway Academy
 ---
-<p>On-the-Job (OJT) platforms are set up to provide real work environments
-for students to apply skills learnt. These workplaces owned and managed
-by APS include:</p>
-<p></p>
+<p>On-the-Job Training (OJT) platforms are established by the school to provide
+students with real work environments for applying their acquired skills.
+These workplaces, owned and managed by APS comprise:</p>
 <h4>The ACT</h4>
 <p>Assumption Café for Training (ACT) includes school-based canteen stalls
 run by students at Assumption Pathway School and Jurong Secondary School.
 They learn and gain experience in managing customers, operating the cash
 register and providing barista services.</p>
+<p></p>
 <p></p>
 <h4>The ARK</h4>
 <p>Assumption Realworks Kitchens (ARK) are central kitchens located in the
@@ -59,7 +59,7 @@ the school's activities and meetings.</p>
 provides an authentic working environment for students to apply their F&amp;B
 knowledge and skills into practice.</p>
 <p></p><a class="isomer-image-wrapper" href="https://www.aps.edu.sg/the-art/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ART.jpg"></a>
-<p><a href="https://www.aps.edu.sg/the-art/" rel="noopener noreferrer nofollow" target="_blank">FIND OUT MORE</a>
+<p><a href="https://www.aps.edu.sg/the-art/" rel="noopener noreferrer nofollow" target="_blank">FIND OUT MORE</a> 
 <br>
 </p>
 <p>
