@@ -13,7 +13,9 @@ with the partners to oversee students’ progression and provide ongoing
 support by guiding students to apply their learning in the real world context.</p>
 <p></p>
 <p>Our ISP Partners:</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ISP_Partners_Logo.jpg">
+</div>
 <p>
 <br>
 </p>
