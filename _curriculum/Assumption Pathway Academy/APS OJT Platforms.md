@@ -61,7 +61,7 @@ the school's activities and meetings.</p>
 <p>The Assumption Restaurant for Training (ART) is open to the public which
 provides an authentic working environment for students to apply their F&amp;B
 knowledge and skills into practice.</p>
-<p><a href="https://www.aps.edu.sg/the-art/" rel="noopener noreferrer nofollow" target="_blank">FIND OUT MORE</a> 
+<p><a href="https://www.aps.edu.sg/the-art/" rel="noopener noreferrer nofollow" target="_blank">FIND OUT MORE</a>
 </p><a class="isomer-image-wrapper" href="https://www.aps.edu.sg/the-art/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ART.jpg"></a>
 <p>
 <br>
