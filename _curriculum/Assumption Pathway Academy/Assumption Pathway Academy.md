@@ -13,5 +13,8 @@ skills.</p>
 skills (WSQ) and they get to <strong>Earn </strong>allowance for their On-the-Job
 Training (OJT).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/APA.jpg">
+</div>
 <p></p>
 <p></p>
