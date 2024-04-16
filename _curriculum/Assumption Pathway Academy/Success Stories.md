@@ -26,6 +26,7 @@ third_nav_title: Assumption Pathway Academy
 <h4>Hui Xin shared her rewarding journey with the Straits Times.</h4>
 <p><a href="https://www.straitstimes.com/singapore/parenting-education/assumption-pathway-school-helped-her-enjoy-learning" rel="noopener noreferrer nofollow" target="_blank"><u>CONTINUE</u></a>
 </p>
+<p></p><a class="isomer-image-wrapper" href="https://www.straitstimes.com/singapore/parenting-education/assumption-pathway-school-helped-her-enjoy-learning"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/Hui_Xin.jpg"></a>
 <p>
 <br>
 </p>
