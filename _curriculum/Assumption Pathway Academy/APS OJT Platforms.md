@@ -14,6 +14,9 @@ run by students at Assumption Pathway School and Jurong Secondary School.
 They learn and gain experience in managing customers, operating the cash
 register and providing barista services.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ACT1.jpg">
+</div>
 <p></p>
 <h4>The ARK</h4>
 <p>Assumption Realworks Kitchens (ARK) are central kitchens located in the
