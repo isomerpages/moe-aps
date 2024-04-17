@@ -10,7 +10,7 @@ students with real work environments for applying their acquired skills.
 These workplaces, owned and managed by APS comprise:</p>
 <h4>The ACT</h4>
 <p>Assumption Café for Training (ACT) are set up in both school and external
-premise to offer diverse training experiences in varying environments.</p>
+premises to offer diverse training experiences in varying environments.</p>
 <p><strong>School-based canteen stalls</strong>
 </p>
 <p>At our APS' Bake &amp; Brew canteen stall and Jurong Secondary School's
