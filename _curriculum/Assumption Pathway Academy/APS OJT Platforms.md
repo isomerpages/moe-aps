@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Assumption Pathway Academy
 ---
-<p>On-the-Job Training (OJT) platforms are established by APS to provide
-Academy students with real work environments for applying their acquired
-skills. These workplaces, owned and managed by APS comprise:</p>
+<p>APS established On-the-Job Training (OJT) platforms to provide Academy
+students with real work environments for applying their acquired skills.
+These workplaces, owned and managed by APS comprise:</p>
 <h4>The ACT</h4>
 <p>Assumption Café for Training (ACT) includes school-based canteen stalls
 run by students at Assumption Pathway School and Jurong Secondary School.
