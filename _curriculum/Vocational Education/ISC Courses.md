@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Vocational Education
 variant: tiptap
 ---
-<h3>ISC courses offered at APS:</h3>
+<h4><strong>ITE Skills Certificate (ISC) Courses offered at APS:</strong></h4>
 <h4>Baking Practices</h4>
 <p>Fundamentals in baking techniques, practical skills in managing and operating
 equipment and accessories, working knowledge of baking ingredients and
