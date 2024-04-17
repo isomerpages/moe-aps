@@ -9,13 +9,21 @@ third_nav_title: Assumption Pathway Academy
 students with real work environments for applying their acquired skills.
 These workplaces, owned and managed by APS comprise:</p>
 <h4>The ACT</h4>
-<p>Assumption Café for Training (ACT) includes school-based canteen stalls
-run by students at Assumption Pathway School and Jurong Secondary School.
-They learn and gain experience in managing customers, operating the cash
-register and providing barista services.</p>
-<p></p>
+<p>Assumption Café for Training (ACT) are set up in both school and external
+premises to provide real work experiences beyond the familiarity of the
+school compound.</p>
+<p><strong>School-based canteen stalls</strong>
+</p>
+<p>At our APS' Bake &amp; Brew canteen stall and Jurong Secondary School's
+Pod café stall, students learn and gain experience in managing customers,
+operating the cash register and providing barista services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ACT1.jpg">
+</div>
+<p><strong>Staff café at ST Engineering - </strong><a href="https://www.aps.edu.sg/partnerships/stengineering/" rel="noopener noreferrer nofollow" target="_blank">FIND OUT MORE</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST Engineering/stengineering5.jpeg">
 </div>
 <p></p>
 <h4>The ARK</h4>
@@ -63,15 +71,4 @@ provides an authentic working environment for students to apply their F&amp;B
 knowledge and skills into practice.</p>
 <p><a href="https://www.aps.edu.sg/the-art/" rel="noopener noreferrer nofollow" target="_blank">FIND OUT MORE</a>
 </p><a class="isomer-image-wrapper" href="https://www.aps.edu.sg/the-art/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ART.jpg"></a>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
