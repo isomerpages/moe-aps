@@ -33,10 +33,10 @@ ART and The ACT.</p>
 <p></p>
 <p><strong>ARK (Baking)</strong>
 </p>
-<p>Students are trained to bake cakes, bread, pastries and they follow a
-rigorous production schedule for the daily supply of baked items to The
-ART and The ACT for sale. ARK (Baking) also supports festive bake orders
-from staff, school partners and the public.</p>
+<p>The Academy students are trained to bake cakes, bread, pastries and they
+follow a rigorous production schedule for the daily supply of baked items
+to The ART and The ACT for sale. ARK (Baking) also supports festive bake
+orders from staff, school partners and the public.</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/C5Pnr53CVVj/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
@@ -50,7 +50,7 @@ from staff, school partners and the public.</p>
 <p></p>
 <p><strong>ARK (Hot)</strong>
 </p>
-<p>The hot food central kitchen provides an added OJT platform for the culinary
+<p>The hot food central kitchen provides an added OJT platform for the Academy
 students. Ingredients and packaged meals are prepared in the kitchen before
 distributing to The ART and The ACT for sale. ARK (Hot) also caters for
 the school's activities and meetings.</p>
