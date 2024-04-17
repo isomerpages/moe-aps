@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Vocational Education
 variant: tiptap
 ---
-<h1>Vocational Education</h1>
 <p>APS students specialise in one of the four vocational courses leading
 to an <strong>ITE Skills Certificate (ISC) </strong>Qualification. There
 are also selected Workforce Skills Qualification (WSQ) modules offered
