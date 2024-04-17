@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Assumption Pathway Academy
 ---
-<p>During the final year at the Academy, students will be placed in workplaces
-with the school’s partners for transition into employment under the Industry
-Support Programme (ISP).&nbsp;</p>
-<p>Throughout the programme, the Academy Job Coaches collaborate closely
-with the partners to oversee students’ progression and provide ongoing
-support by guiding students to apply their learning in the real world context.</p>
+<p>During final year at the Academy, students will be deployed to workplaces
+with our partners under the<strong> Industry Support Programme (ISP)</strong>.&nbsp;</p>
+<p>Throughout the programme, our Job Coaches work closely with the partners
+to oversee students’ progression and continue guiding students to apply
+their learning in the real world context. With the ongoing support, it
+eases the students' transition into employment.</p>
 <p></p>
-<p>Our ISP Partners:</p>
+<p>Our partners:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ISP_Partners_Logo.jpg">
 </div>
