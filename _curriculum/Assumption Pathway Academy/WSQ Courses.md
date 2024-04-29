@@ -13,7 +13,7 @@ third_nav_title: Assumption Pathway Academy
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/wsq_levels.jpg">
 </div>
 <p></p>
-<p><a href="https://www.skillsfuture.gov.sg/wsq" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE ABOUT WSQ</a>
+<p><strong><a href="https://www.skillsfuture.gov.sg/wsq" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE ABOUT WSQ</a></strong>
 </p>
 <p></p>
 <p></p>
