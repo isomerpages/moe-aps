@@ -6,10 +6,14 @@ description: ""
 third_nav_title: Assumption Pathway Academy
 ---
 <p></p>
-<h4>Students can opt to work in social enterprise or school</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/20151026_Straits_Times___Ng_Wei_Ming__APA_.jpg">
+<h4>International Chefs Day 2023</h4>
+<p>APS students was privileged to be invited and engaged with esteemed the
+chefs from Singapore Chefs Association, SATS management, chefs and culinary
+team members together with Singapore Agro-Food Enterprises Federation!</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNNnDRv7I4RLmWmXkMr0PXlLl5scpqZfrS0vqxLDrbV6BZGnVJUZJ_jsPlZu-EUiEsaiTdfQREoYme/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <hr>
-<h4>Assumption Pathway have work, study schemes to help students gain real life skills</h4><a class="isomer-image-wrapper" href="https://www.straitstimes.com/singapore/education/northlight-and-assumption-pathway-to-have-work-study-schemes-to-help-students"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/NLS_and_APS_launch_work_study_programme.jpg"></a>
+<h4>APS 15th Anniversary</h4>
+<p></p>
 <p></p>
