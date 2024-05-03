@@ -11,7 +11,7 @@ third_nav_title: Assumption Pathway Academy
 chefs from Singapore Chefs Association, SATS management, chefs and culinary
 team members together with Singapore Agro-Food Enterprises Federation!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNNnDRv7I4RLmWmXkMr0PXlLl5scpqZfrS0vqxLDrbV6BZGnVJUZJ_jsPlZu-EUiEsaiTdfQREoYme/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQNNnDRv7I4RLmWmXkMr0PXlLl5scpqZfrS0vqxLDrbV6BZGnVJUZJ_jsPlZu-EUiEsaiTdfQREoYme/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <hr>
 <h4>APS 15th Anniversary and Graduation Ceremony 2023</h4>
@@ -21,7 +21,7 @@ special event. Following the ceremony, our Academy team and APS Culinary
 team worked together to host the guests lunch with their award-winning
 dishes!</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRV4bO322bN_TGi06oZ7P9ZAmOBOObtJkEsIziv2UxcDNNThTPngUT5LZHU2YExReJx1-39eRiXEABB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRV4bO322bN_TGi06oZ7P9ZAmOBOObtJkEsIziv2UxcDNNThTPngUT5LZHU2YExReJx1-39eRiXEABB/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <hr>
 <p></p>
