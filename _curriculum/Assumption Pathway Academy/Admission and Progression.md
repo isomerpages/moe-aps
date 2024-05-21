@@ -19,4 +19,7 @@ third_nav_title: Assumption Pathway Academy
 <p></p>
 <h4>Progression Path</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/APA_Progression_Path.jpg">
+</div>
 <p></p>
