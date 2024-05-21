@@ -14,8 +14,8 @@ skills (WSQ) and they <strong>Earn </strong>allowances for their On-the-Job
 Training (OJT) and Industry Support Programme (ISP).</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Academy/APA.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">On-the-Job Training (OJT)</div><div class="isomer-card-description">Apply skills at workplaces owned and managed by APS.</div><div class="isomer-card-link">FIND OUT MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.aps.edu.sg/aps-ojt-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Academy/APA.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">On-the-Job Training (OJT)</div><div class="isomer-card-description">Apply skills at workplaces owned and managed by APS.</div><div class="isomer-card-link">FIND OUT MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.aps.edu.sg/industry-support-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Academy/ISP.jpg">
