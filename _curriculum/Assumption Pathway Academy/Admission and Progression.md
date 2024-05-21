@@ -6,13 +6,14 @@ description: ""
 third_nav_title: Assumption Pathway Academy
 ---
 <h4>Admission Criteria</h4>
-<p>APS graduate who:</p>
+<p>APS graduates who:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Pass IEP (Find out more)</p>
+<p>Pass <a href="" rel="noopener noreferrer nofollow" target="_blank">IEP</a>
+</p>
 </li>
 <li>
-<p>Good conduct grade</p>
+<p>Attain conduct grade of Good and above</p>
 </li>
 </ul>
 <p></p>
