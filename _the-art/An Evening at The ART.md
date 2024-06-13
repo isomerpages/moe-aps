@@ -41,7 +41,7 @@ at The ART.
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
-<h5>The Storyteller Edition<br>Featuring APS Chefs with inspiration from APS Annual Art Exhibition </h5>
+<h5>The Storyteller Edition<br>Featuring APS Chefs with inspiration from APS Annual Art Exhibition</h5>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="703" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPStheART%2Fposts%2Fpfbid095WM9EE7CjLfEbSvaJDxoi8SSU2RXwpY5u5QpQDPXjLyNbhDEecQebqWVEXHYRBNl&amp;show_text=true&amp;width=500"></iframe>
 </div>
