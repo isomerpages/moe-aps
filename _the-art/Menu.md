@@ -28,11 +28,7 @@ in different cuisines.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART/Porridge_Lunch.png">
 </div>
-<p></p>
-<p></p>
-<h3><strong><a href="https://sites.google.com/view/the-art-menu" rel="noopener noreferrer nofollow" target="_blank">Thematic Dinner (New!)</a></strong></h3>
-<p>Thematic cuisines specially curated for students to practice and showcase
-their culinary skills.</p>
+<h3></h3>
 <p></p>
 <p><strong>Follow us on <a href="https://www.facebook.com/APStheART/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and <a href="https://www.instagram.com/apstheart/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> to get updates on our latest menu and events.</strong>
 </p>
