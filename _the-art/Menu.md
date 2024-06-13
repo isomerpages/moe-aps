@@ -28,7 +28,7 @@ order at 2.30pm)
 <h3><strong><a href="https://sites.google.com/view/the-art-menu" rel="noopener noreferrer nofollow" target="_blank">Thematic Dinner (New!)</a></strong></h3>
 <p>The ART offers signature Teochew Porridge Buffet or curated thematic cuisines
 for students practice their culinary skills.</p>
-<p><strong>*Subject to availability on last Friday of the month, 6.30pm to 9pm</strong> 
+<p><strong>*Subject to availability on last Friday of the month, 6.30pm to 9.00pm</strong> 
 <br>(Except public and school holidays)</p>
 <p></p>
 <p></p>
