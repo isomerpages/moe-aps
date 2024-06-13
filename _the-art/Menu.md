@@ -6,9 +6,7 @@ variant: tiptap
 ---
 <h1>Menu</h1>
 <h4><a href="https://go.gov.sg/apstheart-menu" rel="noopener noreferrer nofollow" target="_blank">Find our latest menu here!</a></h4>
-<p>The ART is not halal certified but the food served do not use pork or
-lard. Menu is revised periodically, subject to changes and availability.
-<br>Photos for illustration and reference only.</p>
+<p></p>
 <p><strong>Follow us on <a href="https://www.facebook.com/APStheART/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a> and <a href="https://www.instagram.com/apstheart/" rel="noopener noreferrer nofollow" target="_blank">Instagram </a>to see our latest offers!</strong>
 </p>
 <h3><strong><a href="https://sites.google.com/view/the-art-menu/breakfast/" rel="noopener noreferrer nofollow" target="_blank">Breakfast</a></strong></h3>
