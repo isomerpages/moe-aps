@@ -14,7 +14,7 @@ variant: tiptap
 in gateway services. Using innovative food technologies and resilient supply
 chains, SATS create tasty, quality food in sustainable ways for airlines,
 food service chains, retailers and institutions.</p>
-<p><strong><a href="https://www.sats.com.sg/sustainability/sats-foundation" rel="noopener noreferrer nofollow" target="_blank">SATS Foundation</a></strong>,
+<p><a href="https://www.sats.com.sg/sustainability/sats-foundation" rel="noopener noreferrer nofollow" target="_blank">SATS Foundation</a>,
 the philanthropic arm of SATS has been a key supporter of APS for more
 than a decade. From assisting with the set-up of APS training restaurant,
 <a href="https://www.aps.edu.sg/the-art/" rel="noopener noreferrer nofollow" target="_blank">The ART</a>(Assumption Restaurant for Training) to sponsoring awards,
@@ -25,10 +25,11 @@ and opportunities working with renowned chefs.</p>
 </div>
 <p></p>
 <p></p>
-<p>Today, the partnership has expanded further with <strong><a href="www.twyst.sg" rel="noopener noreferrer nofollow" target="_blank">Twyst</a></strong>,
-a SATS Food Solutions venture where our Academy students assemble up to
-8,000 paninis a month in our school’s production kitchen, ARK (Assumption
-Realwork Kitchen) for five Twyst outlets in Singapore.</p>
+<p>Today, the partnership has expanded further with <a href="www.twyst.sg" rel="noopener noreferrer nofollow" target="_blank">Twyst</a>, a SATS Food Solutions venture where our
+Academy students assemble up to 8,000 paninis a month in our school’s production
+kitchen, ARK (Assumption Realwork Kitchen) for five Twyst outlets in Singapore.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
