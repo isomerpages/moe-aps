@@ -25,7 +25,10 @@ and opportunities working with renowned chefs.</p>
 </div>
 <p></p>
 <p></p>
-<p></p>
+<p>Today, the partnership has expanded further with <strong><a href="www.twyst.sg" rel="noopener noreferrer nofollow" target="_blank">Twyst</a></strong>,
+a SATS Food Solutions venture where our Academy students assemble up to
+8,000 paninis a month in our school’s production kitchen, ARK (Assumption
+Realwork Kitchen) for five Twyst outlets in Singapore.</p>
 <p></p>
 <p></p>
 <p></p>
