@@ -732,10 +732,10 @@ are used, and not the capital sum.</p>
 <p>Other Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2021 Jan to Dec (S$'000)</p>
+<p>FY2022 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2022 Jan to Dec (S$'000)</p>
+<p>FY2023 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>% Increase/ (Decrease)</p>
@@ -760,13 +760,13 @@ are used, and not the capital sum.</p>
 <p>No. of Employees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>128</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>136</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6%</p>
+<p>129</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-5%</p>
 </td>
 </tr>
 <tr>
@@ -774,10 +774,10 @@ are used, and not the capital sum.</p>
 <p>Total Employee Costs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13,285</p>
+<p>13,858</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13,858</p>
+<p>14,364</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4%</p>
