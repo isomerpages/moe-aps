@@ -53,6 +53,8 @@ variant: markdown
 <br>Charity Regn Date: 17 July 2009</p>
 </td>
 <td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
 <p>IPC Status
 <br>IPC No: IPC000672
 <br>Effective Date : 27 August 2023 to 26 August 2028</p>
