@@ -235,10 +235,10 @@ variant: tiptap
 <p>Expenses</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FY2021 Jan to Dec (S$'000)</p>
+<p>FY2022 Jan to Dec (S$'000)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FY2022 Jan to Dec (S$'000)</p>
+<p>FY2023 Jan to Dec (S$'000)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>%Increase/(Decrease)</p>
@@ -273,15 +273,6 @@ variant: tiptap
 <p>
 <br>
 <br>
-<br>374
-<br>-
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
 <br>353
 <br>-
 <br>
@@ -291,7 +282,16 @@ variant: tiptap
 <p>
 <br>
 <br>
-<br>(6%)
+<br>476
+<br>-
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>35%
 <br>-</p>
 </td>
 </tr>
@@ -301,13 +301,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,868</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>18,206</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2%</p>
+<p>19,307</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6%</p>
 </td>
 </tr>
 <tr>
