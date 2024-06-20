@@ -651,13 +651,13 @@ of the charity.</p>
 <p>Current Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3,257</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>5,826</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>79%</p>
+<p>6,988</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20%</p>
 </td>
 </tr>
 <tr>
@@ -666,15 +666,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22,760</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>24,063</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6%</strong>
+<p><strong>23,787</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-1%</strong>
 </p>
 </td>
 </tr>
