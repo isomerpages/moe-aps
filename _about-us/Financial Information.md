@@ -329,13 +329,13 @@ variant: tiptap
 <p>Total Expenditure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18,242</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>18,559</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2%</p>
+<p>19,834</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7%</p>
 </td>
 </tr>
 <tr>
@@ -343,17 +343,17 @@ variant: tiptap
 <p>Surplus / (Deficit)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(692)
+<p>(3,641)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(3,642)
+<p>(2,602)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>426%</p>
+<p>-29%</p>
 </td>
 </tr>
 </tbody>
