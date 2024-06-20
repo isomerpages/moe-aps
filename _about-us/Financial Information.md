@@ -386,10 +386,10 @@ of the charity.</p>
 <p>Balance Sheet</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2021 Jan to Dec (S$'000)</p>
+<p>FY2022 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2022 Jan to Dec (S$'000)</p>
+<p>FY2023 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>% Increase/ (Decrease)</p>
@@ -414,13 +414,13 @@ of the charity.</p>
 <p>Land and Buildings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,922</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>16,979</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(5%)</p>
+<p>16,036</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-6%</p>
 </td>
 </tr>
 <tr>
@@ -428,15 +428,15 @@ of the charity.</p>
 <p>Other Tangible Assets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,634
+<p>1,314
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,314</p>
+<p>821</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(20%)</p>
+<p>-38%</p>
 </td>
 </tr>
 <tr>
@@ -472,15 +472,15 @@ of the charity.</p>
 <p>Accounts Receivable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>143
+<p>234
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>234</p>
+<p>274</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64%</p>
+<p>17%</p>
 </td>
 </tr>
 <tr>
@@ -488,13 +488,13 @@ of the charity.</p>
 <p>Cash &amp; Deposits</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28,054</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>26,646</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(5%)</p>
+<p>24,935</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-6%</p>
 </td>
 </tr>
 <tr>
@@ -517,15 +517,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>47,753<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>45,173<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(5%)</strong>
+<p><strong>42,066<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-7%</strong>
 </p>
 </td>
 </tr>
@@ -554,13 +554,13 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20,969</p>
+<p>20,465</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,087</p>
+<p>17,513</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(19%)</p>
+<p>-14%</p>
 </td>
 </tr>
 <tr>
@@ -569,15 +569,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,024</p>
+<p>644</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,023
+<p>766
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0%</p>
+<p>19%</p>
 </td>
 </tr>
 <tr>
@@ -601,15 +601,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24,993</strong>
+<p><strong>21,109</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21,110</strong>
+<p><strong>18,279</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(16%)</strong>
+<p><strong>-13%</strong>
 </p>
 </td>
 </tr>
@@ -637,13 +637,13 @@ of the charity.</p>
 <p>Long-Term Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19,503</p>
+<p>18,238</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18,237</p>
+<p>16,799</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(6%)</p>
+<p>-8%</p>
 </td>
 </tr>
 <tr>
