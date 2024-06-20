@@ -698,15 +698,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>47,753</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>45,173</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>(5%)</strong>
+<p><strong>42,066</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-7%</strong>
 </p>
 </td>
 </tr>
