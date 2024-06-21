@@ -4,10 +4,10 @@ permalink: /terms-of-use/
 variant: tiptap
 ---
 <h4><strong>General Legal Information</strong></h4>
-<p>Thank you for visiting <a rel="noopener noreferrer nofollow" target="_blank">aps.edu.sg</a>.
-By accessing and using this Web Site, you shall be deemed to have accepted
-to be legally bound by these Terms of Use. If you do not agree to these
-Terms of Use, please do not use this Web Site.</p>
+<p>Thank you for visiting Assumption Pathway School website.By accessing
+and using this Web Site, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site.</p>
 <p><strong>General</strong>
 </p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
@@ -17,7 +17,7 @@ and all of the changes.</p>
 <p><strong>Proprietary Rights</strong>
 </p>
 <p>3. This Web Site is maintained by Assumption Pathway School. It is owned
-by <a rel="noopener noreferrer nofollow" target="_blank">Assumption Pathway School</a>.</p>
+by Assumption Pathway School.</p>
 <p>4. The materials located on this Web Site including the information and
 software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
