@@ -1,10 +1,14 @@
 ---
 title: Vocational Education
-permalink: /curriculum/Vocational-Education/VocationalEducation/permalink
+permalink: /curriculum/Vocational-Education/VocationalEducation/permalink/
 description: ""
 third_nav_title: Vocational Education
+variant: tiptap
 ---
-Vocational Education
-====================
-
-Students specialise in one of the 5 vocational courses (Baking Practices, Hospitality Services, Culinary Skills, Hairdressing, Facility Services), leading to an ITE Skills Certificate (_ISC_).
+<p>Year 3 and 4 students specialise in one of the four vocational courses
+offered at APS leading to an <strong>ITE Skills Certificate (ISC) </strong>Qualification.
+There are also selected Workforce Skills Qualification (WSQ) modules offered
+as an additional pathway for advanced certification with Skills Future
+Singapore Agency (SSG).</p>
+<h3></h3>
+<p></p>
