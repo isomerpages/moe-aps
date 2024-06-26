@@ -14,7 +14,7 @@ eases the students' transition into employment.</p>
 <p></p>
 <p>Our partners:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ISP_Partners_Logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/ISP_Partners.jpg">
 </div>
 <p>
 <br>
