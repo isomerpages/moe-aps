@@ -13,11 +13,9 @@ the philanthropy arm of Changi Airport Group (CAG) supporting and commit
 to youth development.</p>
 <p>As part of Changi Foundation's focus on Transition-to-Work programmes
 to increase youths’ employability, the grants have been instrumental in
-supporting our Assumption Pathway Academy through funding traineeship allowances
-for the Academy students.</p>
-<p>With this on-going support since 2018, the Academy students are able to
-learn and earn at APS on-the-job training platforms, to better prepare
-transiting to real work.</p>
+supporting our <a href="https://www.aps.edu.sg/assumption-pathway-academy/" rel="noopener noreferrer nofollow" target="_blank">Assumption Pathway Academy</a> through
+funding the traineeship allowances.</p>
+<p>With this on-going support since 2018, the Academy students are able to <strong>learn and earn</strong> at
+<a href="https://www.aps.edu.sg/aps-ojt-platforms/" rel="noopener noreferrer nofollow" target="_blank">APS on-the-job training platforms</a>, and to better prepare transiting
+to real work.</p>
 <p></p>
-<p><a href="/files/apa%20successful%20stories%20(2022).pdf" rel="noopener noreferrer nofollow" target="_blank">Find our APA graduates stories here</a>
-</p>
