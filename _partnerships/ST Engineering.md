@@ -25,7 +25,26 @@ providing exposure for students to experience working in the industry.</p>
 projects and contributing to students awards.</p>
 <p>Sponsored equipment including collaborative robots, 3D printers, as well
 as solar-powered hydroponics systems.&nbsp;</p>
-<p>Photo</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST Engineering/Solar_Panel.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST Engineering/Hydroponics1.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Mr Vincent Chong, Group President and CEO of ST Engineering invited as
 the Guest-of-Honour to grace APS Graduation Ceremony 2024 and presented
 the students awards.</p>
