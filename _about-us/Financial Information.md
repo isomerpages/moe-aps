@@ -2,7 +2,7 @@
 title: Financial Information
 permalink: /about-us/financialinfo/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -40,8 +40,10 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -53,8 +55,12 @@ variant: markdown
 <br>Charity Regn Date: 17 July 2009</p>
 </td>
 <td rowspan="1" colspan="1">
-</td><td rowspan="1" colspan="1">
-</td><td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>IPC Status
 <br>IPC No: IPC000672
 <br>Effective Date : 27 August 2023 to 26 August 2028</p>
@@ -293,7 +299,7 @@ variant: markdown
 <br>
 <br>
 <br>476
-<br>-
+<br>51
 <br>
 </p>
 </td>
@@ -676,7 +682,7 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24,063</strong>
+<p><strong>24,064</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
