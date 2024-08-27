@@ -47,9 +47,9 @@ from the MediaComm Club!</p>
 </p>
 <p><a href="https://www.aps.edu.sg/files/Newsletter/aps%20newsletter%202022%20issue%201.pdf" rel="noopener nofollow" target="_blank">Newsletter 2022 - Issue 1</a>
 </p>
-<p><a href="https://www.aps.edu.sg/files/Newsletter/aps%20newsletter%202021%20issue%202.pdf" rel="noopener nofollow" target="_blank">Newsletter 2022 - Issue 2</a>
+<p><a href="https://www.aps.edu.sg/files/Newsletter/aps%20newsletter%202021%20issue%202.pdf" rel="noopener nofollow" target="_blank">Newsletter 2021 - Issue 2</a>
 </p>
-<p><a href="https://www.aps.edu.sg/files/Newsletter/aps%20newsletter%202021%20issue%201.pdf" rel="noopener nofollow" target="_blank">Newsletter 2022 - Issue 1</a>
+<p><a href="https://www.aps.edu.sg/files/Newsletter/aps%20newsletter%202021%20issue%201.pdf" rel="noopener nofollow" target="_blank">Newsletter 2021 - Issue 1</a>
 </p>
 <h5></h5>
 <p></p>
