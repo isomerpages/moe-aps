@@ -7,9 +7,7 @@ variant: tiptap
 <h1>Newsletter</h1>
 <p>PATHWAYS, an Assumption Pathway School Newsletter designed by our students
 from the MediaComm Club!</p>
-<blockquote>
 <p></p>
-</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
