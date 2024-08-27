@@ -16,7 +16,7 @@ from the MediaComm Club!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="APS Newsletter 2022 - Semester 2" rel="noopener nofollow" target="_blank">2024 Issue 1</a>
+<p><a href="https://online.fliphtml5.com/qytgd/rzon/" rel="noopener nofollow" target="_blank">2024 Issue 1</a>
 </p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/rzon/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_1.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
