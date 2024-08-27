@@ -5,8 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1>Newsletter</h1>
-<p>PATHWAYS, an Assumption Pathway School Newsletter designed by our students
-from the MediaComm Club!</p>
+<p>PATHWAYS <strong>—</strong> An Assumption Pathway School Newsletter designed
+by our students from the MediaComm Club!</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -40,6 +40,7 @@ from the MediaComm Club!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><a href="https://www.youtube.com/embed/XEmA-Ws6gQo" rel="noopener nofollow" target="_blank">Newsletter 2022 - Issue 2</a>
 </p>
