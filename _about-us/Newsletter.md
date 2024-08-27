@@ -5,8 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1>Newsletter</h1>
-<p>Check out APS newsletter, PATHWAYS, designed by our students from the
-MediaComm Club!</p>
+<blockquote>
+<p>PATHWAYS, an Assumption Pathway School Newsletter designed by our students
+from the MediaComm Club!</p>
+<p></p>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,10 +26,10 @@ MediaComm Club!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><a href="/files/Newsletter/2023%20aps%20newsletter%20issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank">APS Newsletter 2023 - Issue 1</a></h4>
+<h4><a href="https://online.fliphtml5.com/qytgd/gpmu/" rel="noopener nofollow" target="_blank">2023 Issue 1</a></h4><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/gpmu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_aps_newsletter_issue_1_Page_1.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="/files/Newsletter/newsletter%202023%20issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank">APS Newsletter 2023 - Issue 2</a></h4>
+<h4><a href="https://online.fliphtml5.com/qytgd/qxhn/" rel="noopener nofollow" target="_blank">2023 Issue 2</a></h4><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/qxhn/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/newsletter_2023_issue_2_Page_01.jpg"></a>
 </td>
 </tr>
 <tr>
