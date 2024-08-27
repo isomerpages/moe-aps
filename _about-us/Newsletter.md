@@ -23,8 +23,9 @@ from the MediaComm Club!</p>
 <th rowspan="1" colspan="1">
 <p>2024 Issue 2 (Coming Soon!)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_9.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_9.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -34,33 +35,43 @@ from the MediaComm Club!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023 Issue 2</strong>
-</p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/qxhn/"><img style="width: 92%;" height="auto" width="100%" alt="" src="/images/newsletter_2023_issue_2_Page_01.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+</p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/qxhn/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/newsletter_2023_issue_2_Page_01.jpg"></a>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2022 and earlier newsletters</summary>
+<summary><a href="https://www.youtube.com/embed/XEmA-Ws6gQo" rel="noopener nofollow" target="_blank">APS Newsletter 2022 - Semester 2</a>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><a href="/files/Newsletter/aps%20newsletter%202022%20issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>APS Newsletter 2022 - Semester 1</u></a>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><a href="/files/Newsletter/aps%20newsletter%202021%20issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>APS Newsletter 2021 - Semester 2</u></a>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><a href="/files/Newsletter/aps%20newsletter%202021%20issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>APS Newsletter 2021 - Semester 1</u></a>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 </div>
-<h5><u>APS Happenings in 2022 Semester 2 <br></u></h5>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XEmA-Ws6gQo"></iframe>
-</div>
-<h5><a href="/files/Newsletter/aps%20newsletter%202022%20issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>APS Newsletter 2022 - Semester 1</u></a></h5>
-<h5><a href="/files/Newsletter/aps%20newsletter%202021%20issue%202.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>APS Newsletter 2021 - Semester 2</u></a></h5>
-<h5><a href="/files/Newsletter/aps%20newsletter%202021%20issue%201.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>APS Newsletter 2021 - Semester 1</u></a></h5>
+<h5></h5>
 <p></p>
