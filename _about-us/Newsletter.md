@@ -21,7 +21,10 @@ from the MediaComm Club!</p>
 <h4><a href="https://online.fliphtml5.com/qytgd/rzon/" rel="noopener nofollow" target="_blank">2024 Issue 1</a></h4><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/rzon/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_1.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<h4>2024 Issue 2 (Coming Soon!)</h4>
+<p>2024 Issue 2 (Coming Soon!)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_9.jpg">
+</div>
 </th>
 </tr>
 <tr>
