@@ -23,7 +23,7 @@ from the MediaComm Club!</p>
 <th rowspan="1" colspan="1">
 <p>2024 Issue 2 (Coming Soon!)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_9.jpg">
+<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_9.jpg">
 </div>
 <p></p>
 </th>
@@ -35,13 +35,12 @@ from the MediaComm Club!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023 Issue 2</strong>
-</p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/qxhn/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/newsletter_2023_issue_2_Page_01.jpg"></a>
+</p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/qxhn/"><img style="width: 93%;" height="auto" width="100%" alt="" src="/images/newsletter_2023_issue_2_Page_01.jpg"></a>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
