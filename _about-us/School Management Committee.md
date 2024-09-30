@@ -147,10 +147,10 @@ variant: markdown
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width:19.5%;margin-right:95px;" height="auto" width="100%" src="/images/SMC/smc11.jpg">
+<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc11.jpg">&gt;
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc3.jpg">
+<img style="width:19%;margin-right:75px;" height="auto" width="100%" src="/images/SMC/smc3.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:17.5%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc12.jpg">
