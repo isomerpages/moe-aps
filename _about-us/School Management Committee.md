@@ -13,7 +13,7 @@ variant: markdown
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMC/smc14.jpg">
+<img style="width:16%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc14.jpg">
 </div>
 <p>
 <br>
