@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <p></p>
@@ -20,19 +20,19 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SMC/smc1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SMC/smc2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc14.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SMC/smc14.jpg">
 </div>
 </th>
 </tr>
@@ -71,13 +71,13 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc5.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SMC/smc5.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc6.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/SMC/smc6.jpg">
 </div>
 </th>
 </tr>
@@ -113,7 +113,7 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc7.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SMC/smc7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc9.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SMC/smc9.jpg">
 </div>
 </th>
 </tr>
@@ -167,13 +167,13 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SMC/smc3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc12.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SMC/smc12.jpg">
 </div>
 </th>
 </tr>
@@ -207,7 +207,7 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc13.jpg">
+<img style="width: 43%;" height="auto" width="100%" alt="" src="/images/SMC/smc13.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -247,7 +247,7 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc16.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SMC/smc16.jpg">
 </div>
 </th>
 </tr>
