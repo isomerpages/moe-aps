@@ -5,16 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>School Management Committee</h1>
-<div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:16%;margin-right:125px;" height="auto" width="100%" src="/images/SMC/smc2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:16%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc14.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -60,15 +51,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:17.2%;margin-right:105px;" height="auto" width="100%" src="/images/SMC/smc5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:18%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc6.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -82,12 +64,21 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc4.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc5.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc6.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -108,15 +99,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc7.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:19%;margin-right:75px;" height="auto" width="100%" src="/images/SMC/smc8.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:21%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc9.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -130,12 +112,21 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc7.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc8.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc9.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -155,16 +146,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc11.jpg">
-</div>
 <p>&gt;</p>
-<div class="isomer-image-wrapper">
-<img style="width:19%;margin-right:75px;" height="auto" width="100%" src="/images/SMC/smc3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:17.5%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc12.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -178,12 +160,21 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc3.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc12.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -202,12 +193,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:21%;margin-right:85px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/SMC/smc15.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -221,12 +206,18 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc13.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc15.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -244,9 +235,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width:23%" height="auto" width="100%" src="/images/SMC/smc16.jpg">
-</div>
 <p>
 <br>
 </p>
@@ -258,6 +246,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc16.jpg">
+</div>
 </th>
 </tr>
 <tr>
