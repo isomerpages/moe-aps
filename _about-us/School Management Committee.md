@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <div class="isomer-image-wrapper">
@@ -28,12 +28,21 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc2.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc14.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -147,8 +156,9 @@ variant: markdown
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc11.jpg">&gt;
+<img style="width:20%;margin-right:105px;margin-left:55px;" height="auto" width="100%" src="/images/SMC/smc11.jpg">
 </div>
+<p>&gt;</p>
 <div class="isomer-image-wrapper">
 <img style="width:19%;margin-right:75px;" height="auto" width="100%" src="/images/SMC/smc3.jpg">
 </div>
