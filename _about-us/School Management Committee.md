@@ -46,15 +46,12 @@ variant: tiptap
 <br>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suhaimi Bin Abdul Rashid</p>
-<p>Treasurer</p>
+<p>Mr Suhaimi Bin Abdul Rashid Treasurer</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -100,9 +97,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -147,10 +142,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&gt;</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -194,9 +186,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -236,9 +226,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
