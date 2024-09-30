@@ -47,7 +47,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suhaimi Bin Abdul Rashid</p>
-<p></p>
 <p>Treasurer</p>
 </td>
 </tr>
