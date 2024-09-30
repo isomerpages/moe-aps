@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <div class="isomer-image-wrapper">
@@ -13,7 +13,7 @@ variant: markdown
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc14.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SMC/smc14.jpg">
 </div>
 <p>
 <br>
