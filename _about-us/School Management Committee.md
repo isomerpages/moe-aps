@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <p></p>
@@ -19,21 +19,12 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="200px" width="200px" alt="" src="/images/SMC/smc1.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="200px" width="200px" alt="" src="/images/SMC/smc2.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="200px" width="200px" alt="" src="/images/SMC/smc14.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -46,7 +37,7 @@ variant: markdown
 <br>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suhaimi Bin Abdul Rashid     Treasurer</p>
+<p>Mr Suhaimi Bin Abdul Rashid Treasurer</p>
 </td>
 </tr>
 </tbody>
