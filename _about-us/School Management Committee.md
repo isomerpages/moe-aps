@@ -128,8 +128,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Alice Seow Chui Hoon
-<br>Member
-<br>(ITE Representative)</p>
+<br>Member (ITE Representative)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Paul Gwee Choon Guan
@@ -220,8 +219,7 @@ variant: tiptap
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Seng Boon Khen</p>
-<p>Member</p>
+<p>Dr Seng Boon Khen Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Stephen Chin Hong Ern
