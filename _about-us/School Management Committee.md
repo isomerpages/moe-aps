@@ -74,6 +74,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/SMC_2/smc6.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -105,6 +108,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/SMC_2/smc7.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
