@@ -219,8 +219,8 @@ variant: markdown
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Seng Boon Khen</p>
-<p>Member</p>
+<p>Dr Seng Boon Khen
+<br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Stephen Chin Hong Ern
