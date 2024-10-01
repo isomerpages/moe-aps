@@ -2,64 +2,232 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: tiptap
 ---
-School Management Committee
-============
-
-<img src="/images/SMC/smc1.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align="left">
-<img src="/images/SMC/smc2.jpg" style="width:16%;margin-right:125px;" align="left">
-<img src="/images/SMC/smc3.jpg" style="width:15.3%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Mr Lau Kam Yuen<br>Chairman | Mr Bryan Ghana<br>Vice-Chairman | Mr Henry Goh Poh Huat <br>Treasurer |
-
-<img src="/images/SMC/smc4.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align="left">
-<img src="/images/SMC/smc5.jpg" style="width:17.2%;margin-right:105px;" align="left">
-<img src="/images/SMC/smc6.jpg" style="width:18%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Brother Dominic Yeo Koh Tuan Kiok<br>Member<br>(Supervisor of APS) | Brother John Albert Arul Devanesan<br>Member | Mdm Shanti Devi d/o Thambusamy<br>Member<br>(MOE Representative) |
-
-<img src="/images/SMC/smc7.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align="left">
-<img src="/images/SMC/smc8.jpg" style="width:19%;margin-right:75px;" align="left">
-<img src="/images/SMC/smc9.jpg" style="width:21%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Ms Alice Seow Chui Hoon<br>Member<br>(ITE Representative)  | Mr Paul Gwee Choon Guan<br>Member | Mr Neville Kiang Lai Kuong<br>Member |
-
-<img src="/images/SMC/smc10.jpg" style="width:20%;margin-right:105px;margin-left:55px;" align="left">
-<img src="/images/SMC/smc11.jpg" style="width:19.5%;margin-right:95px;" align="left">
-<img src="/images/SMC/smc12.jpg" style="width:17.5%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| Mr Loke Mun Sing<br>Member | Mr Siow Wee Loong<br>Member | Dr Roland Yeow Theng Nam<br>Member |
-
-<img src="/images/SMC/smc13.jpg" style="width:21%;margin-right:85px;margin-left:55px;" align="left">
-<img src="/images/SMC/smc14.jpg" style="width:23.2%;margin-right:65px;" align="left">
-<img src="/images/SMC/smc15.jpg" style="width:20%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| &nbsp;Mr&nbsp;Eric Yum Heng Yee<br>Member | &nbsp;Mr Suhaimi Bin Abdul Rashid<br>Member | Dr Seng Boon Kheng<br>Member |
-
-<img src="/images/SMC/smc16.jpg" style="width:23%">
-
-<br clear="left">
-
-|  |
-|:---:|
-| &nbsp;Mr Stephen Chin Hong Ern<br>Secretary |
+<h1>School Management Committee</h1>
+<p></p>
+<p>
+<br>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc14.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lau Kam Yuen
+<br>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bryan Ghana
+<br>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Suhaimi Bin Abdul Rashid Treasurer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc6.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brother Dominic Yeo Koh Tuan Kiok
+<br>Member
+<br>(Supervisor of APS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brother John Albert Arul Devanesan
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shanti Devi d/o Thambusamy
+<br>Member
+<br>(MOE Representative)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc7.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc8.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc9.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Seow Chui Hoon
+<br>Member (ITE Representative)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Paul Gwee Choon Guan
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neville Kiang Lai Kuong
+<br>Member</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc11.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc12.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Siow Wee Loong
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Henry Goh Poh Huat
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Roland Yeow Theng Nam
+<br>Member</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc13.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc15.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc16.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Eric Yum Heng Yee
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Seng Boon Khen
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Chin Hong Ern
+<br>Secretary</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
