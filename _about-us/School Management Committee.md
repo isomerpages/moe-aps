@@ -219,7 +219,8 @@ variant: tiptap
 <br>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Seng Boon Khen Member</p>
+<p>Dr Seng Boon Khen</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Stephen Chin Hong Ern
