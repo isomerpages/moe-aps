@@ -74,6 +74,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc6.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -151,19 +154,19 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc11.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SMC/smc3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/SMC/smc12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc12.jpg">
 </div>
 </th>
 </tr>
@@ -195,54 +198,37 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 43%;" height="auto" width="100%" alt="" src="/images/SMC/smc13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc13.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC/smc15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc15.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mr&nbsp;Eric Yum Heng Yee
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Seng Boon Kheng
-<br>Member</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/SMC/smc16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2/smc16.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Stephen Chin Hong Ern
+<p>Mr&nbsp;Eric Yum Heng Yee
+<br>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Seng Boon Kheng</p>
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Chin Hong Ern
 <br>Secretary</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
