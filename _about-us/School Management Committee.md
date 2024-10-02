@@ -6,28 +6,13 @@ variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>No.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>APS SMC</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Role</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Lau Kam Yuen</p>
 </td>
@@ -37,9 +22,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Bryan Ghana</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,9 +29,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Suhaimi Bin Abdul Rashid</p>
 </td>
@@ -59,19 +38,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Brother Dominic Yeo Koh Tuan Kiok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member (Supervisor of APS)</p>
+<p>Member (Supervisor of Schools, Monfort Brothers of St.Gabriel)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Stephen Chin Hong Ern</p>
 </td>
@@ -81,9 +54,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Shanti Devi d/o Thambusamy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,9 +61,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Alice Seow Chui Hoon</p>
 </td>
@@ -103,9 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Brother John Albert Arul Devanesan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,9 +77,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Paul Gwee Choon Guan</p>
 </td>
@@ -125,9 +86,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Neville Kiang Lai Kuong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,9 +93,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Siow Wee Loong</p>
 </td>
@@ -147,9 +102,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Henry Goh Poh Huat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,9 +109,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Dr Roland Yeow Theng Nam</p>
 </td>
@@ -169,9 +118,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr&nbsp;Eric Yum Heng Yee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,9 +125,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>15</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Dr Seng Boon Khen</p>
 </td>
