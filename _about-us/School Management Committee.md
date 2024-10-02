@@ -65,8 +65,7 @@ variant: markdown
 <p>Brother Dominic Yeo Koh Tuan Kiok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member
-<br>(Supervisor of APS)</p>
+<p>Member (Supervisor of APS)</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +87,7 @@ variant: markdown
 <p>Mdm Shanti Devi d/o Thambusamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member
-<br>(MOE Representative)</p>
+<p>Member (MOE Representative)</p>
 </td>
 </tr>
 <tr>
