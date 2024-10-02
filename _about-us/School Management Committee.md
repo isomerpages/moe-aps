@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <p></p>
@@ -195,146 +195,8 @@ variant: markdown
 <br>
 </p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Brother Dominic Yeo Koh Tuan Kiok
-<br>Member
-<br>(Supervisor of APS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Brother John Albert Arul Devanesan
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shanti Devi d/o Thambusamy
-<br>Member
-<br>(MOE Representative)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Alice Seow Chui Hoon
-<br>Member (ITE Representative)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Paul Gwee Choon Guan
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Neville Kiang Lai Kuong
-<br>Member</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Siow Wee Loong
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Henry Goh Poh Huat
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Roland Yeow Theng Nam
-<br>Member</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Eric Yum Heng Yee
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Seng Boon Khen
-<br>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Stephen Chin Hong Ern
-<br>Secretary</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
