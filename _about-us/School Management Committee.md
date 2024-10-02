@@ -41,7 +41,7 @@ variant: tiptap
 <p>Brother Dominic Yeo Koh Tuan Kiok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member (Supervisor of Schools, Monfort Brothers of St.Gabriel)</p>
+<p>Member (Supervisor of Schools, Monfort Brothers of St. Gabriel)</p>
 </td>
 </tr>
 <tr>
