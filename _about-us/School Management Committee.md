@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>School Management Committee</h1>
 <p></p>
@@ -126,7 +126,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Seng Boon Khen</p>
+<p>Dr Seng Boon Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
