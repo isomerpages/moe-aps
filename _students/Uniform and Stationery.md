@@ -37,7 +37,7 @@ description: ""
 </p>
 <p><a href="/files/Uniform and Stationery/APS_Uniform_List_Academy_Year_2.pdf" rel="noopener nofollow" target="_blank">APS Uniform List Academy Year 2</a>
 </p>
-<p></p>
+<hr>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
