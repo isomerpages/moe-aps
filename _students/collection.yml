@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Uniform and Stationery.md
       - Cyberwellness@APS.md
       - Student Learning Space (SLS).md
       - Student Support.md
       - PDLP.md
       - Student Online Portal Password Reset.md
+      - Uniform and Stationery.md
