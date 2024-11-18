@@ -27,7 +27,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Bus_Stop.png">
 </div>
-<p><a href="https://maps.app.goo.gl/Ua5XV47SiCvGRZgt8" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/Ua5XV47SiCvGRZgt8</a>
+<p><a href="https://maps.app.goo.gl/wjFj1xNeL21u2pab9" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/wjFj1xNeL21u2pab9</a>
 </p>
 <hr>
 <p></p>
