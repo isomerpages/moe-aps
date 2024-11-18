@@ -4,14 +4,13 @@ permalink: /shuttle-bus/
 variant: tiptap
 description: ""
 ---
-<h4>Daily morning shuttle buses to APS from 2 locations at <strong><u>7.00am</u></strong>.</h4>
+<h4>Daily morning shuttle buses to APS from 2 locations at <strong><u>7.00 am</u></strong>.</h4>
 <p></p>
 <h3><strong>1. Opposite Lakeside MRT</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Lakeside_Pickup_Point.png">
 </div>
-<p><strong><u>Near overhead bridge beside Bus Stop (ID 28099)</u></strong>
-</p>
+<h4><strong><u>Near overhead bridge beside Bus Stop (ID 28099)</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Opp_Lakeside_MRT.png">
 </div>
@@ -22,12 +21,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Pickup_Point.png">
 </div>
-<p><strong><u>Woodlands Ave 2, opp Blk 892C, near Bus Stop (ID 46639)</u></strong>
-</p>
+<h4><strong><u>Woodlands Ave 2, opp Blk 892C, near Bus Stop (ID 46639)</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Bus_Stop.png">
 </div>
-<p><a href="https://maps.app.goo.gl/wjFj1xNeL21u2pab9" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/wjFj1xNeL21u2pab9</a>
+<p><a href="https://maps.app.goo.gl/avFPnbHBf5m48HsL9" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/avFPnbHBf5m48HsL9</a>
 </p>
 <hr>
 <p></p>
