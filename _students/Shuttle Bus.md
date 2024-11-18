@@ -4,7 +4,7 @@ permalink: /shuttle-bus/
 variant: tiptap
 description: ""
 ---
-<h4>Daily free shuttle buses to APS from 2 locations at <strong><u>7.00 am</u></strong>.</h4>
+<h4>Daily free (one-way) shuttle bus to APS from 2 locations at <strong><u>7.00 am</u></strong>.</h4>
 <p></p>
 <h3><strong>1. Opposite Lakeside MRT</strong></h3>
 <div class="isomer-image-wrapper">
