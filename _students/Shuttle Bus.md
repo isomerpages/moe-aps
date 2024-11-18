@@ -11,7 +11,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lakeside_Pickup_Point.png">
 </div>
 <p></p>
-<p><strong><u>Near overhead bridge beside bus stop (ID 28099)</u></strong>
+<p><strong><u>Near overhead bridge beside Bus Stop (ID 28099)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Opp_Lakeside_MRT.png">
@@ -23,12 +23,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Woodlands_Pickup_Point.png">
 </div>
-<p><strong><u>Woodlands Ave 2, Opp Blk 892C, Near Bus Stop (ID 46639)</u></strong>
+<p><strong><u>Woodlands Ave 2, opp Blk 892C, near Bus Stop (ID 46639)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Woodlands_Bus_Stop.png">
 </div>
-<p><a href="https://maps.app.goo.gl/D4vFvWRNvhRzasGi6" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/D4vFvWRNvhRzasGi6</a>
+<p><a href="https://maps.app.goo.gl/Ua5XV47SiCvGRZgt8" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/Ua5XV47SiCvGRZgt8</a>
 </p>
 <hr>
 <p></p>
