@@ -4,7 +4,7 @@ permalink: /shuttle-bus/
 variant: tiptap
 description: ""
 ---
-<h4>Free shuttle bus service to APS at <strong><u>7.00 am</u></strong>.</h4>
+<h4>One-way free shuttle bus service to APS at <strong><u>7.00 am</u></strong>.</h4>
 <p>Available based on first-come-first-served basis, during school term (Monday
 to Friday) at <strong>2 pickup points</strong> below.</p>
 <p></p>
