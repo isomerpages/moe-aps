@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Lakeside_Pickup_Point.png">
 </div>
-<h4><strong><u>Near overhead bridge beside Bus Stop (ID 28099)</u></strong></h4>
+<h4><strong>Near overhead bridge beside Bus Stop (ID 28099)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Opp_Lakeside_MRT.png">
 </div>
@@ -21,7 +21,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Pickup_Point.png">
 </div>
-<h4><strong><u>Woodlands Ave 2, opp Blk 892C, near Bus Stop (ID 46639)</u></strong></h4>
+<h4><strong>Woodlands Ave 2, opp Blk 892C, near Bus Stop (ID 46639)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Bus_Stop.png">
 </div>
