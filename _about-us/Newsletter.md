@@ -20,11 +20,11 @@ by our students from the MediaComm Club!</p>
 </p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/qytgd/rzon/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_1.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p>2024 Issue 2 (Coming Soon!)</p>
+<p><a href="https://online.fliphtml5.com/qytgd/ieqr/#p=1" rel="noopener nofollow" target="_blank">2024 Issue 2</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 93%;" height="auto" width="100%" alt="" src="/images/2024_Newsletter_by_MediaComm__Version_1__Page_9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Version_2__2024_Newsletter_by_MediaComm_.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
