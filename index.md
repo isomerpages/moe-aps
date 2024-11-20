@@ -14,6 +14,15 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
+      title: OPEN HOUSE 2024
+      id: infopic
+      description: 20 November 2024 (1.00 pm to 4.00 pm). 21 November 2024 (8.30 am to
+        12.00 pm). 22 November 2024 (8.30 am to 12.00 pm).
+      button: find out more
+      url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
+      image: /images/whatsapp.jpeg
+      alt: Image alt text
+  - infopic:
       title: Rising Up Against All Odds
       id: infopic
       description: Suganya shares how she overcame her challenges and is now guiding others.
