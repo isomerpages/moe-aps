@@ -4,7 +4,7 @@ permalink: /admission/apa/permalink/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Assumption Pathway Academy Annual School Fees</strong></h3>
+<h1>Assumption Pathway Academy Annual School Fees</h1>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
