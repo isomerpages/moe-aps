@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Admission</h1>
-<p><strong>REQUIREMENTS</strong>
-</p>
+<p></p>
 <p><strong>For admission in January 2025:</strong>
 </p>
 <ul data-tight="true" class="tight">
