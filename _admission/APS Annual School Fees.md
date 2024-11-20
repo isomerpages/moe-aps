@@ -4,7 +4,7 @@ permalink: /admission/aps/permalink/
 description: ""
 variant: tiptap
 ---
-<h3><strong>APS Annual School Fees</strong></h3>
+<h1>APS Annual School Fees</h1>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
