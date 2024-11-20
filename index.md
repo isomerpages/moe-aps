@@ -16,8 +16,7 @@ sections:
   - infopic:
       title: OPEN HOUSE 2024
       id: infopic
-      description: 20 November 2024 (1.00 pm to 4.00 pm). 21 November 2024 (8.30 am to
-        12.00 pm). 22 November 2024 (8.30 am to 12.00 pm).
+      description: "20 Nov: 1pm - 4pm |  21 & 22 Nov: 8.30am to 12pm"
       button: find out more
       url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
       image: /images/whatsapp.jpeg
