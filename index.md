@@ -22,6 +22,15 @@ sections:
       image: /images/whatsapp.jpeg
       alt: Image alt text
   - infopic:
+      title: APS Corporate Video
+      id: infopic
+      description: Hear from our students sharing their journeys and how the unique
+        programmes at APS help to prepare them to be Ready for Work and Life.
+      button: CLICK TO VIEW
+      url: https://youtu.be/STCM6KFYrwI
+      image: /images/CorpVid.png
+      alt: Image alt text
+  - infopic:
       title: Rising Up Against All Odds
       id: infopic
       description: Suganya shares how she overcame her challenges and is now guiding others.
