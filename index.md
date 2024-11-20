@@ -14,10 +14,10 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
-      title: OPEN HOUSE 2024
+      title: APS OPEN HOUSE 2024
       id: infopic
       description: "20 Nov: 1pm - 4pm |  21 & 22 Nov: 8.30am to 12pm"
-      button: find out more
+      button: FIND OUT MORE
       url: https://sites.google.com/moe.edu.sg/apsopenhouse/more-about-aps
       image: /images/whatsapp.jpeg
       alt: Image alt text
