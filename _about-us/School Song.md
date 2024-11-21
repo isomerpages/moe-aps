@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /about-us/permalink/
+permalink: /about-us/school-song/
 variant: tiptap
 description: ""
 ---

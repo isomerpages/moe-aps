@@ -1,7 +1,8 @@
 ---
 title: Privacy Policy
-permalink: /about-us/privacy/permalink
+permalink: /about-us/privacy/
 description: ""
+variant: tiptap
 ---
 Privacy Policy
 ==============

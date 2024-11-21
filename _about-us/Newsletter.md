@@ -1,6 +1,6 @@
 ---
 title: Newsletter
-permalink: /about-us/newsletter/permalink/
+permalink: /about-us/newsletter/
 description: ""
 variant: tiptap
 ---

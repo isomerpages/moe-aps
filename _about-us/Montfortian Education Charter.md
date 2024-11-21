@@ -1,7 +1,8 @@
 ---
 title: Montfortian Education Charter
-permalink: /about-us/MEC/permalink
+permalink: /about-us/mec/
 description: ""
+variant: tiptap
 ---
 Montfortian Education Charter
 ============================

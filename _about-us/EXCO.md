@@ -1,6 +1,6 @@
 ---
 title: EXCO
-permalink: /about-us/exco/permalink/
+permalink: /about-us/exco/
 description: ""
 variant: tiptap
 ---

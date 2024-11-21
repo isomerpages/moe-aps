@@ -1,7 +1,8 @@
 ---
 title: Milestones
-permalink: /about-us/milestones/permalink/
+permalink: /about-us/milestones/
 description: ""
+variant: tiptap
 ---
 Milestones
 ==========

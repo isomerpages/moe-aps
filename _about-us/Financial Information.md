@@ -1,6 +1,6 @@
 ---
 title: Financial Information
-permalink: /about-us/financialinfo/permalink/
+permalink: /about-us/financial-info/
 description: ""
 variant: tiptap
 ---
