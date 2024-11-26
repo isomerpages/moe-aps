@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Uniform and Stationery List (Year 1)</strong></h4>
-<p><a href="/files/Uniform and Stationery/APS_Uniform_and_Stationery_List_Year_1.pdf" rel="noopener nofollow" target="_blank">APS Uniform and Stationery List Year 1</a>
+<p><a href="/files/Uniform and Stationery/APS_Uniform_and_Stationery_List_Year_1_revised.pdf" rel="noopener nofollow" target="_blank">APS Uniform and Stationery List Year 1</a>
 </p>
 <p></p>
 <h4><strong>Uniform and Stationery List (Year 2)</strong></h4>
