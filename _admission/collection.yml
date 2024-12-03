@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Admission.md
-      - APS Annual School Fees.md
+      - APS Annual School Fees and Other Charges.md
       - Academy Annual School Fees.md
