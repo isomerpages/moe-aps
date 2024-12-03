@@ -4,7 +4,7 @@ permalink: /admission/aps-school-fees/
 description: ""
 variant: tiptap
 ---
-<h4>APS Annual School Fees</h4>
+<h3>APS Annual School Fees</h3>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -222,7 +222,7 @@ subject to change by MOE.)</p>
 </li>
 </ul>
 <p></p>
-<h4>Booklist item charged by school</h4>
+<h3>Booklist item charged by school</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
