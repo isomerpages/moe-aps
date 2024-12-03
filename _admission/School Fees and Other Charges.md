@@ -261,7 +261,7 @@ subject to change by MOE.)</p>
 <p>$19.70</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$39.70</p>
+<p>$39.40</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ subject to change by MOE.)</p>
 <p>$19.70</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$39.70</p>
+<p>$39.40</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ subject to change by MOE.)</p>
 <p>$19.70</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$39.70</p>
+<p>$39.40</p>
 </td>
 </tr>
 <tr>
@@ -303,7 +303,7 @@ subject to change by MOE.)</p>
 <p>$19.70</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$39.70</p>
+<p>$39.40</p>
 </td>
 </tr>
 </tbody>
