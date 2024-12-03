@@ -232,23 +232,18 @@ subject to change by MOE.)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Level</p>
 </th>
-<th rowspan="1" colspan="2">
-<p>Math Text Book</p>
+<th rowspan="1" colspan="1">
+<p>Math Text Book A</p>
 </th>
-<th rowspan="2" colspan="1">
+<th rowspan="1" colspan="1">
+<p>Math Text Book B</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Total</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Book A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Book B</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -308,6 +303,8 @@ subject to change by MOE.)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p>*The Math Text Books will be distributed to the students by the teachers.</p>
 <p></p>
 <p></p>
