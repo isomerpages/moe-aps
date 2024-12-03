@@ -45,22 +45,22 @@ variant: tiptap
 <p>Singaporeans</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$168</p>
+<p>$168.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$168</p>
+<p>$168.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$168</p>
+<p>$168.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$264</p>
+<p>$264.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$264</p>
+<p>$264.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$264</p>
+<p>$264.00</p>
 </td>
 </tr>
 <tr>
@@ -68,22 +68,22 @@ variant: tiptap
 <p>Singapore Permanent Residents</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$960</p>
+<p>$960.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$960</p>
+<p>$960.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$960^</p>
+<p>$960.00^</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,440^</p>
+<p>$1,440.00^</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,440</p>
+<p>$1,440.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1,440</p>
+<p>$1,440.00</p>
 </td>
 </tr>
 <tr>
@@ -99,104 +99,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Singaporean</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Singapore PR</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$168</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$960</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$168</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$960</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$168</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$960^</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$264</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,440^</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Academy Year 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$264</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,440</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Academy Year 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$264</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$1,440</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -223,106 +125,6 @@ subject to change by MOE.)</p>
 </ul>
 <p></p>
 <h3>Booklist item charged by school</h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="2" colspan="1">
-<p>Level</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Math Text Book</p>
-</th>
-<th rowspan="2" colspan="1">
-<p>Total</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Book A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Book B</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$39.40</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$39.40</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$39.40</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$19.70</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$39.40</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
