@@ -232,6 +232,106 @@ subject to change by MOE.)</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="2" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Math Text Book</p>
+</th>
+<th rowspan="2" colspan="1">
+<p>Total</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Book A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Book B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$39.40</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$39.40</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$39.40</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$19.70</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$39.40</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Level</p>
 </th>
@@ -301,11 +401,14 @@ subject to change by MOE.)</p>
 <p>$39.40</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>*The Math Text Books will be distributed to the students by the teachers.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p>*The Math Text Books will be distributed to the students by the teachers.</p>
 <p></p>
 <p></p>
 <p></p>
