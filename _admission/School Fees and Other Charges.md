@@ -43,6 +43,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singaporeans</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$168.00</p>
