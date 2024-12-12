@@ -122,7 +122,7 @@ variant: tiptap
 <p>Mr Gabriel Peh Yee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Character &amp; Citizenship Education / Student Development</p>
+<p>Subject Head (Character &amp; Citizenship Education), Student Development</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>Mr Ng Tong Knu Nicholas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Culinary Skills</p>
+<p>Subject Head, Culinary Skills</p>
 </td>
 </tr>
 <tr>
