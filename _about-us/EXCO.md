@@ -111,6 +111,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ow Kok Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Gabriel Peh Yee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
