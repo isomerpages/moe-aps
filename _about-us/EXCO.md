@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shashidaran S/O Kaneson</p>
+<p>Mrs Patrine Tang Huay Jiuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal, Instructional Programme</p>
@@ -107,14 +107,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ow Kok Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Physical Education</p>
 </td>
 </tr>
 <tr>
