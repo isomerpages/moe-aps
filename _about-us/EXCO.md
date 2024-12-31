@@ -111,14 +111,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ow Kok Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Physical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Gabriel Peh Yee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,23 +220,7 @@ variant: tiptap
 <p>Mr Mohamed Izam Bin Mohamed Hani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head - 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhamad Alfian Bin Tajuddin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head - 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Fong Yu Keong Christopher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head - 2</p>
+<p>Year Head - 1</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +228,23 @@ variant: tiptap
 <p>Mr Shukor Bin Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head - 1</p>
+<p>Year Head - 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Yu Keong Christopher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head - 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamad Alfian Bin Tajuddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head - 4</p>
 </td>
 </tr>
 <tr>
