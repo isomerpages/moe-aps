@@ -4,7 +4,7 @@ permalink: /student/pdlp/permalink/
 description: ""
 variant: markdown
 ---
-PDLP
+Personalised Digital Learning Programme (PDLP)
 ====
 
 1. [APS PLD Initiaves](/files/PDLP/APS_Infographic_on_the_PLD_Initiative_2024_FINAL.pdf)
