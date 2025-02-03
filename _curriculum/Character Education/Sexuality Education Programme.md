@@ -496,7 +496,7 @@ and friends are important pillars of support.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When respect takes centre stage</p>
+<p>When Respect Takes Centre Stage</p>
 <p>Lesson 2
 <br>(60 mins)</p>
 </td>
@@ -604,7 +604,7 @@ and should be avoided.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When love hurts</p>
+<p>When Love Hurts</p>
 <p>Lesson 2
 <br>(60 mins)
 <br>
@@ -652,12 +652,12 @@ relationship.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For better or for worse</p>
+<p>For Better or For Worse</p>
 <p>Lesson 3
 <br>(60 mins)</p>
 </td>
@@ -695,7 +695,7 @@ of their marriage.
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -722,7 +722,7 @@ alignment with our beliefs.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -802,11 +802,11 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need&nbsp;to
 complete an opt-out form. This form will be communicated to parents at
 the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_A___Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
-completed form is to be submitted to the school office by&nbsp;<strong>16 February 2024</strong>.</p>
+completed form is to be submitted to the school office by&nbsp;<strong>17 February 2025</strong>.</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_B___eTeens_Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
-completed form is to be submitted to the school office by&nbsp;<strong>16 February</strong>&nbsp;<strong>2024</strong>.</p>
+completed form is to be submitted to the school office by&nbsp;<strong>17 February</strong>&nbsp;<strong>2025</strong>.</p>
 <p>13. Parents can contact the school at 6279 3000 or email at aps@schools.gov.sg
 for discussion or to seek clarification about the school's Sexuality Education
 programme.</p>
