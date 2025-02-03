@@ -39,7 +39,7 @@ against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Assumption Pathway</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong> 
+<p><strong>Overview of Assumption Pathway</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong> 
 <br>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -68,11 +68,18 @@ and an understanding of the possible consequences of sexual behaviour.&nbsp;</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Assumption Pathway School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2024:</strong>
+<p><strong>At Assumption Pathway School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025:</strong>
 </p>
 <p><strong>Year 1</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -217,7 +224,14 @@ etc.)
 </table>
 <p><strong>Year 2</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -359,7 +373,14 @@ both offline and online
 </table>
 <p><strong>Year 3</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -426,7 +447,7 @@ is important when entering into a dating relationship.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mending a broken heart</p>
+<p>Mending a Broken Heart</p>
 <p>Lesson 1B
 <br>(60 mins)</p>
 </td>
@@ -475,7 +496,7 @@ and friends are important pillars of support.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When respect takes centre stage</p>
+<p>When Respect Takes Centre Stage</p>
 <p>Lesson 2
 <br>(60 mins)</p>
 </td>
@@ -514,7 +535,14 @@ alignment with our beliefs.</p>
 </table>
 <p><strong>Year 4</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -576,7 +604,7 @@ and should be avoided.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When love hurts</p>
+<p>When Love Hurts</p>
 <p>Lesson 2
 <br>(60 mins)
 <br>
@@ -624,12 +652,12 @@ relationship.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For better or for worse</p>
+<p>For Better or For Worse</p>
 <p>Lesson 3
 <br>(60 mins)</p>
 </td>
@@ -667,7 +695,7 @@ of their marriage.
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -694,7 +722,7 @@ alignment with our beliefs.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 </tbody>
@@ -713,7 +741,12 @@ family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTe
 is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Assumption Pathway School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -769,11 +802,11 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need&nbsp;to
 complete an opt-out form. This form will be communicated to parents at
 the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_A___Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
-completed form is to be submitted to the school office by&nbsp;<strong>16 February 2024</strong>.</p>
+completed form is to be submitted to the school office by&nbsp;<strong>17 February 2025</strong>.</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable&nbsp;<a href="/files/SEd/Annex_B___eTeens_Opt_out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
-completed form is to be submitted to the school office by&nbsp;<strong>16 February</strong>&nbsp;<strong>2024</strong>.</p>
+completed form is to be submitted to the school office by&nbsp;<strong>17 February</strong>&nbsp;<strong>2025</strong>.</p>
 <p>13. Parents can contact the school at 6279 3000 or email at aps@schools.gov.sg
 for discussion or to seek clarification about the school's Sexuality Education
 programme.</p>
