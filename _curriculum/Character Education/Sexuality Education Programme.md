@@ -39,7 +39,7 @@ against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.</p>
 <p>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Assumption Pathway</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong> 
+<p><strong>Overview of Assumption Pathway</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong> 
 <br>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -68,11 +68,18 @@ and an understanding of the possible consequences of sexual behaviour.&nbsp;</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Assumption Pathway School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2024:</strong>
+<p><strong>At Assumption Pathway School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025:</strong>
 </p>
 <p><strong>Year 1</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -217,7 +224,14 @@ etc.)
 </table>
 <p><strong>Year 2</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -359,7 +373,14 @@ both offline and online
 </table>
 <p><strong>Year 3</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -426,7 +447,7 @@ is important when entering into a dating relationship.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mending a broken heart</p>
+<p>Mending a Broken Heart</p>
 <p>Lesson 1B
 <br>(60 mins)</p>
 </td>
@@ -514,7 +535,14 @@ alignment with our beliefs.</p>
 </table>
 <p><strong>Year 4</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -713,7 +741,12 @@ family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTe
 is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Assumption Pathway School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
