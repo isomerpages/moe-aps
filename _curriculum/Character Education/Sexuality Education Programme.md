@@ -7,16 +7,16 @@ variant: tiptap
 ---
 <h1>Sexuality Education Programme</h1>
 <p><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong> 
-<br>1. Sexuality Education (SEd) in schools is about enabling students to
-understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships with others,
-including those with members of the opposite sex, and make wise, informed
-and responsible decisions on sexuality matters. SEd is premised on the
-importance of the family as the basic unit of society. This means encouraging
-healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for
-the values and beliefs of the different ethnic and religious communities
-in Singapore on sexuality issues.</p>
+<br>1. Sexuality Education (SEd) in schools is about enabling students aims
+to enable students to understand the physiological, social and emotional
+changes they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(a) Support students in managing their
 physiological, social and emotional changes as they grow up and develop
@@ -83,20 +83,20 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lesson Title / Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -235,20 +235,20 @@ etc.)
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lessons / Durations</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender
+to members of the opposite sex.
 <br>
 </p>
 </li>
@@ -384,20 +384,20 @@ both offline and online
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lessons / Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -546,20 +546,20 @@ alignment with our beliefs.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lessons / Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -582,15 +582,8 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Understand that the value of a person is not tied to one’s gender and
-not conforming to gender stereotypes does not negate one’s gender identity.
-<br>Understand what gender stereotypes comprise, e.g. notions of masculinity
-and femininity vary over time and space, and are shaped by societal expectations.
-<br>
-</p>
-</li>
 <li>
 <p>Know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
@@ -736,10 +729,10 @@ conducted in two segments – a mass talk segment and a classroom-based programm
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
-extends beyond themselves and involves their family. Abstinence and upholding
-family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Assumption Pathway School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+extends beyond themselves and involves their family. and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.&nbsp;</p>
+<p><strong>At Assumption Pathway School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -761,7 +754,7 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
