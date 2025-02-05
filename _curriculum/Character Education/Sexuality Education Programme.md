@@ -546,20 +546,20 @@ alignment with our beliefs.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lessons / Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
