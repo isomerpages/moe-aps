@@ -352,7 +352,7 @@ of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender
+to members of the opposite sex.
 <br>
 </p>
 </li>
