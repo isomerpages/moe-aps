@@ -729,10 +729,10 @@ conducted in two segments – a mass talk segment and a classroom-based programm
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
-extends beyond themselves and involves their family. Abstinence and upholding
-family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Assumption Pathway School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+extends beyond themselves and involves their family. and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.&nbsp;</p>
+<p><strong>At Assumption Pathway School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
