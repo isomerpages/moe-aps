@@ -7,16 +7,16 @@ variant: tiptap
 ---
 <h1>Sexuality Education Programme</h1>
 <p><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong> 
-<br>1. Sexuality Education (SEd) in schools is about enabling students to
-understand the physiological, social and emotional changes they experience
-as they mature, develop healthy and rewarding relationships with others,
-including those with members of the opposite sex, and make wise, informed
-and responsible decisions on sexuality matters. SEd is premised on the
-importance of the family as the basic unit of society. This means encouraging
-healthy, heterosexual marriages and stable nuclear family units with extended
-family support. The teaching and learning of SEd is based on respect for
-the values and beliefs of the different ethnic and religious communities
-in Singapore on sexuality issues.</p>
+<br>1. Sexuality Education (SEd) in schools is about enabling students aims
+to enable students to understand the physiological, social and emotional
+changes they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
 <p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(a) Support students in managing their
 physiological, social and emotional changes as they grow up and develop
@@ -83,20 +83,20 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lesson Title / Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -235,20 +235,20 @@ etc.)
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lessons / Durations</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
@@ -384,20 +384,20 @@ both offline and online
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>UNIT</p>
+<p>Unit</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSONS / DURATION</p>
+<p>Lessons / Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>LESSON OVERVIEW</p>
+<p>Lesson Overview</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Lesson Objectives
 <br>At the end of the lesson, students will be able to:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME PERIOD</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
