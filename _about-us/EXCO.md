@@ -179,7 +179,7 @@ variant: tiptap
 <p>Ms Goh Lee Lian Alice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Baking Practices and Hairdressing</p>
+<p>Head of Department, Baking Practices</p>
 </td>
 </tr>
 <tr>
