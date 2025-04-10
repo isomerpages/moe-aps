@@ -14,6 +14,13 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
+      title: APS 17th Graduation Ceremony
+      subtitle: ""
+      id: infopic
+      description: APS 17th Graduation Ceremony will be held on Friday, 30 May 2025
+      image: /images/AGC_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: APS Corporate Video
       id: infopic
       description: Hear from our students sharing their journeys and how the unique
