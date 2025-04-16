@@ -4,7 +4,7 @@ permalink: /timetable/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Timetable 2025</strong></h1>
+<h1><strong>Timetable 2025 (Semester 1)</strong></h1>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetable/Assumption_Pathway_School__Y1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a>
