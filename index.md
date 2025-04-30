@@ -21,7 +21,7 @@ sections:
         May 2025.
       image: /images/AGC_2025.jpg
       alt: Image alt text
-      button: RSVP for APS 17th Graduation Ceremony
+      button: Click to RSVP
       url: https://go.gov.sg/apsgraduationceremony2025
   - infopic:
       title: APS Corporate Video
