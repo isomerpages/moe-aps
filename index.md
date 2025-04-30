@@ -17,8 +17,8 @@ sections:
       title: APS 17th Graduation Ceremony
       id: infopic
       description: APS 17th Graduation Ceremony will be held on Friday, 30 May 2025.
-        Graduands, please click on the link below to RSVP your availability by 9
-        May 2025.
+        Graduands, please click on the link below to indicate your availability
+        by 9 May 2025.
       image: /images/AGC_2025.jpg
       alt: Image alt text
       button: Click to RSVP
