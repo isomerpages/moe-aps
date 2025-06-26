@@ -14,5 +14,13 @@ variant: tiptap
 <p><a href="/files/IEP_2025_Parents_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">IEP 2025 Parents Briefing</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Parents/Parent_User_Guide_PG_Mobile_App__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">Parent User Guide PG Mobile App (Notify Absence)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/FAQs_for_Parents__Notify_absence_.pdf" rel="noopener nofollow" target="_blank">FAQs - Parent User Guide PG Mobile App (Notify Absence)</a>
+</p>
+</li>
 </ul>
 <p></p>
