@@ -51,29 +51,31 @@ etc) and tea variety</p>
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
+<p>The following documents to be submitted via <a href="mailto:chijktps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aps@schools.gov.sg </u></a>or hand
+delivered to the school’s General Office.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the Application Form (click on the link below).
-You may also request for a hardcopy of the Application Form from the School’s
-General Office. <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+<p>Completed <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 <li>
-<p>Attached the following documents together with the Application Form:</p>
 <p>Photocopy of the NRIC (front and back)</p>
-<p>List of proposed menu and pricing for all items</p>
-<p>Photocopy of relevant certificates such as Food Safety Course Level 1,
-etc</p>
 </li>
 <li>
-<p>Submit the completed Application Form and documents via email OR to the
-School’s General Office by the closing date.</p>
+<p>List of proposed menu and pricing for all items</p>
+</li>
+<li>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+etc.</p>
+</li>
+</ol>
+<p>School's contact details are as follows</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 30 Cashew Road S(679697)</p>
 </li>
 <li>
-<p>Contact No: 62793000</p>
+<p>Contact No.: 62793000</p>
 </li>
 <li>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">aps@schools.gov.sg</a>
@@ -83,8 +85,6 @@ School’s General Office by the closing date.</p>
 <p>Contact Person: &nbsp;Mr. Kelvin Ang</p>
 </li>
 </ul>
-</li>
-</ol>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
