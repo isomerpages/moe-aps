@@ -55,8 +55,8 @@ etc) and tea variety</p>
 <li>
 <p>Download and complete the Application Form (click on the link below).
 You may also request for a hardcopy of the Application Form from the School’s
-General Office. <a href="Application%20for%20Canteen%20Stall-FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
-<a href="Application%20for%20Canteen%20Stall-FormBF7.pdf" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SAS1]</a>&nbsp;</p>
+General Office. <a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
 </li>
 <li>
 <p>Attached the following documents together with the Application Form:</p>
@@ -70,8 +70,7 @@ etc</p>
 School’s General Office by the closing date.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Address: 30 Cashew Road S(679697)</a>
-</p>
+<p>Address: 30 Cashew Road S(679697)</p>
 </li>
 <li>
 <p>Contact No: 62793000</p>
