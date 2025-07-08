@@ -99,11 +99,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FY2022 Jan to Dec (S$'000)</strong>
+<p><strong>FY2023 Jan to Dec (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FY2023 Jan to Dec (S$'000)</strong>
+<p><strong>FY2024 Jan to Dec (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,20 +120,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>131
-<br>195</p>
+<br>102
+<br>208</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>102
-<br>208
+<br>112
+<br>269
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>-22%
-<br>7%</p>
+<br>10%
+<br>29%</p>
 </td>
 </tr>
 <tr>
