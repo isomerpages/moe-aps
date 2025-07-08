@@ -99,11 +99,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FY2022 Jan to Dec (S$'000)</strong>
+<p><strong>FY2023 Jan to Dec (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FY2023 Jan to Dec (S$'000)</strong>
+<p><strong>FY2024 Jan to Dec (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,20 +120,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>131
-<br>195</p>
+<br>102
+<br>208</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>102
-<br>208
+<br>112
+<br>269
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>-22%
-<br>7%</p>
+<br>10%
+<br>29%</p>
 </td>
 </tr>
 <tr>
@@ -163,13 +163,13 @@ variant: tiptap
 <p>Grants / Sponsorships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14,024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>15,972</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14%</p>
+<p>16,884</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6%</p>
 </td>
 </tr>
 <tr>
@@ -177,13 +177,13 @@ variant: tiptap
 <p>Investment income</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>163</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>543</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>233%</p>
+<p>492</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-9%</p>
 </td>
 </tr>
 <tr>
@@ -205,17 +205,17 @@ variant: tiptap
 <p>Others (please specify if material)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>405
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>407
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0%</p>
+<p>421
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3%</p>
 </td>
 </tr>
 <tr>
@@ -223,13 +223,13 @@ variant: tiptap
 <p>Total Income</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14,918</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>17,232</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16%</p>
+<p>18,178</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5%</p>
 </td>
 </tr>
 </tbody>
@@ -289,15 +289,6 @@ variant: tiptap
 <p>
 <br>
 <br>
-<br>353
-<br>-
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
 <br>476
 <br>51
 <br>
@@ -307,7 +298,16 @@ variant: tiptap
 <p>
 <br>
 <br>
-<br>35%
+<br>480
+<br>-
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>1%
 <br>-</p>
 </td>
 </tr>
@@ -317,13 +317,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18,206</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>19,307</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6%</p>
+<p>20,203</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5%</p>
 </td>
 </tr>
 <tr>
@@ -345,13 +345,13 @@ variant: tiptap
 <p>Total Expenditure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18,559</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>19,834</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7%</p>
+<p>20,683</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4%</p>
 </td>
 </tr>
 <tr>
@@ -359,17 +359,17 @@ variant: tiptap
 <p>Surplus / (Deficit)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(3,641)
+<p>(-2,602)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(2,602)
+<p>(-2,505)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-29%</p>
+<p>-4%</p>
 </td>
 </tr>
 </tbody>
@@ -402,10 +402,10 @@ of the charity.</p>
 <p>Balance Sheet</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2022 Jan to Dec (S$'000)</p>
+<p>FY2023 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2023 Jan to Dec (S$'000)</p>
+<p>FY2024 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>% Increase/ (Decrease)</p>
@@ -430,10 +430,10 @@ of the charity.</p>
 <p>Land and Buildings</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16,979</p>
+<p>16,036</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16,036</p>
+<p>15,093</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-6%</p>
@@ -444,15 +444,15 @@ of the charity.</p>
 <p>Other Tangible Assets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,314
+<p>821
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>821</p>
+<p>1,182</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-38%</p>
+<p>44%</p>
 </td>
 </tr>
 <tr>
@@ -488,15 +488,15 @@ of the charity.</p>
 <p>Accounts Receivable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>234
+<p>274
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>274</p>
+<p>203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17%</p>
+<p>-26%</p>
 </td>
 </tr>
 <tr>
@@ -504,13 +504,13 @@ of the charity.</p>
 <p>Cash &amp; Deposits</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26,646</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>24,935</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-6%</p>
+<p>17,573</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-30%</p>
 </td>
 </tr>
 <tr>
@@ -533,15 +533,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>45,173<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>42,066<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-7%</strong>
+<p><strong>34,051<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-19%</strong>
 </p>
 </td>
 </tr>
@@ -570,13 +570,13 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20,465</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>17,513</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-14%</p>
+<p>14,257</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-19%</p>
 </td>
 </tr>
 <tr>
@@ -585,15 +585,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>644</p>
+<p>766</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>766
+<p>655
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19%</p>
+<p>-14%</p>
 </td>
 </tr>
 <tr>
@@ -617,15 +617,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21,109</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>18,279</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-13%</strong>
+<p><strong>14,912</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-18%</strong>
 </p>
 </td>
 </tr>
@@ -653,13 +653,13 @@ of the charity.</p>
 <p>Long-Term Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18,238</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>16,799</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-8%</p>
+<p>16,216</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-3%</p>
 </td>
 </tr>
 <tr>
@@ -667,13 +667,13 @@ of the charity.</p>
 <p>Current Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5,826</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>6,988</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20%</p>
+<p>2,923</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-58%</p>
 </td>
 </tr>
 <tr>
@@ -682,15 +682,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24,064</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>23,787</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-1%</strong>
+<p><strong>19,139</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-20%</strong>
 </p>
 </td>
 </tr>
@@ -714,15 +714,15 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>45,173</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>42,066</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-7%</strong>
+<p><strong>34,051</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>-19%</strong>
 </p>
 </td>
 </tr>
@@ -748,10 +748,10 @@ are used, and not the capital sum.</p>
 <p>Other Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2022 Jan to Dec (S$'000)</p>
+<p>FY2023 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2023 Jan to Dec (S$'000)</p>
+<p>FY2024 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>% Increase/ (Decrease)</p>
@@ -776,13 +776,13 @@ are used, and not the capital sum.</p>
 <p>No. of Employees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>136</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>129</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-5%</p>
+<p>125</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-3%</p>
 </td>
 </tr>
 <tr>
@@ -790,13 +790,13 @@ are used, and not the capital sum.</p>
 <p>Total Employee Costs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13,858</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>14,364</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4%</p>
+<p>14,693</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2%</p>
 </td>
 </tr>
 <tr>
