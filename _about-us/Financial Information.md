@@ -223,13 +223,13 @@ variant: tiptap
 <p>Total Income</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14,918</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>17,232</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16%</p>
+<p>18,178</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5%</p>
 </td>
 </tr>
 </tbody>
@@ -289,15 +289,6 @@ variant: tiptap
 <p>
 <br>
 <br>
-<br>353
-<br>-
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
 <br>476
 <br>51
 <br>
@@ -307,7 +298,16 @@ variant: tiptap
 <p>
 <br>
 <br>
-<br>35%
+<br>480
+<br>-
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>1%
 <br>-</p>
 </td>
 </tr>
@@ -317,7 +317,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18,206</p>
+<p>19,307</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19,307</p>
