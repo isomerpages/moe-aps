@@ -163,13 +163,13 @@ variant: tiptap
 <p>Grants / Sponsorships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14,024</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>15,972</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14%</p>
+<p>16,884</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6%</p>
 </td>
 </tr>
 <tr>
@@ -177,13 +177,13 @@ variant: tiptap
 <p>Investment income</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>163</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>543</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>233%</p>
+<p>492</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-9%</p>
 </td>
 </tr>
 <tr>
@@ -205,17 +205,17 @@ variant: tiptap
 <p>Others (please specify if material)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>405
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>407
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0%</p>
+<p>421
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3%</p>
 </td>
 </tr>
 <tr>
