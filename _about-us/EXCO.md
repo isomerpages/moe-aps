@@ -111,6 +111,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kamali Mangon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Physical Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Gabriel Peh Yee Peng</p>
 </td>
 <td rowspan="1" colspan="1">
