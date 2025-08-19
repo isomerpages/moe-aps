@@ -39,4 +39,12 @@ sections:
       url: https://youtu.be/u-Td78ERXyU?si=VMEVkovHdImBz39c
       image: /images/SAKINAH__1_.jpg
       alt: Sakinah
+  - infopic:
+      title: Caring Teachers Award (CTA) 2026 Nomination
+      subtitle: Caring Teachers Awards 2026
+      id: infopic
+      description: Please access the link below for more information on the CTA.
+      button: Click here
+      url: https://www.cta.nie.edu.sg/
+      alt: Image alt text
 ---
