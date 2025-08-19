@@ -17,7 +17,8 @@ sections:
       title: Caring Teacher Award (CTA) 2026 Nomination
       subtitle: Caring Teacher Awards 2026
       id: infopic
-      description: Please access the link below for more information on the CTA.
+      description: Please access the link below for more information on the CTA and
+        nominate the teacher before 31 December 2025.
       button: Click here
       url: https://www.cta.nie.edu.sg/
       image: /images/CTA_2026_Poster.jpg
