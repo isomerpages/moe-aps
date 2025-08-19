@@ -46,5 +46,5 @@ sections:
       description: Please access the link below for more information on the CTA.
       button: Click here
       url: https://www.cta.nie.edu.sg/
-      alt: Image alt text
+      image: /images/CTA_2026_Poster.jpg
 ---
