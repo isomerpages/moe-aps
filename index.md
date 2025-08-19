@@ -14,6 +14,14 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
+      title: Caring Teacher Award (CTA) 2026 Nomination
+      subtitle: Caring Teacher Awards 2026
+      id: infopic
+      description: Please access the link below for more information on the CTA.
+      button: Click here
+      url: https://www.cta.nie.edu.sg/
+      image: /images/CTA_2026_Poster.jpg
+  - infopic:
       title: APS Corporate Video
       id: infopic
       description: Hear from our students sharing their journeys and how the unique
@@ -39,12 +47,4 @@ sections:
       url: https://youtu.be/u-Td78ERXyU?si=VMEVkovHdImBz39c
       image: /images/SAKINAH__1_.jpg
       alt: Sakinah
-  - infopic:
-      title: Caring Teachers Award (CTA) 2026 Nomination
-      subtitle: Caring Teachers Awards 2026
-      id: infopic
-      description: Please access the link below for more information on the CTA.
-      button: Click here
-      url: https://www.cta.nie.edu.sg/
-      image: /images/CTA_2026_Poster.jpg
 ---
