@@ -22,6 +22,7 @@ sections:
       button: Click here
       url: https://www.cta.nie.edu.sg/
       image: /images/CTA_2026_Poster.jpg
+      alt: CTA 2026 Poster
   - infopic:
       title: APS Corporate Video
       id: infopic
