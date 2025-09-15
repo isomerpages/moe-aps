@@ -168,14 +168,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ten Sze Onn John</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Baking and Culinary Skills</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Goh Soon Lai Lionel</p>
 </td>
 <td rowspan="1" colspan="1">
