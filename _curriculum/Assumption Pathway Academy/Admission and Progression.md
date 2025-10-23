@@ -18,7 +18,7 @@ third_nav_title: Assumption Pathway Academy
 </ul>
 <p></p>
 <h4>Progression Path</h4>
+<p>Content is currently under revision.</p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/post-secondary/admissions/jae/institute-of-technical-education"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academy/COntent_under_revision.jpg"></a>
 <p></p>
