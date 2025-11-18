@@ -99,17 +99,17 @@ on Sunday &amp; Public Holidays)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Add: 3013, Bedok Industrial Park E, # 02-2094, Singapore 489979</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Contact: 91061391</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operating Hours : Mon to Fri (9.00am to 4.00pm)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
