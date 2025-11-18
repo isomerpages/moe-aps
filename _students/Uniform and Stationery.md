@@ -68,7 +68,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operating Hours: 9am to 5.30pm (Mon - Fri), 9am to 3.30pm (Sat) (Closed
+<p>Operating Hours: 9am to 5.00pm (Mon - Fri), 9am to 3.00pm (Sat) (Closed
 on Sunday &amp; Public Holidays)</p>
 </td>
 </tr>
