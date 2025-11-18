@@ -1,5 +1,5 @@
 ---
-title: Admission and Progression
+title: Admission
 permalink: /admission-and-progression/
 variant: tiptap
 description: ""
@@ -17,8 +17,7 @@ third_nav_title: Assumption Pathway Academy
 </li>
 </ul>
 <p></p>
-<h4>Progression Path</h4>
-<p>Content is currently under revision.</p>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
