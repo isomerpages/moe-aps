@@ -21,6 +21,8 @@ sections:
         experience our vibrant environment.
       image: /images/Open_House_Pg_1_PSLE_25_Nov__Cropped_.png
       alt: Image alt text
+      url: https://www.aps.edu.sg/open-house-2025/
+      button: More info
   - infopic:
       title: Caring Teacher Award (CTA) 2026 Nomination
       subtitle: Caring Teacher Awards 2026
