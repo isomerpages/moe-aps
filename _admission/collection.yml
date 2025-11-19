@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - Open House/.keep
       - Admission.md
       - School Fees and Other Charges.md
