@@ -15,7 +15,7 @@ and no lard.</p>
 <h3></h3>
 <p></p>
 <h3><strong>LUNCH</strong></h3>
-<p><strong><a href="https://sites.google.com/view/the-art-menu/home" rel="noopener noreferrer nofollow" target="_blank">VIEW MENU</a></strong>
+<p><strong><a href="https://sites.google.com/view/the-art-menu?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">VIEW MENU</a></strong>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://sites.google.com/view/the-art-menu/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART/The_ART_Lunch_Menu_2025_Sem_1.jpg"></a>
 <h3><strong>DINNER EVENTS</strong></h3>
