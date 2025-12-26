@@ -6,6 +6,8 @@ variant: tiptap
 ---
 <h1>Newsletter</h1>
 <h4>PATHWAYS — APS Newsletter designed by our students from the MediaComm Club!</h4>
+<p><strong>2025 Issue 2</strong>
+</p>
 <h4><a href="https://heyzine.com/flip-book/5188f9bdf2.html" rel="noopener nofollow" target="_blank">2025 Issue 1</a></h4>
 <h4><a href="https://online.fliphtml5.com/qytgd/ieqr/#p=1" rel="noopener nofollow" target="_blank">2024 Issue 2</a></h4>
 <h4><a href="https://online.fliphtml5.com/qytgd/rzon/" rel="noopener nofollow" target="_blank">2024 Issue 1</a></h4>
