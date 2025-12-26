@@ -13,4 +13,46 @@ description: ""
 <h4><strong><a href="https://issuu.com/avantgardemediaarts/docs/assumption_pathway_school_yearbook_2023" rel="noopener noreferrer nofollow" target="_blank">2023 APS Yearbook</a></strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://issuu.com/avantgardemediaarts/docs/assumption_pathway_school_yearbook_2023"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2023_BTAM_Cover.png"></a>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
