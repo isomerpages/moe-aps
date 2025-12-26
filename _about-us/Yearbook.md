@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><a href="https://online.fliphtml5.com/aejkc/hehn/#p=1" rel="noopener nofollow" target="_blank">2025 APS Yearbook</a></strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/aejkc/hehn/#p=1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 aps yearbook.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://online.fliphtml5.com/aejkc/hehn/#p=1"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 aps yearbook.png"></a>
 <p></p>
 <h4><strong><a href="https://issuu.com/avantgardemediaarts/docs/btam_aps_2024" rel="noopener nofollow" target="_blank">2024 APS Yearbook</a></strong></h4>
 <p></p><a class="isomer-image-wrapper" href="https://issuu.com/avantgardemediaarts/docs/btam_aps_2024"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024_BTAM_Cover.png"></a>
