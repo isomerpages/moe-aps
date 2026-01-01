@@ -13,6 +13,38 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>SCHOOL LEADERS</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Chin Hong Ern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Patrine Tang Huay Jiuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal, Instructional and Vocational Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shabnam Lena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal, Academy and Administration</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>STUDENT WELL BEING AND SUPPORT</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -61,6 +93,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>STUDENT DEVELOPMENT</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gabriel Peh Yee Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Character &amp; Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Thim Soon Ivan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head, Co-Curricular Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>INSTRUCTIONAL PROGRAMME</strong>
 </p>
 </td>
@@ -89,7 +146,7 @@ variant: tiptap
 <p>Mr Tan Soh Meng Freddie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer, Head of Department, Info-Communication Technology</p>
+<p>School Staff Developer (Head of Department, Info-Comm Technology)</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +154,7 @@ variant: tiptap
 <p>Mr Manimaran Shyam Luke S/O Samiayya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head, Info-Communication Technology</p>
+<p>Subject Head, Info-Comm Technology</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kamali Mangon</p>
+<p>Mr Kamali Bin Mangon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head, Physical Education</p>
@@ -118,59 +175,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gabriel Peh Yee Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Character &amp; Citizenship Education), Student Development</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Thim Soon Ivan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Character &amp; Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chang Tian Ju</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Student Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>VOCATIONAL EDUCATION</strong>
+<p><strong>VOCATIONAL PROGRAMME AND ACADEMY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Go Tien Lye Daniel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Assumption Pathway Academy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Soon Lai Lionel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Hospitality Operations</p>
 </td>
 </tr>
 <tr>
@@ -183,14 +192,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Hui Sayan Anvie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head, Hospitality Services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ng Tong Knu Nicholas</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,50 +200,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Hui Sayan Anvie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head, Hospitality Services</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Go Tien Lye Daniel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Head of Department, Academy (Baking and Culinary Skills)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Goh Soon Lai Lionel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head, Academy (Hospitality Operations)</p>
 </td>
 </tr>
 <tr>
@@ -259,7 +236,7 @@ variant: tiptap
 <p>Mr Ang Ghim Phong Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Administration &amp; Engagement</p>
+<p>Head of Department, Administration and Engagement</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +252,7 @@ variant: tiptap
 <p>Ms Choo Geok Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Human Resource &amp; Student Matters</p>
+<p>Head of Department, Human Resource and Student Matters</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +260,7 @@ variant: tiptap
 <p>Mr Mohammad Azlan Bin Abd Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Operations</p>
+<p>Operations Manager, Operations</p>
 </td>
 </tr>
 </tbody>
