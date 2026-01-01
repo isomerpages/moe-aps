@@ -13,51 +13,50 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>NAME</p>
+<p>STUDENT WELL BEING AND SUPPORT</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>DESIGNATION</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SCHOOL LEADERS</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Stephen Chin Hong Ern</p>
+<p>Mr Muhamad Alfian Bin Tajuddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Patrine Tang Huay Jiuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal, Instructional Programme &amp; Vocational Education</p>
+<p>Year Head (Year 1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shabnam Lena</p>
+<p>Mr Mohamed Izam Bin Mohamed Hani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal, Academy &amp; Administration</p>
+<p>Year Head (Year 2)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Shukor Bin Kassim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Year Head (Year 3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Yu Keong Christopher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Year 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chang Tian Ju</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department, Student Support</p>
 </td>
 </tr>
 <tr>
@@ -208,8 +207,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YEAR HEAD</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -217,34 +215,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhamad Alfian Bin Tajuddin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head - 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Izam Bin Mohamed Hani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head - 2</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shukor Bin Kassim</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head - 3</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fong Yu Keong Christopher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head - 4</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
