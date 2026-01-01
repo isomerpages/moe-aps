@@ -8,5 +8,6 @@ Personalised Digital Learning Programme (PDLP)
 ====
 
 
-1. [Parents Handbook (I) on Learning with PLD](/files/PDLP/Parent_Handbook__I__2025.pdf)
-2. [Parents Handbook(II) on Learning with PLD](/files/PDLP/Parent_Handbook__II__2025.pdf)
+
+1. [2026 Parent Handbook 1](/files/IP2___Parent_Handbook__I__2026.pdf)
+2. [2026 Parent Handbook 2](/files/IP3___Parent_Handbook__II__2026.pdf)
