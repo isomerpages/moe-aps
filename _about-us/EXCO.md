@@ -233,14 +233,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Ghim Phong Kelvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department, Administration and Engagement</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Ee Sang Serene</p>
 </td>
 <td rowspan="1" colspan="1">
