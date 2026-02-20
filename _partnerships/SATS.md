@@ -21,7 +21,7 @@ than a decade. From assisting with the set-up of APS training restaurant,
 sharing culinary expertise, providing real working experiences, job placements
 and opportunities working with renowned chefs.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPy5Al6lGFb-jsqlFiMWSrrNMGLKI6u34fD-i-PfZmWyl5lFThBkR4LSOMnxcAjeJo4j7b1X35JiSP/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPy5Al6lGFb-jsqlFiMWSrrNMGLKI6u34fD-i-PfZmWyl5lFThBkR4LSOMnxcAjeJo4j7b1X35JiSP/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
