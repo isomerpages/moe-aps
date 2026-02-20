@@ -800,11 +800,11 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>11. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need&nbsp;to
 complete an opt-out form. This form will be communicated to parents at
 the start of the year and is also downloadable&nbsp;<a href="/files/SEd_Option_Annex_A_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
-completed form is to be submitted to the school office by&nbsp;<strong>13 February 2026</strong>.</p>
+completed form is to be submitted to the school office by&nbsp;<strong>19 February 2026</strong>.</p>
 <p>12. Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable&nbsp;<a href="/files/SEd_Option_Annex_B_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> The
-completed form is to be submitted to the school office by&nbsp;<strong>13 February</strong>&nbsp;<strong>2026</strong>.</p>
+completed form is to be submitted to the school office by&nbsp;<strong>19 February</strong>&nbsp;<strong>2026</strong>.</p>
 <p>13. Parents can contact the school at 6279 3000 or email at aps@schools.gov.sg
 for discussion or to seek clarification about the school's Sexuality Education
 programme.</p>
