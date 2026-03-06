@@ -236,7 +236,7 @@ variant: tiptap
 <p>Ms Lee Ee Sang Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head Finance and Procurement</p>
+<p>Head, Finance and Procurement</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ variant: tiptap
 <p>Ms Choo Geok Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head Human Resource and Admin</p>
+<p>Head, Human Resource and Admin</p>
 </td>
 </tr>
 <tr>
