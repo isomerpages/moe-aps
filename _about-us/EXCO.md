@@ -236,7 +236,7 @@ variant: tiptap
 <p>Ms Lee Ee Sang Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Finance</p>
+<p>Head, Finance and Procurement</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@ variant: tiptap
 <p>Ms Choo Geok Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department, Human Resource and Student Matters</p>
+<p>Head, Human Resource and Admin</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ variant: tiptap
 <p>Mr Mohammad Azlan Bin Abd Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager, Operations</p>
+<p>Operations Manager</p>
 </td>
 </tr>
 </tbody>
