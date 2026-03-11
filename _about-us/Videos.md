@@ -4,8 +4,6 @@ permalink: /about-us/videos/
 description: ""
 variant: markdown
 ---
-
-
 ```##### Subscribe🔔 [APS YouTube Channel ](https://www.youtube.com/channel/UCELGcRS7xPL_wnSdZqr2Hcg)
 ```
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vJwl7AA9tw0?si=LapwP8Z_UWjxkWau" height="315" width="560"></iframe>
