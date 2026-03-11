@@ -14,6 +14,14 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
+      title: Term 1 Highlights
+      id: infopic
+      description: APS Students in Action
+      button: Click here
+      url: https://youtu.be/vJwl7AA9tw0
+      image: /images/20260112_092631.jpg
+      alt: Image alt text
+  - infopic:
       title: APS Corporate Video
       id: infopic
       description: Hear from our students sharing their journeys and how the unique
