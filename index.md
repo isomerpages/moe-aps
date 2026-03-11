@@ -14,7 +14,7 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
-      title: Term 1 Highlights
+      title: 2026 Term 1 Highlights
       id: infopic
       description: An exciting start to a new school term filled with adventures, fun
         activities, and memorable experiences that brought our school community
