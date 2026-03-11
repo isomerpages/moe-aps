@@ -2,17 +2,27 @@
 title: Videos
 permalink: /about-us/videos/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-```##### Subscribe🔔 [APS YouTube Channel ](https://www.youtube.com/channel/UCELGcRS7xPL_wnSdZqr2Hcg)
-```
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vJwl7AA9tw0?si=LapwP8Z_UWjxkWau" height="315" width="560"></iframe>
-```
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vJwl7AA9tw0?si=LapwP8Z_UWjxkWau"></iframe>
+</div>
+<p>
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/STCM6KFYrwI?si=Z_RrKJ0hzzA4HRe6" height="315" width="560"></iframe>
-
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/STCM6KFYrwI?si=Z_RrKJ0hzzA4HRe6"></iframe>
+</div>
+<p>
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLzyzUNYhGjzVo6hZkoyPp5nDdfivCVlta" height="315" width="560"></iframe>
-
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/videoseries?list=PLzyzUNYhGjzVo6hZkoyPp5nDdfivCVlta"></iframe>
+</div>
+<p>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dbu3egnwCEM?list=PLzyzUNYhGjzU3p0nDHeRcPouqllRooBvV" title="CNA | Don't Call Us Beaten | E04: Teen Spirit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Dbu3egnwCEM?list=PLzyzUNYhGjzU3p0nDHeRcPouqllRooBvV"></iframe>
+</div>
+<p></p>
