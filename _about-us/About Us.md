@@ -22,9 +22,13 @@ particularly in foundation subjects and character education.</p>
 <p>Currently, APS is managed by the St Gabriel’s Foundation under the Montfort
 Brothers of St Gabriel, an order of the Catholic Teaching Brothers founded
 by St Louis Marie de Montfort.</p>
+<h2>Term 1 Highlights</h2>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vJwl7AA9tw0?si=fFhFmTdKF0i-40zj"></iframe>
+</div>
 <h2>APS Corporate Video</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/STCM6KFYrwI?si=Z_RrKJ0hzzA4HRe6"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/STCM6KFYrwI?si=Z_RrKJ0hzzA4HRe6"></iframe>
 </div>
 <h2>Purpose</h2>
 <p>Assumption Pathway School is a Catholic Educational Institution transforming
