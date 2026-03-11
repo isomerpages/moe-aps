@@ -16,7 +16,9 @@ sections:
   - infopic:
       title: Term 1 Highlights
       id: infopic
-      description: APS Students in Action
+      description: An exciting start to a new school term filled with adventures, fun
+        activities, and memorable experiences that brought our school community
+        together.
       button: Click here
       url: https://youtu.be/vJwl7AA9tw0
       image: /images/20260112_092631.jpg
