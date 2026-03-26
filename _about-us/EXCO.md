@@ -22,6 +22,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Stephen Chin Hong Ern</p>
+<p>Stephen_Chin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
