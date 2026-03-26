@@ -4,8 +4,9 @@ permalink: /partnerships/sats/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/SATS/SATS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SATS/Sats_Logo___Red_Logo_2026.jpg">
 </div>
 <p>
 <br>
