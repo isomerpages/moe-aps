@@ -18,7 +18,7 @@ sections:
       id: infopic
       description: ✨From Talent to Triumph - our students shine as they learn and grow
         to overcome new challenges and experiences from Y4 IEP to the
-        international stages.
+        international stage.
       button: Click here
       url: https://youtu.be/AYyHMfJ8tjI
       image: /images/Learning_Fiesta_APSwebsite.jpg
