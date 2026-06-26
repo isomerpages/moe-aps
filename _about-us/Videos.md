@@ -8,6 +8,10 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AYyHMfJ8tjI?si=l3U76n2Hr6y1BNfK"></iframe>
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vJwl7AA9tw0?si=KwBbNcNH1y6a7c5A"></iframe>
+</div>
 <p>
 <br>
 </p>
