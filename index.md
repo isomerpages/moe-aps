@@ -16,8 +16,8 @@ sections:
   - infopic:
       title: 2026 Term 2 Highlights
       id: infopic
-      description: ✨From Talent to Triumph - our students shine as they learn and grow
-        to overcome new challenges and experiences from Y4 IEP to the
+      description: ✨From Talent to Triumph - our students shine as they learn new
+        experiences and grow to overcome new challenges from Y4 IEP to the
         international stage.
       button: Click here
       url: https://youtu.be/AYyHMfJ8tjI
