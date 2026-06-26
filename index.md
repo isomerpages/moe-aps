@@ -16,9 +16,9 @@ sections:
   - infopic:
       title: 2026 Term 2 Highlights
       id: infopic
-      description: ✨From Y4 industry experiential programmes to our student talents
-        competing on national and internal stages, it's been an incredible term
-        to remember!
+      description: ✨From Talent to Triumph - our students shine as they learn and grow
+        to overcome new challenges and experiences from Y4 IEP to the
+        international stages.
       button: Click here
       url: https://youtu.be/AYyHMfJ8tjI
       image: /images/Learning_Fiesta_APSwebsite.jpg
