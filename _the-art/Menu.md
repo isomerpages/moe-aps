@@ -11,17 +11,11 @@ to availability.
 and no lard.</p>
 <h3><strong>BREAKFAST</strong></h3>
 <p><strong><a href="https://sites.google.com/view/the-art-menu?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">VIEW MENU</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Post_2026_T3_Breakfast_Menu.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://www.aps.edu.sg/the-art/menu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Post_2026_T3_Breakfast_Menu.png"></a>
 <p></p>
 <h3><strong>LUNCH</strong></h3>
 <p><strong><a href="https://sites.google.com/view/the-art-menu?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">VIEW MENU</a></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Post_2026_Lunch_Menu_T3.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://www.aps.edu.sg/the-art/menu/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Social_Post_2026_Lunch_Menu_T3.png"></a>
 <h3><strong>DINNER EVENTS</strong></h3>
 <p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSdI-TdH1y0HvXqIc3FgzGN1Muke7F3Ty1_owrAxsk_-ImXATw/viewform" rel="noopener noreferrer nofollow" target="_blank">JOIN OUR MAILING LIST</a></strong>
 </p>
