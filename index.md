@@ -14,14 +14,14 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
-      title: 2026 Term 1 Highlights
+      title: 2026 Term 2 Highlights
       id: infopic
-      description: An exciting start to a new school term filled with adventures, fun
-        activities, and memorable experiences that brought our school community
-        together.
+      description: ✨From Y4 industry experiential programmes to our student talents
+        competing on national and internal stages, it's been an incredible term
+        to remember!
       button: Click here
-      url: https://youtu.be/vJwl7AA9tw0
-      image: /images/20260112_092631.jpg
+      url: https://youtu.be/AYyHMfJ8tjI
+      image: /images/Learning_Fiesta_APSwebsite.jpg
       alt: Image alt text
   - infopic:
       title: APS Corporate Video
