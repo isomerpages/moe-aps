@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2026_Form_Teacher.pdf" rel="noopener nofollow" target="_blank">2026 Form Teachers</a>
+<p><a href="/files/Timetable/Sem 2 (2026)/2026_Form_Teacher_v2.pdf" rel="noopener nofollow" target="_blank">2026 Form Teachers (Sem 2)</a>
 </p>
 </li>
 <li>
