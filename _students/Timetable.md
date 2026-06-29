@@ -4,7 +4,11 @@ permalink: /timetable/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Timetable 2026(as of 2 Jan)</strong></h2>
+<h2><strong>Timetable 2026 (Sem 2)</strong></h2>
+<blockquote>
+<p><em>As of 29 June 2026</em>
+</p>
+</blockquote>
 <h4><a href="/files/Timetable/Sem 2 (2026)/All_Y1_Classes.pdf" rel="noopener nofollow" target="_blank">APS Year 1 Timetable (2026 Sem 2)</a></h4>
 <h4><a href="/files/Timetable/Sem 2 (2026)/All_Y2_Classes.pdf" rel="noopener nofollow" target="_blank">APS Year 2 Timetable (2026 Sem 2)</a></h4>
 <h4><a href="/files/Timetable/Sem 2 (2026)/All_Y3_Classes.pdf" rel="noopener nofollow" target="_blank">APS Year 3 Timetable (2026 Sem 2)</a></h4>
