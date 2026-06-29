@@ -7,6 +7,10 @@ variant: tiptap
 <h1>Parent</h1>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Parents/Term Letters/2026_Term_3_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 3 Letter</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Parents/Term Letters/2026_Term_2_Parents_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Term 2 Letter</a>
 </p>
 </li>
@@ -15,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2026_Form_Teacher.pdf" rel="noopener nofollow" target="_blank">2026 Form Teachers</a>
+<p><a href="/files/Timetable/Sem 2 (2026)/2026_Form_Teacher_v2.pdf" rel="noopener nofollow" target="_blank">2026 Form Teachers (Sem 2)</a>
 </p>
 </li>
 <li>
