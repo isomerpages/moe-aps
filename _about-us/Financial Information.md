@@ -99,11 +99,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FY2023 Jan to Dec (S$'000)</strong>
+<p><strong>FY2024 Jan to Dec (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FY2024 Jan to Dec (S$'000)</strong>
+<p><strong>FY2025 Jan to Dec (S$'000)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,20 +120,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>102
-<br>208</p>
+<br>112
+<br>269</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>112
-<br>269
+<br>64
+<br>743
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>10%
-<br>29%</p>
+<br>-43%
+<br>176%</p>
 </td>
 </tr>
 <tr>
@@ -163,13 +163,13 @@ variant: tiptap
 <p>Grants / Sponsorships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15,972</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>16,884</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6%</p>
+<p>18,072</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7%</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ variant: tiptap
 <p>Investment income</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>543</p>
+<p>492</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>492</p>
@@ -210,12 +210,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>421
+<p>240
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3%</p>
+<p>-51%</p>
 </td>
 </tr>
 <tr>
@@ -223,13 +223,13 @@ variant: tiptap
 <p>Total Income</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,232</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>18,178</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5%</p>
+<p>19,520</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7%</p>
 </td>
 </tr>
 </tbody>
@@ -288,16 +288,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br>
-<br>476
-<br>51
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
 <br>480
 <br>-
 <br>
@@ -306,8 +296,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>
+<br>526
+<br>10
 <br>
-<br>1%
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>10%
 <br>-</p>
 </td>
 </tr>
@@ -317,13 +314,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19,307</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>20,203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5%</p>
+<p>20,548</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2%</p>
 </td>
 </tr>
 <tr>
@@ -345,13 +342,13 @@ variant: tiptap
 <p>Total Expenditure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19,834</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>20,683</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4%</p>
+<p>21,084</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2%</p>
 </td>
 </tr>
 <tr>
@@ -359,17 +356,17 @@ variant: tiptap
 <p>Surplus / (Deficit)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(-2,602)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>(-2,505)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-4%</p>
+<p>(-1,564)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-38%</p>
 </td>
 </tr>
 </tbody>
@@ -402,10 +399,10 @@ of the charity.</p>
 <p>Balance Sheet</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2023 Jan to Dec (S$'000)</p>
+<p>FY2024 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2024 Jan to Dec (S$'000)</p>
+<p>FY2025 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>% Increase/ (Decrease)</p>
@@ -433,10 +430,10 @@ of the charity.</p>
 <p>16,036</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15,093</p>
+<p>14,149</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-6%</p>
+<p>-12%</p>
 </td>
 </tr>
 <tr>
@@ -449,10 +446,10 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,182</p>
+<p>1,176</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>44%</p>
+<p>43%</p>
 </td>
 </tr>
 <tr>
@@ -493,10 +490,10 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>203</p>
+<p>196</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-26%</p>
+<p>-28%</p>
 </td>
 </tr>
 <tr>
@@ -507,10 +504,10 @@ of the charity.</p>
 <p>24,935</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,573</p>
+<p>19,876</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-30%</p>
+<p>-20%</p>
 </td>
 </tr>
 <tr>
@@ -537,11 +534,11 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>34,051<br></strong>
+<p><strong>35,397<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-19%</strong>
+<p><strong>-16%</strong>
 </p>
 </td>
 </tr>
@@ -573,10 +570,10 @@ of the charity.</p>
 <p>17,513</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14,257</p>
+<p>12,596</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-19%</p>
+<p>-28%</p>
 </td>
 </tr>
 <tr>
@@ -588,12 +585,12 @@ of the charity.</p>
 <p>766</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>655
+<p>556
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-14%</p>
+<p>-27%</p>
 </td>
 </tr>
 <tr>
@@ -621,11 +618,11 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14,912</strong>
+<p><strong>13,152</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-18%</strong>
+<p><strong>-28%</strong>
 </p>
 </td>
 </tr>
@@ -656,10 +653,10 @@ of the charity.</p>
 <p>16,799</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16,216</p>
+<p>6,980</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-3%</p>
+<p>-58%</p>
 </td>
 </tr>
 <tr>
@@ -670,10 +667,10 @@ of the charity.</p>
 <p>6,988</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2,923</p>
+<p>15,265</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-58%</p>
+<p>118%</p>
 </td>
 </tr>
 <tr>
@@ -686,11 +683,11 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19,139</strong>
+<p><strong>22,245</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-20%</strong>
+<p><strong>-6%</strong>
 </p>
 </td>
 </tr>
@@ -718,11 +715,11 @@ of the charity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>34,051</strong>
+<p><strong>35,397</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>-19%</strong>
+<p><strong>-16%</strong>
 </p>
 </td>
 </tr>
@@ -748,10 +745,10 @@ are used, and not the capital sum.</p>
 <p>Other Information</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2023 Jan to Dec (S$'000)</p>
+<p>FY2024 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FY2024 Jan to Dec (S$'000)</p>
+<p>FY2025 Jan to Dec (S$'000)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>% Increase/ (Decrease)</p>
@@ -779,10 +776,10 @@ are used, and not the capital sum.</p>
 <p>129</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>125</p>
+<p>127</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-3%</p>
+<p>-2%</p>
 </td>
 </tr>
 <tr>
@@ -793,10 +790,10 @@ are used, and not the capital sum.</p>
 <p>14,364</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14,693</p>
+<p>15,393</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2%</p>
+<p>7%</p>
 </td>
 </tr>
 <tr>
