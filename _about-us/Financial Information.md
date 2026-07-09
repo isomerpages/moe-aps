@@ -35,7 +35,8 @@ variant: tiptap
 <br>
 <br>Name of Contact Person: Mr Stephen Chin
 <br>Telephone No: 62793000
-<br>Fax No: 67622857</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
@@ -180,7 +181,7 @@ variant: tiptap
 <p>492</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>492</p>
+<p>240</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-9%</p>
@@ -210,7 +211,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>240
+<p>401
 <br>
 </p>
 </td>
