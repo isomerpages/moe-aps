@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Kam Yuen</p>
+<p>Mr Bernard Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
@@ -22,10 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Ghana</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -86,23 +86,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Neville Kiang Lai Kuong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Siow Wee Loong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Henry Goh Poh Huat</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lilian Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
