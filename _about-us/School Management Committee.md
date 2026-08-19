@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Goh</p>
+<p>Mr Goh Khong Wee Bernard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lilian Lee</p>
+<p>Ms Lee Choo Cheng Lillian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
