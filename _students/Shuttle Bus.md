@@ -8,8 +8,9 @@ description: ""
 <p>Available based on first-come-first-served basis at <strong>2 pickup points</strong> below.</p>
 <p></p>
 <h3><strong>1. Opposite Lakeside MRT</strong></h3>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Lakeside_Pickup_Point.png">
+<img style="width: 100%" height="auto" width="100%" alt="APS Shuttle Service – Opp Lakeside MRT" src="/images/Shuttle Bus/APS_Shuttle_bus_opp_lakeside_MRT.jpg">
 </div>
 <h4><strong>Near overhead bridge beside Bus Stop (ID 28099)</strong></h4>
 <div class="isomer-image-wrapper">
