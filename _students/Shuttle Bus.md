@@ -18,7 +18,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Pick_up_Drop_off_Point_Lakeside.jpg">
 </div>
-<p><a href="https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5</a>
+<p><a href="https://maps.app.goo.gl/h4ioiQSVrebT7FDy5" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5</a>
 </p>
 <hr>
 <h3><strong>2. Near Woodlands MRT Exit 4</strong></h3>
