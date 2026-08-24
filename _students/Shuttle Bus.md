@@ -13,8 +13,9 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="APS Shuttle Service – Opp Lakeside MRT" src="/images/Shuttle Bus/APS_Shuttle_bus_opp_lakeside_MRT.jpg">
 </div>
 <h4><strong>Near overhead bridge beside Bus Stop (ID 28099)</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Opp_Lakeside_MRT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Pick_up_Drop_off_Point_Lakeside.jpg">
 </div>
 <p><a href="https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5</a>
 </p>
