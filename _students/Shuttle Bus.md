@@ -8,25 +8,30 @@ description: ""
 <p>Available based on first-come-first-served basis at <strong>2 pickup points</strong> below.</p>
 <p></p>
 <h3><strong>1. Opposite Lakeside MRT</strong></h3>
+<h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Lakeside_Pickup_Point.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Lake_side_map.jpg">
 </div>
 <h4><strong>Near overhead bridge beside Bus Stop (ID 28099)</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Opp_Lakeside_MRT.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Pick_up_Drop_off_Point_Lakeside.jpg">
 </div>
-<p><a href="https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5</a>
+<p><a href="https://maps.app.goo.gl/h4ioiQSVrebT7FDy5" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/PNK5PfWhoPeJ4Ekv5</a>
 </p>
 <hr>
 <h3><strong>2. Near Woodlands MRT Exit 4</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Pickup_Point.png">
 </div>
+<h4></h4>
 <h4><strong>Woodlands Ave 2, opp Blk 892C, near Bus Stop (ID 46639)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shuttle Bus/Woodlands_Bus_Stop.png">
 </div>
-<p><a href="https://maps.app.goo.gl/avFPnbHBf5m48HsL9" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/avFPnbHBf5m48HsL9</a>
+<p></p>
+<p><a href="https://maps.app.goo.gl/wbxt7e6SbVHRNM9i6" rel="noopener noreferrer nofollow" target="_blank">https://maps.app.goo.gl/avFPnbHBf5m48HsL9</a>
 </p>
 <hr>
 <p></p>
