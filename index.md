@@ -14,14 +14,13 @@ sections:
       background: /images/APS_Progs.jpg
       title: Ready for Work and Life
   - infopic:
-      title: 2026 Term 2 Highlights
+      title: 2026 Term 3 Highlights
       id: infopic
-      description: ✨From Talent to Triumph - our students shine as they learn new
-        experiences and grow to overcome new challenges from Y4 IEP to the
-        international stage.
+      description: ✨This term was filled with heart and talent from vibrant national
+        celebrations,  to expressing heartfelt gratitude to teachers & staff.
       button: Click here
-      url: https://youtu.be/AYyHMfJ8tjI
-      image: /images/Learning_Fiesta_APSwebsite.jpg
+      url: https://youtu.be/lHFAWlWK8Ow
+      image: /images/ND_celeb.jpg
       alt: Image alt text
   - infopic:
       title: APS Corporate Video
